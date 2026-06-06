@@ -218,11 +218,19 @@ const colourList = [{
         word: "ACMC",
         style: "color: #38ff4c; font-weight: bold;"
     },
+    {
+        word: "NC",
+        style: "color: #68da74; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "NC",
+    explanationText: "National Congress"
     },
     {
     searchString: "ACMC",
