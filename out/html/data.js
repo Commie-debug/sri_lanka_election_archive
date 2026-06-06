@@ -162,6 +162,10 @@ const colourList = [{
         word: "SMBP",
         style: "color: #00008B; font-weight: bold;"
     },
+    {
+        word: "Left & Democratic Alliance",
+        style: "color: #ff0033b5; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
