@@ -1140,6 +1140,12 @@ table {
 .seat.cpc {
     fill: #65000B;
 }
+.seat.epdp {
+    fill: #F0BC02;
+}
+.seat.pa {
+    fill: #0202d4;
+}
 .seat.independent {
     fill: #808080;
 }
