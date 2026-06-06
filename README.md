@@ -1,5 +1,3 @@
-An alternate history game set in Sri Lanka during the turbulent 1980s. Playing as the opposition SLFP as the pearl of the Indian ocean slips further in violence, revolt and civil war. 
+An attempt at a comprehensive archive of every Sri Lankan parliamentary and presidential election between 1947 and 2024.
 
-Can you win back power from the UNP?, and can you bring Sri Lanka from the brink?
-
-This game is a large-scale modification of Social Democracy: An Alternate History by AutumnChen
+This archive is a large-scale modification Beeshana Kalaya: An Alternate History, which is itself a modification of Social Democracy: An Alternate History by AutumnChen
