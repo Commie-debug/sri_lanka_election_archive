@@ -1099,7 +1099,7 @@ table {
     fill: #9C1600;
 }
 .seat.vacant {
-    fill: #808080;
+    fill: #dfdfdf;
 }
 .seat.itak {
     fill: #ffd000;
