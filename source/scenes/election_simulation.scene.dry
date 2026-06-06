@@ -2160,8 +2160,8 @@ on-display: {!
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} National Congress {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} National Freedom Front {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} Democratic Left Front {!</td><td>!} -% {!</td><td></td></tr>!}
-{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} CWC {!</td><td>!} -% {!</td><td></td></tr>!}
-{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} UCPF {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} CWC {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} UCPF {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} All Ceylon Muslim Congress {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} MEP {!</td><td>!} -% {!</td><td></td></tr>!}
 
@@ -2172,8 +2172,8 @@ on-display: {!
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} Sri Lanka Muslim Congress {!</td><td>!} -% {!</td><td></td></tr>!}
 
 {!<tr style="background-color: transparent;"><td><strong>Democratic National Alliance</strong></td><td><strong>7</strong></td><td><strong>5.49%</strong></td><td></td></tr>!}
-{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #d5a112'> </div> !} NDF {!</td><td>!} -% {!</td><td></td></tr>!}
-{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #d5a112'> </div> !} JVP {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #ffd000'> </div> !} NDF {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #ffd000'> </div> !} JVP {!</td><td>!} -% {!</td><td></td></tr>!}
 
 {!<tr style="background-color: transparent;"><td><strong>Tamil National Alliance</strong></td><td><strong>22</strong></td><td><strong>6.84%</strong></td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #d5a112'> </div> !} ITAK {!</td><td>!} -% {!</td><td></td></tr>!}
