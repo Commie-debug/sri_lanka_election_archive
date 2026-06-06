@@ -222,11 +222,19 @@ const colourList = [{
         word: "NC",
         style: "color: #68da74; font-weight: bold;"
     },
+    {
+        word: "SLPFA",
+        style: "color: #800020; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "SLPFA",
+    explanationText: "Sri Lanka Peoples Freedom Alliance"
     },
     {
     searchString: "NC",
