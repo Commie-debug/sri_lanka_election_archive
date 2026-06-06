@@ -190,11 +190,19 @@ const colourList = [{
         word: "JHU",
         style: "color: #eac42d; font-weight: bold;"
     },
+    {
+        word: "NDF",
+        style: "color: #006400; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "NDF",
+    explanationText: "New Democratic Front"
     },
     {
     searchString: "JHU",

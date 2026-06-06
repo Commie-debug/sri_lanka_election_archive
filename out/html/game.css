@@ -1164,6 +1164,9 @@ table {
 .seat.tna {
     fill: #d5a112;
 }
+.seat.ndf {
+    fill: #006400;
+}
 .seat.independent {
     fill: #808080;
 }
