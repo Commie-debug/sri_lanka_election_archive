@@ -158,11 +158,19 @@ const colourList = [{
         word: "PA",
         style: "color: #0202d4; font-weight: bold;"
     },
+    {
+        word: "SMBP",
+        style: "color: #00008B; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "SMBP",
+    explanationText: "Sinhalaye Mahasammatha Bhoomiputra Pakshaya <br> Motherland People's Party"
     },
     {
     searchString: "UNP",
