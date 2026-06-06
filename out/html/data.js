@@ -194,11 +194,43 @@ const colourList = [{
         word: "NDF",
         style: "color: #006400; font-weight: bold;"
     },
+    {
+        word: "DNA",
+        style: "color: #ffd000; font-weight: bold;"
+    },
+    {
+        word: "TNPF",
+        style: "color: #eac42d; font-weight: bold;"
+    },
+    {
+        word: "TMVP",
+        style: "color: #632e2e; font-weight: bold;"
+    },
+    {
+        word: "SLP",
+        style: "color: #0c95ad; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "SLP",
+    explanationText: "Sri Lanka Labour Party"
+    },
+    {
+    searchString: "TMVP",
+    explanationText: "Tamil Makkal Viduthalai Pullikal"
+    },
+    {
+    searchString: "TNPF",
+    explanationText: "Tamil National People's Front"
+    },
+    {
+    searchString: "DNA",
+    explanationText: "Democratic National Alliance"
     },
     {
     searchString: "NDF",

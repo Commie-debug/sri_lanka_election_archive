@@ -1167,6 +1167,18 @@ table {
 .seat.ndf {
     fill: #006400;
 }
+.seat.dna {
+    fill: #ffd000;
+}
+.seat.tnpf {
+    fill: #eac42d;
+}
+.seat.tmvp {
+    fill: #632e2e;
+}
+.seat.slp {
+    fill: #0c95ad;
+}
 .seat.independent {
     fill: #808080;
 }
