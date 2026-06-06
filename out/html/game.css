@@ -1182,6 +1182,9 @@ table {
 .seat.independent {
     fill: #808080;
 }
+.seat.unfgg {
+    fill: #006400;
+}
 .seat.vacant {
     fill: #dfdfdf;
 }

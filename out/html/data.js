@@ -195,6 +195,10 @@ const colourList = [{
         style: "color: #006400; font-weight: bold;"
     },
     {
+        word: "UNFGG",
+        style: "color: #006400; font-weight: bold;"
+    },
+    {
         word: "DNA",
         style: "color: #ffd000; font-weight: bold;"
     },
@@ -215,6 +219,10 @@ const colourList = [{
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "UNFGG",
+    explanationText: "United National Front for Good Governance"
     },
     {
     searchString: "SLP",
