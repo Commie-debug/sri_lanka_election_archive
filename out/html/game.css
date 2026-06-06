@@ -1185,6 +1185,9 @@ table {
 .seat.unfgg {
     fill: #006400;
 }
+.seat.acmc {
+    fill: #38ff4c;
+}
 .seat.vacant {
     fill: #dfdfdf;
 }
