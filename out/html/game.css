@@ -1143,6 +1143,9 @@ table {
 .seat.pa {
     fill: #0202d4;
 }
+.seat.upfa {
+    fill: #0202d4;
+}
 .seat.smbp {
     fill: #00008B;
 }
@@ -1151,6 +1154,12 @@ table {
 }
 .seat.sh {
     fill: #eac42d;
+}
+.seat.unf {
+    fill: #006400;
+}
+.seat.tna {
+    fill: #d5a112;
 }
 .seat.independent {
     fill: #808080;

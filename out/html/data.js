@@ -159,6 +159,10 @@ const colourList = [{
         style: "color: #0202d4; font-weight: bold;"
     },
     {
+        word: "UPFA",
+        style: "color: #0202d4; font-weight: bold;"
+    },
+    {
         word: "SMBP",
         style: "color: #00008B; font-weight: bold;"
     },
@@ -167,12 +171,20 @@ const colourList = [{
         style: "color: #ff0033b5; font-weight: bold;"
     },
     {
-        word: "National Unity Alliance",
+        word: "NUA",
         style: "color: #2DCF3E; font-weight: bold;"
     },
     {
-        word: "Sinhala Heritage",
+        word: "SH",
         style: "color: #eac42d; font-weight: bold;"
+    },
+    {
+        word: "TNA",
+        style: "color: #d5a112; font-weight: bold;"
+    },
+    {
+        word: "UNF",
+        style: "color: #006400; font-weight: bold;"
     },
 ];
 
@@ -181,11 +193,23 @@ const tooltipList = [{
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
     },
     {
-    searchString: "Sinhala Heritage",
+    searchString: "UPFA",
+    explanationText: "United People's Freedom Alliance"
+    },
+    {
+    searchString: "UNF",
+    explanationText: "United National Front"
+    },
+    {
+    searchString: "SH",
     explanationText: "Sinhala Heritage"
     },
     {
-    searchString: "National Unity Alliance",
+    searchString: "TNA",
+    explanationText: "Tamil National Alliance"
+    },
+    {
+    searchString: "NUA",
     explanationText: "National Unity Alliance"
     },
     {
@@ -279,10 +303,6 @@ const tooltipList = [{
     {
     searchString: "EPDP",
     explanationText: "<img src=img/logos/EPDP_Logo.png> Eelam Peoples Democratic Party"
-    },
-    {
-    searchString: "TNA",
-    explanationText: "<img src=img/logos/TNA_Logo.png> Tamil National Army"
     },
     {
     searchString: "ENDLF",
