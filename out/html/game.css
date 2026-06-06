@@ -1146,6 +1146,12 @@ table {
 .seat.smbp {
     fill: #00008B;
 }
+.seat.nua {
+    fill: #2DCF3E;
+}
+.seat.sh {
+    fill: #eac42d;
+}
 .seat.independent {
     fill: #808080;
 }

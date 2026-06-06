@@ -166,11 +166,27 @@ const colourList = [{
         word: "Left & Democratic Alliance",
         style: "color: #ff0033b5; font-weight: bold;"
     },
+    {
+        word: "National Unity Alliance",
+        style: "color: #2DCF3E; font-weight: bold;"
+    },
+    {
+        word: "Sinhala Heritage",
+        style: "color: #eac42d; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "Sinhala Heritage",
+    explanationText: "Sinhala Heritage"
+    },
+    {
+    searchString: "National Unity Alliance",
+    explanationText: "National Unity Alliance"
     },
     {
     searchString: "SMBP",
