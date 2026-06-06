@@ -186,11 +186,19 @@ const colourList = [{
         word: "UNF",
         style: "color: #006400; font-weight: bold;"
     },
+    {
+        word: "JHU",
+        style: "color: #eac42d; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "JHU",
+    explanationText: "Jathika Hela Urumaya <br> National Heritage Party"
     },
     {
     searchString: "UPFA",
