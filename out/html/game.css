@@ -1194,6 +1194,9 @@ table {
 .seat.slpfa {
     fill: #800020;
 }
+.seat.sjb {
+    fill: #019f01;
+}
 .seat.vacant {
     fill: #dfdfdf;
 }

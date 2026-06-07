@@ -226,11 +226,19 @@ const colourList = [{
         word: "SLPFA",
         style: "color: #800020; font-weight: bold;"
     },
+    {
+        word: "SJB",
+        style: "color: #019f01; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "SJB",
+    explanationText: "Samagi Jana Balawegaya"
     },
     {
     searchString: "SLPFA",
