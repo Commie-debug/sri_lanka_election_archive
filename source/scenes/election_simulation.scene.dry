@@ -1244,7 +1244,7 @@ on-arrival: {!
     Q.pres_result_11_party = "DUNF";
     Q.pres_result_11_votes = 0.05;
     Q.pres_result_11_color = '#128812';
-    Q.pres_result_11_endorsers = "Left & Democratic Alliance";
+    Q.pres_result_11_endorsers = "DUNF";
     Q.pres_result_12_candidate = "A.W. Premawardhana";
     Q.pres_result_12_party = "Independent";
     Q.pres_result_12_votes = 0.09;
