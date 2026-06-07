@@ -15,4 +15,10 @@ new-page: true
 go-to: election_simulation
 
 @library
-go-to: library
+on-arrival:{!
+if (window.dendryUI.dendryEngine.state.sceneId.startsWith('library')) {
+        window.dendryUI.dendryEngine.goToScene('backSpecialScene');
+    } else {
+        window.dendryUI.dendryEngine.goToScene('library');
+    }
+!}
