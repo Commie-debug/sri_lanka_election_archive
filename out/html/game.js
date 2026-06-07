@@ -1060,8 +1060,9 @@ window.updateSidebarRight = function() {
     window.updateSidebar();
     window.updateSidebarRight();
     setTimeout(function() {
-        d3.select('#sim_parliament').datum(window._parliData).call(parl);
-        if (!el || !d3 || !d3.parliament || !window._parliData || window._parliData.length === 0) return;
+        var els = document.querySelectorAll('#status_parliament');
+        var el = els[els.length - 1];
+        if (!el || !window._parliData || window._parliData.length === 0) return;
         var w = el.parentElement.offsetWidth || 450;
         el.setAttribute('width', w);
         el.setAttribute('height', Math.round(w * 0.50));
@@ -1069,7 +1070,7 @@ window.updateSidebarRight = function() {
         parl.width(w).height(Math.round(w * 0.50)).innerRadiusCoef(0.4);
         parl.enter.fromCenter(false).smallToBig(false);
         parl.exit.toCenter(false).bigToSmall(false);
-        d3.select('#status_parliament').datum(window._parliData).call(parl);
+        d3.select(el).datum(window._parliData).call(parl);
     }, 800);
   };
 
@@ -1090,18 +1091,20 @@ window.updateSidebarRight = function() {
     if (window.dendryUI.dark_mode) {
         document.body.classList.add('dark-mode');
     }
-    window.pinnedCardsDescription = "Advisor cards - actions are only usable once per 6 months.";
     var observer = new MutationObserver(function() {
-        var el = document.getElementById('status_parliament');
-        if (!el || !window._parliData || window._parliData.length === 0) return;
-        var w = el.parentElement.offsetWidth || 450;
-        el.setAttribute('width', w);
-        el.setAttribute('height', Math.round(w * 0.50));
-        var parl = d3.parliament();
-        parl.width(w).height(Math.round(w * 0.50)).innerRadiusCoef(0.4);
-        parl.enter.fromCenter(false).smallToBig(false);
-        parl.exit.toCenter(false).bigToSmall(false);
-        d3.select('#status_parliament').datum(window._parliData).call(parl);
+        setTimeout(function() {
+            var els = document.querySelectorAll('#status_parliament');
+            var el = els[els.length - 1];
+            if (!el || !window._parliData || window._parliData.length === 0) return;
+            var w = el.parentElement.offsetWidth || 450;
+            el.setAttribute('width', w);
+            el.setAttribute('height', Math.round(w * 0.50));
+            var parl = d3.parliament();
+            parl.width(w).height(Math.round(w * 0.50)).innerRadiusCoef(0.4);
+            parl.enter.fromCenter(false).smallToBig(false);
+            parl.exit.toCenter(false).bigToSmall(false);
+            d3.select(el).datum(window._parliData).call(parl);
+        }, 100);
     });
     observer.observe(document.getElementById('content'), { childList: true, subtree: true });
   };

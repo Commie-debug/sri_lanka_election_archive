@@ -32,7 +32,7 @@ Herein contains an archive of every election (and singular referendum) in indepe
 - @2015_Parliament: 2015 Parliamentary Election
 - @2019: 2019 Presidential Election
 - @2020: 2020 Parliamentary Election
-- @2022: 2022 Presidential Election
+- @2022: 2022 Indirect Presidential Election
 - @2024_President: 2024 Presidential Election
 - @2024_Parliament: 2024 Parliamentary Election
 - @return: Leave..
@@ -59,6 +59,22 @@ on-arrival: {!
     window._parliData = _newData;
     if (_changed) { window._parliSig = _newSig; window._parliAnimate = true; }
     else { window._parliAnimate = false; }
+!}
+on-display: {!
+(function() {
+    if (!d3 || !d3.parliament || !window._parliData || window._parliData.length === 0) return;
+    var el = document.getElementById('status_parliament');
+    if (!el) return;
+    var w = el.parentElement.offsetWidth || 450;
+    el.setAttribute('width', w);
+    el.setAttribute('height', Math.round(w * 0.50));
+    var parl = d3.parliament();
+    parl.width(w).height(Math.round(w * 0.50)).innerRadiusCoef(0.4);
+    var animate = window._parliAnimate;
+    parl.enter.fromCenter(animate).smallToBig(animate);
+    parl.exit.toCenter(animate).bigToSmall(animate);
+    d3.select('#status_parliament').datum(window._parliData).call(parl);
+})();
 !}
 
 = 1947 British Ceylon Parliamentary Election Results
