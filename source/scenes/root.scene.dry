@@ -8,7 +8,7 @@ new-page: true
 
 = Sri Lanka Election Archive
 
-**Update: Fuck you Thilini**
+**Update: Fuck you Eran**
 
 - @start: Election Archive
 - @library: Library
@@ -18,5 +18,4 @@ go-to: election_simulation
 
 @library
 on-arrival: {! window.showStats(); !}
-go-to: start_menu_2
 
