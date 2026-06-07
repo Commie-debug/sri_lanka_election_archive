@@ -1721,12 +1721,12 @@ on-arrival: {!
     Q.pres_result_0_party = "SLFP";
     Q.pres_result_0_votes = 50.29;
     Q.pres_result_0_color = '#0202d4';
-    Q.pres_result_0_endorsers = "UPFA, JHU";
+    Q.pres_result_0_endorsers = "UPFA, JHU, JVP";
     Q.pres_result_1_candidate = "Ranil Wickremasinghe";
     Q.pres_result_1_party = "UNP";
     Q.pres_result_1_votes = 48.43;
     Q.pres_result_1_color = '#006400';
-    Q.pres_result_1_endorsers = "UNF";
+    Q.pres_result_1_endorsers = "UNF, UNP, SLMC, CWC";
     Q.pres_result_2_candidate = "Siritunga Jayasuriya";
     Q.pres_result_2_party = "United Socialist Party";
     Q.pres_result_2_votes = 0.36;
