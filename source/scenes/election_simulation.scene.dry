@@ -822,7 +822,7 @@ on-arrival: {!
     
 !}
 
-= = 1988 Sri Lankan Presidential Election Results
+= 1988 Sri Lankan Presidential Election Results
 
 **Voter Turnout:** 55.32%
 
@@ -1681,6 +1681,8 @@ on-display: {!
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #d5a112'> </div> !} ACTC {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #d5a112'> </div> !} EPRLF {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #d5a112'> </div> !} TELO {!</td><td>!} -% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #eac42d'> </div> !} JHU {!</td><td>!} 9 {!</td><td>!} 5.97% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #2DCF3E'> </div> !} SLMC {!</td><td>!} 5 {!</td><td>!} 2.02% {!</td><td></td></tr>!}
 
