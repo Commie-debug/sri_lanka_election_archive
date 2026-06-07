@@ -32,6 +32,7 @@ Herein contains an archive of every election (and singular referendum) in indepe
 - @2015_Parliament: 2015 Parliamentary Election
 - @2019: 2019 Presidential Election
 - @2020: 2020 Parliamentary Election
+- @2022: 2022 Presidential Election
 - @2024_President: 2024 Presidential Election
 - @2024_Parliament: 2024 Parliamentary Election
 - @return: Leave..
@@ -2917,7 +2918,7 @@ on-display: {!
 
 **Voter Turnout:** 99.11%
 
-**Parliament Composition (225 seats)**
+**Voting Composition of Parliament (225 seats)**
 
 {!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
 
@@ -2974,7 +2975,7 @@ on-arrival: {!
     Q.pres_result_5_party = "SMBP";
     Q.pres_result_5_votes = 0.92;
     Q.pres_result_5_color = '#00008B';
-    Q.pres_result_5_endorsers = "SMBP, ";
+    Q.pres_result_5_endorsers = "SMBP, SB";
 
     Q.pres_result_6_candidate = "K.K. Piyadasa";
     Q.pres_result_6_party = "Independent";
@@ -3299,6 +3300,178 @@ on-arrival: {!
 - @2024_Parliament: Next election →
 
 @2024_Parliament
+on-arrival: {!
+    var _newData = [];
+    function _addP(id, legend, seats) {
+        if (seats && seats > 0) _newData.push({ id: id, legend: legend, name: legend, seats: seats });
+    }
+    _addP('npp',  'NPP',  159);
+    _addP('sjb',  'SJB', 40);
+    _addP('ndf',  'NDF', 5);
+    _addP('unp',  'UNP', 5);
+    _addP('slpp',  'SLPP', 3);
+    _addP('itak', 'ITAK', 8);
+    _addP('dtna', 'DTNA', 1);
+    _addP('tnpf', 'TNPF', 1);
+    _addP('sb', 'SB', 1);
+    _addP('slp', 'SLP', 1);
+    _addP('slmc', 'SLMC', 3);
+    _addP('acmc', 'ACMC', 1);
+    var _newSig = JSON.stringify(_newData.map(function(p){ return p.id + p.seats; }));
+    var _changed = (_newSig !== window._parliSig);
+    window._parliData = _newData;
+    if (_changed) { window._parliSig = _newSig; window._parliAnimate = true; }
+    else { window._parliAnimate = false; }
+!}
+on-display: {!
+(function() {
+    if (!d3 || !d3.parliament || !window._parliData || window._parliData.length === 0) return;
+    var el = document.getElementById('status_parliament');
+    if (!el) return;
+    var w = el.parentElement.offsetWidth || 450;
+    el.setAttribute('width', w);
+    el.setAttribute('height', Math.round(w * 0.50));
+    var parl = d3.parliament();
+    parl.width(w).height(Math.round(w * 0.50)).innerRadiusCoef(0.4);
+    var animate = window._parliAnimate;
+    parl.enter.fromCenter(animate).smallToBig(animate);
+    parl.exit.toCenter(animate).bigToSmall(animate);
+    d3.select('#status_parliament').datum(window._parliData).call(parl);
+})();
+!}
+
+= 2024 Sri Lankan Parliamentary Election Results
+
+**Voter Turnout:** 61.26%
+
+**Parliament Composition (225 seats)**
+
+{!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
+
+{!<table>!}
+{!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
+
+{!<tr style="background-color: transparent;"><td><strong>National People's Power</strong></td><td><strong>159</strong></td><td><strong>61.56%</strong></td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #9F005D'> </div> !} JVP {!</td><td>!} -% {!</td><td></td></tr>!}
+
+{!<tr style="background-color: transparent;"><td><strong>Samagi Jana Balawegaya Led Alliance</strong></td><td><strong>40</strong></td><td><strong>17.66%</strong></td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} SJB {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} ACMC {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} JHU {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} SLMC {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} UCPF {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} Democratic Peoples Front {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} Freedom People's Congress {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} Tamil Progressive Alliance {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} National Union of Workers {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} United Progressive Alliance {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} SLFP faction {!</td><td>!} -% {!</td><td></td></tr>!}
+
+{!<tr style="background-color: transparent;"><td><strong>New Democratic Front</strong></td><td><strong>5</strong></td><td><strong>4.49%</strong></td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} UNP {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} CWC {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} MEP {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} NUA {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} NC {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} SLFP faction {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} SLPP faction {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} New Lanka Freedom Party {!</td><td>!} -% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #800020'> </div> !} SLPP {!</td><td>!} 3 {!</td><td>!} 3.14% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #ffd000'> </div> !} ITAK {!</td><td>!} 8 {!</td><td>!} 2.31% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #00008B'> </div> !} SB {!</td><td>!} 1 {!</td><td>!} 1.60% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #2DCF3E'> </div> !} SLMC {!</td><td>!} 3 {!</td><td>!} 0.78% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} United Democratic Voice {!</td><td>!} 0 {!</td><td>!} 0.75% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #006400'> </div> !} UNP {!</td><td>!} 1 {!</td><td>!} 0.59% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #d5a112'> </div> !} DTNA {!</td><td>!} 1 {!</td><td>!} 0.59% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Democratic Left Front {!</td><td>!} 0 {!</td><td>!} 0.46% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #ffd000'> </div> !} DNA {!</td><td>!} 0 {!</td><td>!} 0.41% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #eac42d'> </div> !} TPNF {!</td><td>!} 1 {!</td><td>!} 0.36% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #632e2e'> </div> !} TMVP {!</td><td>!} 0 {!</td><td>!} 0.31% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #38ff4c'> </div> !} ACMC {!</td><td>!} 1 {!</td><td>!} 0.30% {!</td><td></td></tr>!}
+
+{!<tr style="background-color: transparent;"><td><strong>People's Struggle Alliance</strong></td><td><strong>1</strong></td><td><strong>0.27%</strong></td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #000000'> </div> !} Frontline Socialist Party {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #000000'> </div> !} New Democratic M-L Party {!</td><td>!} -% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #F0BC02'> </div> !} EPDP {!</td><td>!} 0 {!</td><td>!} 0.26% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} National Democratic Front {!</td><td>!} 0 {!</td><td>!} 0.23% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} United National Alliance {!</td><td>!} 0 {!</td><td>!} 0.20% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #0c95ad'> </div> !} SLP {!</td><td>!} 1 {!</td><td>!} 0.16% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Devana Parapura {!</td><td>!} 1 {!</td><td>!} 0.15% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Thamizh Makkal Kootani {!</td><td>!} 0 {!</td><td>!} 0.12% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Janasetha Peramuna {!</td><td>!} 0 {!</td><td>!} 0.11% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} National Front for Good Governance {!</td><td>!} 0 {!</td><td>!} 0.08% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} United National Freedom Front {!</td><td>!} 0 {!</td><td>!} 0.07% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Arunalu People's Front {!</td><td>!} 0 {!</td><td>!} 0.07% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} New Independent Front {!</td><td>!} 0 {!</td><td>!} 0.06% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} National Peoples Party {!</td><td>!} 0 {!</td><td>!} 0.06% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #019f7f'> </div> !} OPPP {!</td><td>!} 0 {!</td><td>!} 0.05% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #F7D917'> </div> !} TULF {!</td><td>!} 0 {!</td><td>!} 0.05% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #128812'> </div> !} DUNF {!</td><td>!} 0 {!</td><td>!} 0.04% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Samabima Party {!</td><td>!} 0 {!</td><td>!} 0.04% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Patriotic People's Power {!</td><td>!} 0 {!</td><td>!} 0.04% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #FF2400'> </div> !} EROS {!</td><td>!} 0 {!</td><td>!} 0.03% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Democratic Unity Alliance {!</td><td>!} 0 {!</td><td>!} 0.02% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Socialist Party {!</td><td>!} 0 {!</td><td>!} 0.02% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Jathika Sangwardhena Peramuna {!</td><td>!} 0 {!</td><td>!} 0.02% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #CE2029'> </div> !} United Socialist Party{!</td><td>!} 0 {!</td><td>!} 0.02% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #910000'> </div> !} Socialist Equality Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Freedom People's Front {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} United Peace Alliance {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Lanka Janatha Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #DAEA67'> </div> !} ULPP {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Liberal Democratic Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} New Lanka Freedom Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #FF8080'> </div> !} NSSP {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} All Ceylon Tamil Mahasabha {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Democratic Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #663399'> </div> !} SLMP {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!</table>!}
 
 - @selection: ← Back to archive
 - @return: Leave..

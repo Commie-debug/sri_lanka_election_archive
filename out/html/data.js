@@ -183,6 +183,10 @@ const colourList = [{
         style: "color: #d5a112; font-weight: bold;"
     },
     {
+        word: "DTNA",
+        style: "color: #d5a112; font-weight: bold;"
+    },
+    {
         word: "UNF",
         style: "color: #006400; font-weight: bold;"
     },
@@ -251,6 +255,10 @@ const colourList = [{
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "DTNA",
+    explanationText: "Democratic National Tamil Alliance"
     },
     {
     searchString: "SB",

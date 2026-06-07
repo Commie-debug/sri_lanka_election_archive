@@ -1070,7 +1070,7 @@ window.updateSidebarRight = function() {
         parl.enter.fromCenter(false).smallToBig(false);
         parl.exit.toCenter(false).bigToSmall(false);
         d3.select('#status_parliament').datum(window._parliData).call(parl);
-    }, 100);
+    }, 800);
   };
 
  window.statusTab = "status";
@@ -1091,6 +1091,19 @@ window.updateSidebarRight = function() {
         document.body.classList.add('dark-mode');
     }
     window.pinnedCardsDescription = "Advisor cards - actions are only usable once per 6 months.";
+    var observer = new MutationObserver(function() {
+        var el = document.getElementById('status_parliament');
+        if (!el || !window._parliData || window._parliData.length === 0) return;
+        var w = el.parentElement.offsetWidth || 450;
+        el.setAttribute('width', w);
+        el.setAttribute('height', Math.round(w * 0.50));
+        var parl = d3.parliament();
+        parl.width(w).height(Math.round(w * 0.50)).innerRadiusCoef(0.4);
+        parl.enter.fromCenter(false).smallToBig(false);
+        parl.exit.toCenter(false).bigToSmall(false);
+        d3.select('#status_parliament').datum(window._parliData).call(parl);
+    });
+    observer.observe(document.getElementById('content'), { childList: true, subtree: true });
   };
 
 }());
