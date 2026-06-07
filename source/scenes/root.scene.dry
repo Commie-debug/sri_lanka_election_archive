@@ -8,10 +8,10 @@ new-page: true
 
 = Sri Lanka Election Archive
 
-**Update: Fuck you Aakash**
+**Update: Fuck you Rivith**
 
 - @start: Election Archive
-- @library: Library
+- library: Library
 
 @start
 go-to: election_simulation
