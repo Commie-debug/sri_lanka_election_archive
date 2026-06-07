@@ -3,12 +3,7 @@ new-page: true
 set-bg: img/WIP.jpg
 is-special: true
 on-arrival:{!
-    var sfxLayer = layers['sfx'];
-    if (sfxLayer && sfxLayer.enabled) {
-        var sfxAudio = new Audio('music/sfx/WIP.mp3');
-        sfxAudio.volume = sfxLayer.volume;
-        sfxAudio.play().catch(function() {});
-    }
+    sfxAudio.playSong('music/sfx/WIP.mp3',sfx);
     window.showStats();
 !}
 go-to: menu
