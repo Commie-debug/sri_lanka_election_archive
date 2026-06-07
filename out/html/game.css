@@ -53,12 +53,9 @@ header, #content, footer {
   overflow: auto;
 }
 #content {
-  position: absolute;
-  background-color: var(--content-bg-color);
-  font-size: 1.1em;
-  padding: 1em 1.5em 1.5em 1.5em;
-  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+    max-width: 100%;
 }
+
 footer {
   margin-top: 1em;
   font-size: 0.8em;
@@ -217,8 +214,8 @@ img.inline-img.icon {
 }
 /* This is mostly copied from undum. */
 #mid_panel {
-  margin-left: 600px;
-  max-width: 700px;
+    margin: 0 auto;
+    max-width: 900px;
 }
 
 #page {
@@ -228,13 +225,9 @@ img.inline-img.icon {
 }
 
 #tools_wrapper {
-  position: absolute;
-  width: 100%;
-  max-width: 120em;
-  left: 0;
-  right: 0;
-  margin: 0 auto;
+    display: none;
 }
+
 .tools {
   width: 24rem;
   color: var(--text-color);
