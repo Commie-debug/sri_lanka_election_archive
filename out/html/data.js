@@ -223,6 +223,10 @@ const colourList = [{
         style: "color: #68da74; font-weight: bold;"
     },
     {
+        word: "MNA",
+        style: "color: #68da74; font-weight: bold;"
+    },
+    {
         word: "SLPFA",
         style: "color: #800020; font-weight: bold;"
     },
@@ -230,11 +234,31 @@ const colourList = [{
         word: "SJB",
         style: "color: #019f01; font-weight: bold;"
     },
+    {
+        word: "OPPP",
+        style: "color: #019f7f; font-weight: bold;"
+    },
+    {
+        word: "TPNA",
+        style: "color: #ea2d2d; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "TPNA",
+    explanationText: "Tamil People's National Alliance"
+    },
+    {
+    searchString: "MNA",
+    explanationText: "Muslim National Alliance"
+    },
+    {
+    searchString: "OPPP",
+    explanationText: "Our Power of Peoples Party"
     },
     {
     searchString: "SJB",

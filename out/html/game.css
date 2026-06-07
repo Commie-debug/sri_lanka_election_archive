@@ -1191,11 +1191,20 @@ table {
 .seat.nc {
     fill: #68da74;
 }
+.seat.mna {
+    fill: #68da74;
+}
 .seat.slpfa {
     fill: #800020;
 }
 .seat.sjb {
     fill: #019f01;
+}
+.seat.oppp {
+    fill: #019f7f;
+}
+.seat.tpna {
+    fill: #ea2d2d;
 }
 .seat.vacant {
     fill: #dfdfdf;
