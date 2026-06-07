@@ -1,7 +1,6 @@
 title: library
 new-page: true
 set-bg: img/public_library.jpg
-is-special: true
 go-to: menu
 
 = The Library

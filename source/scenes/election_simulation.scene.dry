@@ -1,5 +1,6 @@
 title: Election Simulation
 set-bg: img/map_2.jpg
+new-page: true
 
 Herein contains an archive of every election (and singular referendum) in independent Sri Lankan history (including the Dominion of Ceylon) until 1989.
 
@@ -8,6 +9,7 @@ Herein contains an archive of every election (and singular referendum) in indepe
 - @return: Leave...
 
 @selection
+new-page: true
 
 - @1947: 1947 Parliamentary Election 
 - @1952: 1952 Parliamentary Election
