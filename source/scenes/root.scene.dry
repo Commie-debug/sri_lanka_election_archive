@@ -1,5 +1,6 @@
 title: Root Scene
 new-page: true
+set-bg: "img/map_2.jpg"
 go-to: post_event if started = 1; start_menu_2 if started = 0
 
 @start_menu_2
