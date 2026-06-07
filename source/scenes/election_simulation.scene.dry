@@ -980,7 +980,7 @@ on-display: {!
 {!<tr><td><div class="box" style='background-color: #CE2029'> </div> !} DPLF {!</td><td>!} 0 {!</td><td>!} 0.33% {!</td><td></td></tr>!}
 {!<tr><td><div class="box" style='background-color: #FDCC01'> </div> !} ACTC{!</td><td>!} 0 {!</td><td>!} 0.14% {!</td><td></td></tr>!}
 
-{!</table>!}"
+{!</table>!}
 
 - @selection: Back to selection menu...
 - @return: Leave...
