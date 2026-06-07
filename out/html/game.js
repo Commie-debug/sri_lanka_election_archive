@@ -1060,7 +1060,7 @@ window.updateSidebarRight = function() {
     window.updateSidebar();
     window.updateSidebarRight();
     setTimeout(function() {
-        var el = document.getElementById('sim_parliament');
+        d3.select('#sim_parliament').datum(window._parliData).call(parl);
         if (!el || !d3 || !d3.parliament || !window._parliData || window._parliData.length === 0) return;
         var w = el.parentElement.offsetWidth || 450;
         el.setAttribute('width', w);
@@ -1069,7 +1069,7 @@ window.updateSidebarRight = function() {
         parl.width(w).height(Math.round(w * 0.50)).innerRadiusCoef(0.4);
         parl.enter.fromCenter(false).smallToBig(false);
         parl.exit.toCenter(false).bigToSmall(false);
-        d3.select('#sim_parliament').datum(window._parliData).call(parl);
+        d3.select('#status_parliament').datum(window._parliData).call(parl);
     }, 100);
   };
 
