@@ -3562,7 +3562,7 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #ffd000'> </div> !} DNA {!</td><td>!} 0 {!</td><td>!} 0.41% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #eac42d'> </div> !} TPNF {!</td><td>!} 1 {!</td><td>!} 0.36% {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #eac42d'> </div> !} TNPF {!</td><td>!} 1 {!</td><td>!} 0.36% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #632e2e'> </div> !} TMVP {!</td><td>!} 0 {!</td><td>!} 0.31% {!</td><td></td></tr>!}
 
