@@ -4,10 +4,9 @@ go-to: post_event if started = 1; start_menu if started = 0
 
 @start_menu
 new-page: true
+go-to: start_menu_2
 
 = Sri Lanka Election Archive
-
-- @start_menu_2: Open archive
 
 @start_menu_2
 on-arrival: {! Q.bg_image = "img/map_2.jpg"; !}
