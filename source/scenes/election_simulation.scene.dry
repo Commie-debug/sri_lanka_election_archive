@@ -1782,9 +1782,6 @@ on-arrival: {!
     Q.pres_result_12_votes = 0.01;
     Q.pres_result_12_color = '#808080';
     Q.pres_result_12_endorsers = "None";
-    //Finish later
-
-
 !}
 
 = 2005 Sri Lankan Presidential Election Results
@@ -1988,9 +1985,7 @@ on-arrival: {!
     Q.pres_result_21_votes = 0.02;
     Q.pres_result_21_color = '#808080';
     Q.pres_result_21_endorsers = "None";
-    //Finish later
-
-
+   
 !}
 
 = 2010 Sri Lankan Presidential Election Results
@@ -2204,20 +2199,36 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #000000'> </div> !} United Democratic Front{!</td><td>!} 0 {!</td><td>!} 0.02% {!</td><td></td></tr>!}
 
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Democratic Unity Alliance {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Eksath Lanka Maha Sabha {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Patriotic National Front {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
 {!<tr><td><div class="box" style='background-color: #000000'> </div> !} All are Citizens, All are Kings {!</td><td>!} 0 {!</td><td>!} 0.1% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #910000'> </div> !} Socialist Equality Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Ruhuna Janatha Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #0c95ad'> </div> !} SLP {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #000000'> </div> !} National People's Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
 
+{!<tr><td><div class="box" style='background-color: #68da74'> </div> !} MNA {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
 {!<tr><td><div class="box" style='background-color: #000000'> </div> !} Liberal Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Muslim Liberation Front {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Ruhuna Janatha Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Akali Illankai Tamil United Front {!</td><td>!} 0 {!</td><td>!} 0.1% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #000000'> </div> !} Ceylon Democratic Unity Alliance {!</td><td>!} 0 {!</td><td>!} 0.1% {!</td><td></td></tr>!}
 
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} New Sinhala Heritage {!</td><td>!} 0 {!</td><td>!} 0.1% {!</td><td></td></tr>!}
+
 {!<tr><td><div class="box" style='background-color: #949494'> </div> !} Independent {!</td><td>!} 0 {!</td><td>!} 0.48% {!</td><td></td></tr>!}
-#<Finish later
+
 {!</table>!}
 
 - @selection: ← Back to archive
@@ -2326,7 +2337,7 @@ on-arrival: {!
     Q.pres_result_19_party = "Sri Lanka National Front";
     Q.pres_result_19_votes = 0.03;
     Q.pres_result_19_color = '#808080';
-    //Finish later
+
 !}
 
 = 2015 Sri Lankan Presidential Election Results
@@ -2462,7 +2473,7 @@ on-display: {!
 
 = 2015 Sri Lankan Parliamentary Election Results
 
-**Voter Turnout:** 61.26%
+**Voter Turnout:** 77.66%
 
 **Parliament Composition (225 seats)**
 
@@ -2543,15 +2554,32 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #000000'> </div> !} New Sinhala Heritage {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
 
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} United Peace Front {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #DAEA67'> </div> !} ULPP {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #00008B'> </div> !} SMBP {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
 {!<tr><td><div class="box" style='background-color: #910000'> </div> !} Socialist Equality Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Sri Lanka National Force {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Liberal Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Democratic Unity Alliance {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #0c95ad'> </div> !} SLP {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #949494'> </div> !} Independent {!</td><td>!} 0 {!</td><td>!} 0.48% {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Sri Lanka Vanguard Party {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Democratic National Movement {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #68da74'> </div> !} MNA {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
+
+{!<tr><td><div class="box" style='background-color: #000000'> </div> !} Independent {!</td><td>!} 0 {!</td><td>!} 0.38% {!</td><td></td></tr>!}
 
 {!</table>!}
 
-#<Finish later
 
 - @selection: ← Back to archive
 - @return: Leave..
@@ -2740,7 +2768,7 @@ on-arrival: {!
 
 = 2019 Sri Lankan Presidential Election Results
 
-**Voter Turnout:** 81.52%
+**Voter Turnout:** 83.72%
 
 {!<svg id="election-results-map" viewBox="0 0 450 850" width="280" height="530" style="display:block; margin:auto; border: 3px solid #3B3B3B;">
   <style>
