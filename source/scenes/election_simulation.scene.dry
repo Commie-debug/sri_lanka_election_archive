@@ -2615,12 +2615,127 @@ on-arrival: {!
     Q.pres_result_10_votes = 0.09;
     Q.pres_result_10_color = '#808080';
     Q.pres_result_10_endorsers = "None";
-    Q.pres_result_11_candidate = "Battaramulle Seelarathana Theroa";
+    Q.pres_result_11_candidate = "Battaramulle Seelarathana Thero";
     Q.pres_result_11_party = "Janasetha Peramuna";
     Q.pres_result_11_votes = 0.09;
     Q.pres_result_11_color = '#808080';
     Q.pres_result_11_endorsers = "None";
-    /*finish later*/
+    Q.pres_result_12_candidate = "Ajantha de Zoysa";
+    Q.pres_result_12_party = "Ruhunu People's Party";
+    Q.pres_result_12_votes = 0.09;
+    Q.pres_result_12_color = '#808080';
+    Q.pres_result_12_endorsers = "None";
+    Q.pres_result_13_candidate = "Anuruddha Polgampola";
+    Q.pres_result_13_party = "Independent";
+    Q.pres_result_13_votes = 0.08;
+    Q.pres_result_13_color = '#808080';
+    Q.pres_result_13_endorsers = "None";
+    Q.pres_result_14_candidate = "Namal Rajapakse";
+    Q.pres_result_14_party = "NUA";
+    Q.pres_result_14_votes = 0.07;
+    Q.pres_result_14_color = '#2DCF3E';
+    Q.pres_result_14_endorsers = "NUA";
+    Q.pres_result_15_candidate = "Jayantha Ketagoda";
+    Q.pres_result_15_party = "Independent";
+    Q.pres_result_15_votes = 0.07;
+    Q.pres_result_15_color = '#808080';
+    Q.pres_result_15_endorsers = "None";
+    Q.pres_result_16_candidate = "Duminda Nagamuwa";
+    Q.pres_result_16_party = "Frontline Socialist Party";
+    Q.pres_result_16_votes = 0.06;
+    Q.pres_result_16_color = '#808080';
+    Q.pres_result_16_endorsers = "None";
+    Q.pres_result_17_candidate = "Aparekke Punnananda Thero";
+    Q.pres_result_17_party = "Independent";
+    Q.pres_result_17_votes = 0.06;
+    Q.pres_result_17_color = '#808080';
+    Q.pres_result_17_endorsers = "None";
+    Q.pres_result_18_candidate = "Subaramanium Gunaratnam";
+    Q.pres_result_18_party = "Our National Front";
+    Q.pres_result_18_votes = 0.06;
+    Q.pres_result_18_color = '#808080';
+    Q.pres_result_18_endorsers = "None";
+    Q.pres_result_19_candidate = "A.S.P. Liyanage";
+    Q.pres_result_19_party = "SLP";
+    Q.pres_result_19_votes = 0.05;
+    Q.pres_result_19_color = '#0c95ad';
+    Q.pres_result_19_endorsers = "None";
+    Q.pres_result_20_candidate = "Piyasiri Wijenayake";
+    Q.pres_result_20_party = "Independent";
+    Q.pres_result_20_votes = 0.03;
+    Q.pres_result_20_color = '#808080';
+    Q.pres_result_20_endorsers = "None";
+    Q.pres_result_21_candidate = "Aruna de Zoysa";
+    Q.pres_result_21_party = "Democratic National Movement";
+    Q.pres_result_21_votes = 0.03;
+    Q.pres_result_21_color = '#808080';
+    Q.pres_result_21_endorsers = "None";
+    Q.pres_result_22_candidate = "Rajiva Wijesinha";
+    Q.pres_result_22_party = "Independent";
+    Q.pres_result_22_votes = 0.03;
+    Q.pres_result_22_color = '#808080';
+    Q.pres_result_22_endorsers = "None";
+    Q.pres_result_23_candidate = "Illiyas Idroos Mohamed";
+    Q.pres_result_23_party = "Independent";
+    Q.pres_result_23_votes = 0.03;
+    Q.pres_result_23_color = '#808080';
+    Q.pres_result_23_endorsers = "None";
+    Q.pres_result_24_candidate = "Siritunga Jayasuriya";
+    Q.pres_result_24_party = "United Socialist Party";
+    Q.pres_result_24_votes = 0.03;
+    Q.pres_result_24_color = '#CE2029';
+    Q.pres_result_24_endorsers = "None";
+    Q.pres_result_25_candidate = "Sarath Keerthirathna";
+    Q.pres_result_25_party = "Independent";
+    Q.pres_result_25_votes = 0.03;
+    Q.pres_result_25_color = '#808080';
+    Q.pres_result_25_endorsers = "None";
+    Q.pres_result_26_candidate = "Sarath Manamendra";
+    Q.pres_result_26_party = "New Sinhala Heritage";
+    Q.pres_result_26_votes = 0.03;
+    Q.pres_result_26_color = '#808080';
+    Q.pres_result_26_endorsers = "None";
+    Q.pres_result_27_candidate = "Pani Wijesiriwardene";
+    Q.pres_result_27_party = "Socialist Equality Party";
+    Q.pres_result_27_votes = 0.02;
+    Q.pres_result_27_color = '#808080';
+    Q.pres_result_27_endorsers = "None";
+    Q.pres_result_28_candidate = "Asoka Wadigamangawa";
+    Q.pres_result_28_party = "Independent";
+    Q.pres_result_28_votes = 0.02;
+    Q.pres_result_28_color = '#808080';
+    Q.pres_result_28_endorsers = "None";
+    Q.pres_result_29_candidate = "A.H.M. Alavi";
+    Q.pres_result_29_party = "Independent";
+    Q.pres_result_29_votes = 0.02;
+    Q.pres_result_29_color = '#808080';
+    Q.pres_result_29_endorsers = "None";
+    Q.pres_result_30_candidate = "Saman Perera";
+    Q.pres_result_30_party = "OPPP";
+    Q.pres_result_30_votes = 0.02;
+    Q.pres_result_30_color = '#019f7f';
+    Q.pres_result_30_endorsers = "None";
+    Q.pres_result_31_candidate = "Priyantha Edirisinghe";
+    Q.pres_result_31_party = "All are Citizens, All are Kings";
+    Q.pres_result_31_votes = 0.02;
+    Q.pres_result_31_color = '#808080';
+    Q.pres_result_31_endorsers = "None";
+    Q.pres_result_32_candidate = "Samaraweera Weerawanni";
+    Q.pres_result_32_party = "Independent";
+    Q.pres_result_32_votes = 0.02;
+    Q.pres_result_32_color = '#808080';
+    Q.pres_result_32_endorsers = "None";
+    Q.pres_result_33_candidate = "Bedde Gamage Nadimithra";
+    Q.pres_result_33_party = "NSSP";
+    Q.pres_result_33_votes = 0.01;
+    Q.pres_result_33_color = '#FF8080';
+    Q.pres_result_33_endorsers = "None";
+    Q.pres_result_34_candidate = "Samansiri Herath";
+    Q.pres_result_34_party = "Independent";
+    Q.pres_result_34_votes = 0.01;
+    Q.pres_result_34_color = '#808080';
+    Q.pres_result_34_endorsers = "None";
+
 !}
 
 = 2019 Sri Lankan Presidential Election Results
@@ -2703,6 +2818,29 @@ on-arrival: {!
 {!<tr><td>!}[+ pres_result_9_candidate +]{!</td><td><span style="color:!}[+ pres_result_9_color +]{!;">!}[+ pres_result_9_party +]{!</span></td><td>!}[+ pres_result_9_votes +]%{!</td><td>!}[+ pres_result_9_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_10_candidate +]{!</td><td><span style="color:!}[+ pres_result_10_color +]{!;">!}[+ pres_result_10_party +]{!</span></td><td>!}[+ pres_result_10_votes +]%{!</td><td>!}[+ pres_result_10_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_11_candidate +]{!</td><td><span style="color:!}[+ pres_result_11_color +]{!;">!}[+ pres_result_11_party +]{!</span></td><td>!}[+ pres_result_11_votes +]%{!</td><td>!}[+ pres_result_11_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_12_candidate +]{!</td><td><span style="color:!}[+ pres_result_12_color +]{!;">!}[+ pres_result_12_party +]{!</span></td><td>!}[+ pres_result_12_votes +]%{!</td><td>!}[+ pres_result_12_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_13_candidate +]{!</td><td><span style="color:!}[+ pres_result_13_color +]{!;">!}[+ pres_result_13_party +]{!</span></td><td>!}[+ pres_result_13_votes +]%{!</td><td>!}[+ pres_result_13_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_14_candidate +]{!</td><td><span style="color:!}[+ pres_result_14_color +]{!;">!}[+ pres_result_14_party +]{!</span></td><td>!}[+ pres_result_14_votes +]%{!</td><td>!}[+ pres_result_14_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_15_candidate +]{!</td><td><span style="color:!}[+ pres_result_15_color +]{!;">!}[+ pres_result_15_party +]{!</span></td><td>!}[+ pres_result_15_votes +]%{!</td><td>!}[+ pres_result_15_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_16_candidate +]{!</td><td><span style="color:!}[+ pres_result_16_color +]{!;">!}[+ pres_result_16_party +]{!</span></td><td>!}[+ pres_result_16_votes +]%{!</td><td>!}[+ pres_result_16_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_17_candidate +]{!</td><td><span style="color:!}[+ pres_result_17_color +]{!;">!}[+ pres_result_17_party +]{!</span></td><td>!}[+ pres_result_17_votes +]%{!</td><td>!}[+ pres_result_17_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_18_candidate +]{!</td><td><span style="color:!}[+ pres_result_18_color +]{!;">!}[+ pres_result_18_party +]{!</span></td><td>!}[+ pres_result_18_votes +]%{!</td><td>!}[+ pres_result_18_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_19_candidate +]{!</td><td><span style="color:!}[+ pres_result_19_color +]{!;">!}[+ pres_result_19_party +]{!</span></td><td>!}[+ pres_result_19_votes +]%{!</td><td>!}[+ pres_result_19_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_20_candidate +]{!</td><td><span style="color:!}[+ pres_result_20_color +]{!;">!}[+ pres_result_20_party +]{!</span></td><td>!}[+ pres_result_20_votes +]%{!</td><td>!}[+ pres_result_20_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_21_candidate +]{!</td><td><span style="color:!}[+ pres_result_21_color +]{!;">!}[+ pres_result_21_party +]{!</span></td><td>!}[+ pres_result_21_votes +]%{!</td><td>!}[+ pres_result_21_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_22_candidate +]{!</td><td><span style="color:!}[+ pres_result_22_color +]{!;">!}[+ pres_result_22_party +]{!</span></td><td>!}[+ pres_result_22_votes +]%{!</td><td>!}[+ pres_result_22_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_23_candidate +]{!</td><td><span style="color:!}[+ pres_result_23_color +]{!;">!}[+ pres_result_23_party +]{!</span></td><td>!}[+ pres_result_23_votes +]%{!</td><td>!}[+ pres_result_23_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_24_candidate +]{!</td><td><span style="color:!}[+ pres_result_24_color +]{!;">!}[+ pres_result_24_party +]{!</span></td><td>!}[+ pres_result_24_votes +]%{!</td><td>!}[+ pres_result_24_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_25_candidate +]{!</td><td><span style="color:!}[+ pres_result_25_color +]{!;">!}[+ pres_result_25_party +]{!</span></td><td>!}[+ pres_result_25_votes +]%{!</td><td>!}[+ pres_result_25_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_26_candidate +]{!</td><td><span style="color:!}[+ pres_result_26_color +]{!;">!}[+ pres_result_26_party +]{!</span></td><td>!}[+ pres_result_26_votes +]%{!</td><td>!}[+ pres_result_26_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_27_candidate +]{!</td><td><span style="color:!}[+ pres_result_27_color +]{!;">!}[+ pres_result_27_party +]{!</span></td><td>!}[+ pres_result_27_votes +]%{!</td><td>!}[+ pres_result_27_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_28_candidate +]{!</td><td><span style="color:!}[+ pres_result_28_color +]{!;">!}[+ pres_result_28_party +]{!</span></td><td>!}[+ pres_result_28_votes +]%{!</td><td>!}[+ pres_result_28_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_29_candidate +]{!</td><td><span style="color:!}[+ pres_result_29_color +]{!;">!}[+ pres_result_29_party +]{!</span></td><td>!}[+ pres_result_29_votes +]%{!</td><td>!}[+ pres_result_29_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_30_candidate +]{!</td><td><span style="color:!}[+ pres_result_30_color +]{!;">!}[+ pres_result_30_party +]{!</span></td><td>!}[+ pres_result_30_votes +]%{!</td><td>!}[+ pres_result_30_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_31_candidate +]{!</td><td><span style="color:!}[+ pres_result_31_color +]{!;">!}[+ pres_result_31_party +]{!</span></td><td>!}[+ pres_result_31_votes +]%{!</td><td>!}[+ pres_result_31_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_32_candidate +]{!</td><td><span style="color:!}[+ pres_result_32_color +]{!;">!}[+ pres_result_32_party +]{!</span></td><td>!}[+ pres_result_32_votes +]%{!</td><td>!}[+ pres_result_32_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_33_candidate +]{!</td><td><span style="color:!}[+ pres_result_33_color +]{!;">!}[+ pres_result_33_party +]{!</span></td><td>!}[+ pres_result_33_votes +]%{!</td><td>!}[+ pres_result_33_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_34_candidate +]{!</td><td><span style="color:!}[+ pres_result_34_color +]{!;">!}[+ pres_result_34_party +]{!</span></td><td>!}[+ pres_result_34_votes +]%{!</td><td>!}[+ pres_result_34_endorsers +]{!</td></tr>!}
 
 {!</table>!}
 
@@ -2754,9 +2892,9 @@ on-display: {!
 })();
 !}
 
-= 2015 Sri Lankan Parliamentary Election Results
+= 2020 Sri Lankan Parliamentary Election Results
 
-**Voter Turnout:** 61.26%
+**Voter Turnout:** 75.89%
 
 **Parliament Composition (225 seats)**
 
@@ -3173,7 +3311,7 @@ on-arrival: {!
 
 = 2024 Sri Lankan Presidential Election Results
 
-**Voter Turnout:** 81.52%
+**Voter Turnout:** 79.46%
 
 {!<svg id="election-results-map" viewBox="0 0 450 850" width="280" height="530" style="display:block; margin:auto; border: 3px solid #3B3B3B;">
   <style>
@@ -3308,7 +3446,7 @@ on-arrival: {!
     _addP('npp',  'NPP',  159);
     _addP('sjb',  'SJB', 40);
     _addP('ndf',  'NDF', 5);
-    _addP('unp',  'UNP', 5);
+    _addP('unp',  'UNP', 1);
     _addP('slpp',  'SLPP', 3);
     _addP('itak', 'ITAK', 8);
     _addP('dtna', 'DTNA', 1);
@@ -3317,6 +3455,7 @@ on-arrival: {!
     _addP('slp', 'SLP', 1);
     _addP('slmc', 'SLMC', 3);
     _addP('acmc', 'ACMC', 1);
+    _addP('independent',  'Independent', 1);
     var _newSig = JSON.stringify(_newData.map(function(p){ return p.id + p.seats; }));
     var _changed = (_newSig !== window._parliSig);
     window._parliData = _newData;
@@ -3342,7 +3481,7 @@ on-display: {!
 
 = 2024 Sri Lankan Parliamentary Election Results
 
-**Voter Turnout:** 61.26%
+**Voter Turnout:** 68.93%
 
 **Parliament Composition (225 seats)**
 
@@ -3352,7 +3491,9 @@ on-display: {!
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
 
 {!<tr style="background-color: transparent;"><td><strong>National People's Power</strong></td><td><strong>159</strong></td><td><strong>61.56%</strong></td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #9F005D'> </div> !} NPP {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #9F005D'> </div> !} JVP {!</td><td>!} -% {!</td><td></td></tr>!}
+
 
 {!<tr style="background-color: transparent;"><td><strong>Samagi Jana Balawegaya Led Alliance</strong></td><td><strong>40</strong></td><td><strong>17.66%</strong></td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #019f01'> </div> !} SJB {!</td><td>!} -% {!</td><td></td></tr>!}
