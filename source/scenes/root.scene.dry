@@ -1,13 +1,15 @@
 title: Root Scene
 new-page: true
-go-to: post_event if started = 1; start_menu if started = 0
+go-to: 
 
-@start_menu
+@start_menu_2
 new-page: true
-go-to: start_menu_2
+go-to: start
 
 = Sri Lanka Election Archive
 
-@start_menu_2
-on-arrival: {! Q.bg_image = "img/map_2.jpg"; !}
+@start
+on-arrival:{! 
+Q.bg_image = "img/map_2.jpg"; 
+!}
 go-to: election_simulation
