@@ -1345,6 +1345,7 @@ on-arrival: {!
 {!<tr><td>!}[+ pres_result_3_candidate +]{!</td><td><span style="color:!}[+ pres_result_3_color +]{!;">!}[+ pres_result_3_party +]{!</span></td><td>!}[+ pres_result_3_votes +]%{!</td><td>!}[+ pres_result_3_endorsers +]{!</td></tr>!} 
 {!<tr><td>!}[+ pres_result_4_candidate +]{!</td><td><span style="color:!}[+ pres_result_4_color +]{!;">!}[+ pres_result_4_party +]{!</span></td><td>!}[+ pres_result_4_votes +]%{!</td><td>!}[+ pres_result_4_endorsers +]{!</td></tr>!} 
 {!<tr><td>!}[+ pres_result_5_candidate +]{!</td><td><span style="color:!}[+ pres_result_5_color +]{!;">!}[+ pres_result_5_party +]{!</span></td><td>!}[+ pres_result_5_votes +]%{!</td><td>!}[+ pres_result_5_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_6_candidate +]{!</td><td><span style="color:!}[+ pres_result_6_color +]{!;">!}[+ pres_result_6_party +]{!</span></td><td>!}[+ pres_result_6_votes +]%{!</td><td>!}[+ pres_result_6_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_7_candidate +]{!</td><td><span style="color:!}[+ pres_result_7_color +]{!;">!}[+ pres_result_7_party +]{!</span></td><td>!}[+ pres_result_7_votes +]%{!</td><td>!}[+ pres_result_7_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_8_candidate +]{!</td><td><span style="color:!}[+ pres_result_8_color +]{!;">!}[+ pres_result_8_party +]{!</span></td><td>!}[+ pres_result_8_votes +]%{!</td><td>!}[+ pres_result_8_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_9_candidate +]{!</td><td><span style="color:!}[+ pres_result_9_color +]{!;">!}[+ pres_result_9_party +]{!</span></td><td>!}[+ pres_result_9_votes +]%{!</td><td>!}[+ pres_result_9_endorsers +]{!</td></tr>!}
@@ -1877,6 +1878,7 @@ on-arrival: {!
 {!<tr><td>!}[+ pres_result_3_candidate +]{!</td><td><span style="color:!}[+ pres_result_3_color +]{!;">!}[+ pres_result_3_party +]{!</span></td><td>!}[+ pres_result_3_votes +]%{!</td><td>!}[+ pres_result_3_endorsers +]{!</td></tr>!} 
 {!<tr><td>!}[+ pres_result_4_candidate +]{!</td><td><span style="color:!}[+ pres_result_4_color +]{!;">!}[+ pres_result_4_party +]{!</span></td><td>!}[+ pres_result_4_votes +]%{!</td><td>!}[+ pres_result_4_endorsers +]{!</td></tr>!} 
 {!<tr><td>!}[+ pres_result_5_candidate +]{!</td><td><span style="color:!}[+ pres_result_5_color +]{!;">!}[+ pres_result_5_party +]{!</span></td><td>!}[+ pres_result_5_votes +]%{!</td><td>!}[+ pres_result_5_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_6_candidate +]{!</td><td><span style="color:!}[+ pres_result_6_color +]{!;">!}[+ pres_result_6_party +]{!</span></td><td>!}[+ pres_result_6_votes +]%{!</td><td>!}[+ pres_result_6_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_7_candidate +]{!</td><td><span style="color:!}[+ pres_result_7_color +]{!;">!}[+ pres_result_7_party +]{!</span></td><td>!}[+ pres_result_7_votes +]%{!</td><td>!}[+ pres_result_7_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_8_candidate +]{!</td><td><span style="color:!}[+ pres_result_8_color +]{!;">!}[+ pres_result_8_party +]{!</span></td><td>!}[+ pres_result_8_votes +]%{!</td><td>!}[+ pres_result_8_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_9_candidate +]{!</td><td><span style="color:!}[+ pres_result_9_color +]{!;">!}[+ pres_result_9_party +]{!</span></td><td>!}[+ pres_result_9_votes +]%{!</td><td>!}[+ pres_result_9_endorsers +]{!</td></tr>!}
@@ -2081,6 +2083,7 @@ on-arrival: {!
 {!<tr><td>!}[+ pres_result_3_candidate +]{!</td><td><span style="color:!}[+ pres_result_3_color +]{!;">!}[+ pres_result_3_party +]{!</span></td><td>!}[+ pres_result_3_votes +]%{!</td><td>!}[+ pres_result_3_endorsers +]{!</td></tr>!} 
 {!<tr><td>!}[+ pres_result_4_candidate +]{!</td><td><span style="color:!}[+ pres_result_4_color +]{!;">!}[+ pres_result_4_party +]{!</span></td><td>!}[+ pres_result_4_votes +]%{!</td><td>!}[+ pres_result_4_endorsers +]{!</td></tr>!} 
 {!<tr><td>!}[+ pres_result_5_candidate +]{!</td><td><span style="color:!}[+ pres_result_5_color +]{!;">!}[+ pres_result_5_party +]{!</span></td><td>!}[+ pres_result_5_votes +]%{!</td><td>!}[+ pres_result_5_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_6_candidate +]{!</td><td><span style="color:!}[+ pres_result_6_color +]{!;">!}[+ pres_result_6_party +]{!</span></td><td>!}[+ pres_result_6_votes +]%{!</td><td>!}[+ pres_result_6_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_7_candidate +]{!</td><td><span style="color:!}[+ pres_result_7_color +]{!;">!}[+ pres_result_7_party +]{!</span></td><td>!}[+ pres_result_7_votes +]%{!</td><td>!}[+ pres_result_7_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_8_candidate +]{!</td><td><span style="color:!}[+ pres_result_8_color +]{!;">!}[+ pres_result_8_party +]{!</span></td><td>!}[+ pres_result_8_votes +]%{!</td><td>!}[+ pres_result_8_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_9_candidate +]{!</td><td><span style="color:!}[+ pres_result_9_color +]{!;">!}[+ pres_result_9_party +]{!</span></td><td>!}[+ pres_result_9_votes +]%{!</td><td>!}[+ pres_result_9_endorsers +]{!</td></tr>!}
@@ -2096,7 +2099,7 @@ on-arrival: {!
 {!<tr><td>!}[+ pres_result_19_candidate +]{!</td><td><span style="color:!}[+ pres_result_19_color +]{!;">!}[+ pres_result_19_party +]{!</span></td><td>!}[+ pres_result_19_votes +]%{!</td><td>!}[+ pres_result_19_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_20_candidate +]{!</td><td><span style="color:!}[+ pres_result_20_color +]{!;">!}[+ pres_result_20_party +]{!</span></td><td>!}[+ pres_result_20_votes +]%{!</td><td>!}[+ pres_result_20_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_21_candidate +]{!</td><td><span style="color:!}[+ pres_result_21_color +]{!;">!}[+ pres_result_21_party +]{!</span></td><td>!}[+ pres_result_21_votes +]%{!</td><td>!}[+ pres_result_21_endorsers +]{!</td></tr>!}
-#<Finish later
+
 {!</table>!}
 
 - @selection: ← Back to archive
@@ -2437,7 +2440,6 @@ on-arrival: {!
 {!<tr><td>!}[+ pres_result_9_candidate +]{!</td><td><span style="color:!}[+ pres_result_9_color +]{!;">!}[+ pres_result_9_party +]{!</span></td><td>!}[+ pres_result_9_votes +]%{!</td><td>!}[+ pres_result_9_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_10_candidate +]{!</td><td><span style="color:!}[+ pres_result_10_color +]{!;">!}[+ pres_result_10_party +]{!</span></td><td>!}[+ pres_result_10_votes +]%{!</td><td>!}[+ pres_result_10_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_11_candidate +]{!</td><td><span style="color:!}[+ pres_result_11_color +]{!;">!}[+ pres_result_11_party +]{!</span></td><td>!}[+ pres_result_11_votes +]%{!</td><td>!}[+ pres_result_11_endorsers +]{!</td></tr>!}
-{!<tr><td>!}[+ pres_result_12_candidate +]{!</td><td><span style="color:!}[+ pres_result_12_color +]{!;">!}[+ pres_result_12_party +]{!</span></td><td>!}[+ pres_result_12_votes +]%{!</td><td>!}[+ pres_result_12_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_12_candidate +]{!</td><td><span style="color:!}[+ pres_result_12_color +]{!;">!}[+ pres_result_12_party +]{!</span></td><td>!}[+ pres_result_12_votes +]%{!</td><td>!}[+ pres_result_12_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_13_candidate +]{!</td><td><span style="color:!}[+ pres_result_13_color +]{!;">!}[+ pres_result_13_party +]{!</span></td><td>!}[+ pres_result_13_votes +]%{!</td><td>!}[+ pres_result_13_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_14_candidate +]{!</td><td><span style="color:!}[+ pres_result_14_color +]{!;">!}[+ pres_result_14_party +]{!</span></td><td>!}[+ pres_result_14_votes +]%{!</td><td>!}[+ pres_result_14_endorsers +]{!</td></tr>!}
@@ -2857,6 +2859,7 @@ on-arrival: {!
 {!<tr><td>!}[+ pres_result_3_candidate +]{!</td><td><span style="color:!}[+ pres_result_3_color +]{!;">!}[+ pres_result_3_party +]{!</span></td><td>!}[+ pres_result_3_votes +]%{!</td><td>!}[+ pres_result_3_endorsers +]{!</td></tr>!} 
 {!<tr><td>!}[+ pres_result_4_candidate +]{!</td><td><span style="color:!}[+ pres_result_4_color +]{!;">!}[+ pres_result_4_party +]{!</span></td><td>!}[+ pres_result_4_votes +]%{!</td><td>!}[+ pres_result_4_endorsers +]{!</td></tr>!} 
 {!<tr><td>!}[+ pres_result_5_candidate +]{!</td><td><span style="color:!}[+ pres_result_5_color +]{!;">!}[+ pres_result_5_party +]{!</span></td><td>!}[+ pres_result_5_votes +]%{!</td><td>!}[+ pres_result_5_endorsers +]{!</td></tr>!}
+{!<tr><td>!}[+ pres_result_6_candidate +]{!</td><td><span style="color:!}[+ pres_result_6_color +]{!;">!}[+ pres_result_6_party +]{!</span></td><td>!}[+ pres_result_6_votes +]%{!</td><td>!}[+ pres_result_6_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_7_candidate +]{!</td><td><span style="color:!}[+ pres_result_7_color +]{!;">!}[+ pres_result_7_party +]{!</span></td><td>!}[+ pres_result_7_votes +]%{!</td><td>!}[+ pres_result_7_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_8_candidate +]{!</td><td><span style="color:!}[+ pres_result_8_color +]{!;">!}[+ pres_result_8_party +]{!</span></td><td>!}[+ pres_result_8_votes +]%{!</td><td>!}[+ pres_result_8_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_9_candidate +]{!</td><td><span style="color:!}[+ pres_result_9_color +]{!;">!}[+ pres_result_9_party +]{!</span></td><td>!}[+ pres_result_9_votes +]%{!</td><td>!}[+ pres_result_9_endorsers +]{!</td></tr>!}
@@ -3443,7 +3446,6 @@ on-arrival: {!
 {!<tr><td>!}[+ pres_result_16_candidate +]{!</td><td><span style="color:!}[+ pres_result_16_color +]{!;">!}[+ pres_result_16_party +]{!</span></td><td>!}[+ pres_result_16_votes +]%{!</td><td>!}[+ pres_result_16_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_17_candidate +]{!</td><td><span style="color:!}[+ pres_result_17_color +]{!;">!}[+ pres_result_17_party +]{!</span></td><td>!}[+ pres_result_17_votes +]%{!</td><td>!}[+ pres_result_17_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_18_candidate +]{!</td><td><span style="color:!}[+ pres_result_18_color +]{!;">!}[+ pres_result_18_party +]{!</span></td><td>!}[+ pres_result_18_votes +]%{!</td><td>!}[+ pres_result_18_endorsers +]{!</td></tr>!}
-{!<tr><td>!}[+ pres_result_19_candidate +]{!</td><td><span style="color:!}[+ pres_result_19_color +]{!;">!}[+ pres_result_19_party +]{!</span></td><td>!}[+ pres_result_19_votes +]%{!</td><td>!}[+ pres_result_19_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_19_candidate +]{!</td><td><span style="color:!}[+ pres_result_19_color +]{!;">!}[+ pres_result_19_party +]{!</span></td><td>!}[+ pres_result_19_votes +]%{!</td><td>!}[+ pres_result_19_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_20_candidate +]{!</td><td><span style="color:!}[+ pres_result_20_color +]{!;">!}[+ pres_result_20_party +]{!</span></td><td>!}[+ pres_result_20_votes +]%{!</td><td>!}[+ pres_result_20_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_21_candidate +]{!</td><td><span style="color:!}[+ pres_result_21_color +]{!;">!}[+ pres_result_21_party +]{!</span></td><td>!}[+ pres_result_21_votes +]%{!</td><td>!}[+ pres_result_21_endorsers +]{!</td></tr>!}
