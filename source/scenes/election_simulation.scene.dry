@@ -3052,7 +3052,7 @@ on-arrival: {!
         if (seats && seats > 0) _newData.push({ id: id, legend: legend, name: legend, seats: seats });
     }
     _addP('unp',  'UNP', 134);
-    _addP('slpfa',  'SLPP', 82);
+    _addP('slpp',  'SLPP', 82);
     _addP('npp',  'NPP',  3);
     _addP('vacant', 'VACANT', 6);
     var _newSig = JSON.stringify(_newData.map(function(p){ return p.id + p.seats; }));
@@ -3117,7 +3117,7 @@ on-arrival: {!
     Q.pres_result_1_party = "SJB";
     Q.pres_result_1_votes = 32.76;
     Q.pres_result_1_color = '#019f01';
-    Q.pres_result_1_endorsers = "SJB, ACMC,ITAK,SLFP faction, SLMC, Tamil Progressive Alliance, UPFA, UCPF, Freedom Peoples Congress, United Republican Front";
+    Q.pres_result_1_endorsers = "SJB, ACMC, ITAK, SLFP faction, SLMC, UPFA, UCPF, Tamil Progressive Alliance, Freedom Peoples Congress, United Republican Front";
     Q.pres_result_2_candidate = "Ranil Wickremasinghe";
     Q.pres_result_2_party = "Independent/UNP";
     Q.pres_result_2_votes = 17.27;
