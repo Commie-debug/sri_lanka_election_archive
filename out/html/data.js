@@ -242,11 +242,19 @@ const colourList = [{
         word: "TPNA",
         style: "color: #ea2d2d; font-weight: bold;"
     },
+    {
+        word: "SB",
+        style: "color: #00008B; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "SB",
+    explanationText: "Sarvajana Balaya"
     },
     {
     searchString: "TPNA",

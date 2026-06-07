@@ -1206,6 +1206,9 @@ table {
 .seat.tpna {
     fill: #ea2d2d;
 }
+.seat.sb {
+    fill: #00008B;
+}
 .seat.vacant {
     fill: #dfdfdf;
 }
