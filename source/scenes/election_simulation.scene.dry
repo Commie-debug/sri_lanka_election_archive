@@ -272,6 +272,7 @@ The SLFP led Mahajana Eksath Peramuna alliance wins a majority, deposing the UNP
 - @1960_March: Next election...
 
 @1960_March
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -373,6 +374,7 @@ Neither the UNP or SLFP gained a majority. Elections were called again for July 
 - @1960_July: Next election...
 
 @1960_July
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -451,6 +453,7 @@ Ceylon also becomes the first nation to have both heads of state be female (Quee
 - @1965: Next election...
 
 @1965
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -527,6 +530,7 @@ UNP fails to win a majority, UNP thus forms a "National Front" government with t
 - @1970: Next election...
 
 @1970
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -593,6 +597,7 @@ Total United Front victory.
 - @1977: Next election...
 
 @1977
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -654,6 +659,7 @@ Landslide UNP victory, in coalition with CWC.
 - @1982: Next election...
 
 @1982
+new-page: true
 on-arrival: {!
     //1982 presidential election 
 
@@ -750,6 +756,7 @@ on-arrival: {!
 - @1983: Next election...
 
 @1983
+new-page: true
 
 **Do you approve the Bill entitled the Fourth Amendment to the Constitution published in Gazette Extraordinary No 218/23 of November 13, 1982, which provides inter alia that unless sooner dissolved the First parliament shall continue until August 4, 1989, and no longer and shall thereupon stand dissolved?.**
 
@@ -803,6 +810,7 @@ on-arrival: {!
 - @1988: Next election...
 
 @1988
+new-page: true
 on-arrival: {!
     //1982 presidential election 
 
@@ -908,6 +916,7 @@ on-arrival: {!
 - @1989: Next election...
 
 @1989
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -990,6 +999,7 @@ on-display: {!
 - @1994_Parliament: Next election...
 
 @1994_Parliament
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -1085,6 +1095,7 @@ on-display: {!
 - @1994_President: Next election...
 
 @1994_President
+new-page: true
 on-arrival: {!
     Q.pres_results_count = 6;
     Q.pres_result_0_candidate = "Chandrika Kumaratunge";
@@ -1203,6 +1214,7 @@ on-arrival: {!
 - @1999: Next election...
 
 @1999
+new-page: true
 on-arrival: {!
     Q.pres_results_count = 13;
     Q.pres_result_0_candidate = "Chandrika Bandaranaike Kumaratunge";
@@ -1366,6 +1378,7 @@ on-arrival: {!
 - @2000: Next election...
 
 @2000
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -1495,6 +1508,7 @@ on-display: {!
 - @2001: Next election...
 
 @2001
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -1618,6 +1632,7 @@ on-display: {!
 - @2004: Next election...
 
 @2004
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -1738,6 +1753,7 @@ on-display: {!
 - @2005: Next election...
 
 @2005
+new-page: true
 on-arrival: {!
     Q.pres_results_count = 13;
     Q.pres_result_0_candidate = "Mahinda Rajapakse";
@@ -1898,6 +1914,7 @@ on-arrival: {!
 - @2010_President: Next election...
 
 @2010_President
+new-page: true
 on-arrival: {!
     Q.pres_results_count = 13;
     Q.pres_result_0_candidate = "Mahinda Rajapakse";
@@ -2111,6 +2128,7 @@ on-arrival: {!
 - @2010_Parliament: Next election...
 
 @2010_Parliament
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -2260,6 +2278,7 @@ on-display: {!
 - @2015_President: Next election...
 
 @2015_President 
+new-page: true
 on-arrival: {!
     Q.pres_results_count = 13;
     Q.pres_result_0_candidate = "Maitripala Sirisena";
@@ -2455,6 +2474,7 @@ on-arrival: {!
 - @2015_Parliament: Next election...
 
 @2015_Parliament
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -2603,6 +2623,7 @@ on-display: {!
 - @2019: Next election...
 
 @2019
+new-page: true
 on-arrival: {!
     Q.pres_results_count = 12;
     Q.pres_result_0_candidate = "Gotabaya Rajapakse";
@@ -2895,6 +2916,7 @@ on-arrival: {!
 - @2020: Next election...
 
 @2020
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -3066,6 +3088,7 @@ on-display: {!
 
 
 @2022
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
@@ -3124,6 +3147,7 @@ on-display: {!
 - @2024_President: Next election...
 
 @2024_President
+new-page: true
 on-arrival: {!
     Q.pres_results_count = 13;
     Q.pres_result_0_candidate = "Anura Kumara Dissanayake";
@@ -3480,6 +3504,7 @@ on-arrival: {!
 - @2024_Parliament: Next election...
 
 @2024_Parliament
+new-page: true
 on-arrival: {!
     var _newData = [];
     function _addP(id, legend, seats) {
