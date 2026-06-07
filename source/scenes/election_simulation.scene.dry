@@ -2495,7 +2495,6 @@ on-display: {!
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} SLFP {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} CPSL {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} DVJP {!</td><td>!} -% {!</td><td></td></tr>!}
-{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} JVP {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} LSSP {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} TMVP {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #0202d4'> </div> !} NC {!</td><td>!} -% {!</td><td></td></tr>!}
