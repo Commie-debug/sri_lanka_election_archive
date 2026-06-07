@@ -2264,7 +2264,7 @@ on-arrival: {!
     Q.pres_result_4_color = '#808080';
     Q.pres_result_4_endorsers = "None";
     Q.pres_result_5_candidate = "A. S. P. Liyanage";
-    Q.pres_result_5_party = "Sri Lanka Labour Party";
+    Q.pres_result_5_party = "SLP";
     Q.pres_result_5_votes = 0.12;
     Q.pres_result_5_color = '#0c95ad';
     Q.pres_result_5_endorsers = "None";
