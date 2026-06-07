@@ -2239,7 +2239,7 @@ on-display: {!
 on-arrival: {!
     Q.pres_results_count = 13;
     Q.pres_result_0_candidate = "Maitripala Sirisena";
-    Q.pres_result_0_party = "SLFP";
+    Q.pres_result_0_party = "SLFP (Contesting under the NDF)";
     Q.pres_result_0_votes = 51.28;
     Q.pres_result_0_color = '#006400';
     Q.pres_result_0_endorsers = "NDF, UNF, UNP, TNA, JVP";
