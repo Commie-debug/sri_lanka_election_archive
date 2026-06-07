@@ -9,6 +9,7 @@ on-arrival:{!
         sfxAudio.volume = sfxLayer.volume;
         sfxAudio.play().catch(function() {});
     }
+    window.showStats();
 !}
 go-to: menu
 
