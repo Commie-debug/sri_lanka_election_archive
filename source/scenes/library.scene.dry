@@ -1,13 +1,20 @@
 title: library
 new-page: true
 set-bg: img/WIP.jpg
-go-to: menu
 
 = The Library
 
 Herein contains relevant information about the government and politics of Sri Lanka.
 
-@menu
+- @map: Map of Sri Lanka
+- @government: Sri Lanka's system of government
+- @timeline: Timeline of Sri Lanka before 1981
+- @demographics: Demographics
+- @parties: Parties
+- @return: Exit library.
+
+@Browse
+new-page: true
 
 - @map: Map of Sri Lanka
 - @government: Sri Lanka's system of government
@@ -17,7 +24,7 @@ Herein contains relevant information about the government and politics of Sri La
 - @return: Exit library.
 
 @map
-go-to: menu
+new-page: true
 on-display: {!  
     var cardEl = document.createElement('div');  
     cardEl.className = "face-figure2";  
@@ -67,9 +74,12 @@ on-display: {!
 
 </svg>!}
 
+- @Browse: Back to selection menu...
+- @return: Leave...
+
 
 @government
-go-to: menu
+new-page: true
 
 Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is a semi-presidential republic with a powerful president and a parliament with somewhat constrained authority. The President serves as both head of state and head of government, wielding substantial executive power, while Parliament is responsible for legislation but operates under considerable presidential influence.
 
@@ -81,8 +91,11 @@ Parliament also consists of 29 "National List" MP's who are nominated by their p
 
 Sri Lanka is divided into nine provinces, each headed by a governor appointed by the President. Below the provincial level, the country is organised into multiple administrative districts, each managed under the central government's authority. At the local level, governance is conducted through Municipal Councils, Urban Councils, and Village/Town Councils, responsible for local administration and services. 
 
+- @Browse: Back to selection menu...
+- @return: Leave...
+
 @timeline
-go-to: menu
+new-page: true
 
 = Timeline of Sri Lanka // Need to revamp
 
@@ -158,7 +171,7 @@ go-to: menu
 
 
 @demographics
-go-to: menu
+new-page: true
 
 **Demographic Groups**
 
@@ -182,8 +195,11 @@ go-to: menu
 
 **Others**: This grouping consists of many groups such as the Burghers(Descendents of Europeans and locals), Kafirs(Desendents of African slaves and soliders brought by the Portuguese), the ethnic Chinese and the indigeoneus "Vedda" whose history predates all other groups. The majority of this grouping reside in their own communities inside the major cities. They make up around 0.78% of the population.
 
+- @Browse: Back to selection menu...
+- @return: Leave...
+
 @parties
-go-to: menu
+new-page: true
 
 <span style="color: #00008B;">**SLFP**</span> - *Sri Lanka Freedom Party* - This is us. Founded as a center-left party in 1954, we have switched back and forth from governing, normally in coaltion with other left wing parties and leading the opposition until 1977. We are historically advocates for democratic socialism and promoters of sinhalese nationalism. 
 
@@ -231,3 +247,5 @@ go-to: menu
 
 [? if slmc_formed: <span style="color: #2DCF3E;">**SLMC**</span>  - *Sri Lanka Muslim Congress* - Founded recently, the SLMC has emerged to represent the interests of the Muslim minority, particularly in the Eastern Province. The party aims to address grievances of the Muslim community and prevent their youth from joining militant groups. ?]
 
+- @Browse: Back to selection menu...
+- @return: Leave...
