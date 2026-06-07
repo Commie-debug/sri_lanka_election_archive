@@ -250,6 +250,10 @@ const colourList = [{
         word: "SB",
         style: "color: #00008B; font-weight: bold;"
     },
+    {
+        word: "VLSSP",
+        style: "color: #8b0000; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
@@ -259,6 +263,10 @@ const tooltipList = [{
     {
     searchString: "DTNA",
     explanationText: "Democratic National Tamil Alliance"
+    },
+    {
+    searchString: "VLSSP",
+    explanationText: "Viplavakari Lanka Sama Samaja Party <br> Revolutionary Lanka Equal Society Party"
     },
     {
     searchString: "SB",
