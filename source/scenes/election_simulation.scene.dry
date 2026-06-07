@@ -3467,8 +3467,8 @@ on-arrival: {!
 {!<table style="text-align:left; border-spacing: 0.5em;">!}
 {!<tr><th>Candidate</th><th>Party</th><th>Vote %</th><th>Supporting Parties</th></tr>!}
 
-{!<tr><td>!}Anura Kumara Dissanayake{!</td><td><span style="color:!}#9F005D{!;">!}NPP{!</span></td><td>!}55.89%{!</td><td>!}NPP, JVP{!</td></tr>!} 
-{!<tr><td>!}Sajith Premadasa{!</td><td><span style="color:!}#019f01{!;">!}SJB{!</span></td><td>!}44.11%{!</td><td>!}SJB, ACMC,ITAK,SLFP faction, SLMC, Tamil Progressive Alliance, UPFA, UCPF, Freedom Peoples Congress, United Republican Front{!</td></tr>!} 
+{!<tr><td>!}Anura Kumara Dissanayake{!</td><td><span style="color:!}#9F005D{!;">!}NPP{!</span></td><td>!}55.89%{!</td></tr>!} 
+{!<tr><td>!}Sajith Premadasa{!</td><td><span style="color:!}#019f01{!;">!}SJB{!</span></td><td>!}44.11%{!</td></tr>!} 
 
 {!</table>!}
 
