@@ -2,8 +2,9 @@ title: Election Simulation
 
 Herein contains an archive of every election (and singular referendum) in independent Sri Lankan history (including the Dominion of Ceylon) until 1989.
 
-- @timeline: View elections in chronological order..
-- @selection: Browse elections freely
+- @timeline: View elections in chronological order (1947-->2024)......
+- @selection: Browse elections freely.....
+- @return: Leave...
 
 @selection
 
@@ -110,9 +111,9 @@ on-display: {!
 
 DS Senanayake's UNP failed to get a majority but managed to form a government with the ACTC. Ceylon would gain independence as a dominion in 1948.
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1952: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1952: Next election...
 
 @1952
 on-arrival: {!
@@ -184,9 +185,9 @@ on-display: {!
 
 The recently formed SLFP wins 9 seats while the CIC is eliminated from parliament and the LSSP loses seats to the UNP thanks to the repatriation of Indian Tamils
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1956: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1956: Next election...
 
 @1956
 on-arrival: {!
@@ -263,9 +264,9 @@ on-display: {!
 
 The SLFP led Mahajana Eksath Peramuna alliance wins a majority, deposing the UNP for the first time since independence.
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1960_March: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1960_March: Next election...
 
 @1960_March
 on-arrival: {!
@@ -364,9 +365,9 @@ on-display: {!
 
 Neither the UNP or SLFP gained a majority. Elections were called again for July of 1960.
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1960_July: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1960_July: Next election...
 
 @1960_July
 on-arrival: {!
@@ -442,9 +443,9 @@ SLFP secures a single party majority with the tactical cooperation of the CPC an
 
 Ceylon also becomes the first nation to have both heads of state be female (Queen Elizabeth II was still monarch). In 1964 a weakened SLFP invited the LSSP into government.
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1965: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1965: Next election...
 
 @1965
 on-arrival: {!
@@ -518,9 +519,9 @@ on-display: {!
 
 UNP fails to win a majority, UNP thus forms a "National Front" government with the SLFSP, NLF, MEP and external support of ITAK.
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1970: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1970: Next election...
 
 @1970
 on-arrival: {!
@@ -584,9 +585,9 @@ on-display: {!
 
 Total United Front victory.
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1977: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1977: Next election...
 
 @1977
 on-arrival: {!
@@ -645,9 +646,9 @@ on-display: {!
 
 Landslide UNP victory, in coalition with CWC.
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1982: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1982: Next election...
 
 @1982
 on-arrival: {!
@@ -741,9 +742,9 @@ on-arrival: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1983: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1983: Next election...
 
 @1983
 
@@ -794,9 +795,9 @@ on-arrival: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1988: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1988: Next election...
 
 @1988
 on-arrival: {!
@@ -899,9 +900,9 @@ on-arrival: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1989: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1989: Next election...
 
 @1989
 on-arrival: {!
@@ -981,9 +982,9 @@ on-display: {!
 
 {!</table>!}"
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1994_Parliament: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1994_Parliament: Next election...
 
 @1994_Parliament
 on-arrival: {!
@@ -1076,9 +1077,9 @@ on-display: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1994_President: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1994_President: Next election...
 
 @1994_President
 on-arrival: {!
@@ -1194,9 +1195,9 @@ on-arrival: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @1999: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @1999: Next election...
 
 @1999
 on-arrival: {!
@@ -1357,9 +1358,9 @@ on-arrival: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2000: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2000: Next election...
 
 @2000
 on-arrival: {!
@@ -1486,9 +1487,9 @@ on-display: {!
 {!</table>!}
 
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2001: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2001: Next election...
 
 @2001
 on-arrival: {!
@@ -1609,9 +1610,9 @@ on-display: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2004: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2004: Next election...
 
 @2004
 on-arrival: {!
@@ -1729,9 +1730,9 @@ on-display: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2005: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2005: Next election...
 
 @2005
 on-arrival: {!
@@ -1889,9 +1890,9 @@ on-arrival: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2010_President: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2010_President: Next election...
 
 @2010_President
 on-arrival: {!
@@ -2102,9 +2103,9 @@ on-arrival: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2010_Parliament: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2010_Parliament: Next election...
 
 @2010_Parliament
 on-arrival: {!
@@ -2251,9 +2252,9 @@ on-display: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2015_President: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2015_President: Next election...
 
 @2015_President 
 on-arrival: {!
@@ -2328,35 +2329,30 @@ on-arrival: {!
     Q.pres_result_13_votes = 0.03;
     Q.pres_result_13_color = '#FF8080';
     Q.pres_result_13_endorsers = "None";
-    Q.pres_result_14_candidate = "Wije Dias";
-    Q.pres_result_14_party = "Socialist Equality Party";
-    Q.pres_result_14_votes = 0.04;
+    Q.pres_result_14_candidate = "Muthu Bandara Theminimulla";
+    Q.pres_result_14_party = "All are Citizens, All are Kings";
+    Q.pres_result_14_votes = 0.03;
     Q.pres_result_14_color = '#808080';
     Q.pres_result_14_endorsers = "None";
-    Q.pres_result_15_candidate = "Muthu Bandara Theminimulla";
-    Q.pres_result_15_party = "All are Citizens, All are Kings";
+    Q.pres_result_15_candidate = "Battaramulle Seelarathana Thero";
+    Q.pres_result_15_party = "Janasetha Peramuna";
     Q.pres_result_15_votes = 0.03;
     Q.pres_result_15_color = '#808080';
     Q.pres_result_15_endorsers = "None";
-    Q.pres_result_16_candidate = "Battaramulle Seelarathana Thero";
-    Q.pres_result_16_party = "Janasetha Peramuna";
-    Q.pres_result_16_votes = 0.03;
+    Q.pres_result_16_candidate = "Prasanna Priyankara";
+    Q.pres_result_16_party = "Democratic National Movement";
+    Q.pres_result_16_votes = 0.02;
     Q.pres_result_16_color = '#808080';
     Q.pres_result_16_endorsers = "None";
-    Q.pres_result_17_candidate = "Prasanna Priyankara";
-    Q.pres_result_17_party = "Democratic National Movement";
+    Q.pres_result_17_candidate = "Jayantha Kulathunga";
+    Q.pres_result_17_party = "United Lanka Great Council";
     Q.pres_result_17_votes = 0.02;
     Q.pres_result_17_color = '#808080';
     Q.pres_result_17_endorsers = "None";
-    Q.pres_result_18_candidate = "Jayantha Kulathunga";
-    Q.pres_result_18_party = "United Lanka Great Council";
-    Q.pres_result_18_votes = 0.02;
+    Q.pres_result_18_candidate = "Wimal Geganage";
+    Q.pres_result_18_party = "Sri Lanka National Front";
+    Q.pres_result_18_votes = 0.03;
     Q.pres_result_18_color = '#808080';
-    Q.pres_result_18_endorsers = "None";
-    Q.pres_result_19_candidate = "Wimal Geganage";
-    Q.pres_result_19_party = "Sri Lanka National Front";
-    Q.pres_result_19_votes = 0.03;
-    Q.pres_result_19_color = '#808080';
 
 !}
 
@@ -2451,9 +2447,9 @@ on-arrival: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2015_Parliament: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2015_Parliament: Next election...
 
 @2015_Parliament
 on-arrival: {!
@@ -2599,9 +2595,9 @@ on-display: {!
 {!</table>!}
 
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2019: Next election →
+-- @selection: Back to selection menu...
+- @return: Leave...
+- @2019: Next election...
 
 @2019
 on-arrival: {!
@@ -2891,9 +2887,9 @@ on-arrival: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2020: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2020: Next election...
 
 @2020
 on-arrival: {!
@@ -3061,9 +3057,9 @@ on-display: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2022: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2022: Next election...
 
 
 @2022
@@ -3120,11 +3116,9 @@ on-display: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
-- @2024_President: Next election →
-
-
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2024_President: Next election...
 
 @2024_President
 on-arrival: {!
@@ -3478,10 +3472,9 @@ on-arrival: {!
 
 {!</table>!}
 
-
-- @selection: ← Back to archive
-- @return: Leave..
-- @2024_Parliament: Next election →
+- @selection: Back to selection menu...
+- @return: Leave...
+- @2024_Parliament: Next election...
 
 @2024_Parliament
 on-arrival: {!
@@ -3660,6 +3653,6 @@ on-display: {!
 
 {!</table>!}
 
-- @selection: ← Back to archive
-- @return: Leave..
+- @selection: Back to selection menu...
+- @return: Leave...
 
