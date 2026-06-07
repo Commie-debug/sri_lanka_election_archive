@@ -3,7 +3,6 @@ new-page: true
 set-bg: img/WIP.jpg
 is-special: true
 on-arrival:{!
-    sfxAudio.playSong('music/sfx/WIP.mp3',sfx);
     window.showStats();
 !}
 go-to: menu
