@@ -8,7 +8,7 @@ new-page: true
 
 = Sri Lanka Election Archive
 
-**Update: Fuck you Avika**
+**Update: Fuck you Pomudhi**
 
 - @start: Election Archive
 - @library: Library
@@ -17,4 +17,6 @@ new-page: true
 go-to: election_simulation
 
 @library
-go-to: library
+on-arrival: {! window.showStats(); !}
+go-to: start_menu_2
+
