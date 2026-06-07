@@ -2,10 +2,7 @@ title: library
 new-page: true
 set-bg: img/WIP.jpg
 is-special: true
-on-arrival:{!
-    window.showStats();
-    window.AudioManager.playSongOnce('music/sfx/WIP.mp3', 'sfx'); 
-!}
+on-arrival: {! window.AudioManager.playSongOnce('music/sfx/WIP.mp3', 'sfx'); !}
 go-to: menu
 
 = The Library
