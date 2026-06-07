@@ -3091,10 +3091,10 @@ on-display: {!
 
 {!<tr><td>!}Ranil Wickremasinghe{!</td><td><span style="color:!}#006400{!;">!}UNP{!</span></td><th>134</th><td>!}61.99%{!</td><td>!}UNP, SLPP majority faction{!</td></tr>!} 
 {!<tr><td>!}Dullas Alahapperuma{!</td><td><span style="color:!}#800020{!;">!}SLPP{!</span></td><th>82</th><td>!}37.44%{!</td><td>!}SLPP minority faction, SJB, SLFP, Tamil Progressive Alliance, TNA, ACMC, SLMC{!</td></tr>!} 
-{!<tr><td>!}Anura Kumara Dissanayake{!</td><td><span style="color:!}#9F005D{!;">!}NPP{!</span></td><th>3</th><td>!}1.37%{!</td><td>!}[+ pres_result_2_endorsers +]{!</td></tr>!}
+{!<tr><td>!}Anura Kumara Dissanayake{!</td><td><span style="color:!}#9F005D{!;">!}NPP{!</span></td><th>3</th><td>!}1.37%{!</td><td>!}NPP, JVP{!</td></tr>!}
 
 
-{!<tr><td>!}None/Vacant/Invalid{!</td><td><span style="color:!}#dfdfdf{!;">!}None{!</span></td><th>6</th><td>!}2.67%{!</td><td>!}NPP, JVP{!</td></tr>!} 
+{!<tr><td>!}None/Vacant/Invalid{!</td><td><span style="color:!}#dfdfdf{!;">!}None{!</span></td><th>6</th><td>!}2.67%{!</td><td>!}{!</td></tr>!} 
 
 
 {!</table>!}
