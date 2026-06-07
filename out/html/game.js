@@ -27,7 +27,7 @@
 
   window.showStats = function() {
     if (window.dendryUI.dendryEngine.state.sceneId.startsWith('library')) {
-        window.dendryUI.dendryEngine.goToScene('backSpecialScene');
+        window.dendryUI.dendryEngine.goToScene('election_simulation');
     } else {
         window.dendryUI.dendryEngine.goToScene('library');
     }
@@ -354,6 +354,18 @@
         disableLayer: function(layerName) {
             layers[layerName].enabled = false;
             stopLayer(layerName);
+        },
+
+        pause: function(layerName) {
+            var name = layerName || 'music';
+            var layer = layers[name];
+            if (layer.audio) layer.audio.pause();
+        },
+
+        resume: function(layerName) {
+            var name = layerName || 'music';
+            var layer = layers[name];
+            if (layer.audio) layer.audio.play().catch(function() {});
         },
 
         setVolume: function(layerName, vol) {
