@@ -3580,15 +3580,14 @@ on-display: {!
 
 **Voting Composition of Parliament (225 seats)**
 
-{!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
+{!<svg id="status_parliament" style="width: 100%; height: 400px; display: block; margin: 0 auto;"></svg>!}
 
 {!<table>!}
 {!<tr><th>Candidate</th><th>Party</th><th>Votes</th><th>Vote %</th><th>Supporting Parties</th></tr>!}
 
 {!<tr><td>!}Ranil Wickremasinghe{!</td><td><span style="color:!}#006400{!;">!}UNP{!</span></td><th>134</th><td>!}61.99%{!</td><td>!}UNP, SLPP majority faction{!</td></tr>!} 
-{!<tr><td>!}Dullas Alahapperuma{!</td><td><span style="color:!}#800020{!;">!}SLPP{!</span></td><th>82</th><td>!}37.44%{!</td><td>!}SLPP minority faction, SJB, SLFP, Tamil Progressive Alliance, TNA, ACMC, SLMC{!</td></tr>!} 
+{!<tr><td>!}Dullas Alahapperuma{!</td><td><span style="color:!}#800020{!;">!}SLPP{!</span></td><th>82</th><td>!}37.44%{!</td><td>!}SLPP minority faction, SJB, SLFP, TNA, ACMC, SLMC, Tamil Progressive Alliance{!</td></tr>!} 
 {!<tr><td>!}Anura Kumara Dissanayake{!</td><td><span style="color:!}#9F005D{!;">!}NPP{!</span></td><th>3</th><td>!}1.37%{!</td><td>!}NPP, JVP{!</td></tr>!}
-
 
 {!<tr><td>!}None/Vacant/Invalid{!</td><td><span style="color:!}#dfdfdf{!;">!}None{!</span></td><th>6</th><td>!}2.67%{!</td><td>!}{!</td></tr>!} 
 
