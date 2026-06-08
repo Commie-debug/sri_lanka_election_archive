@@ -1026,7 +1026,7 @@ on-display: {!
 </svg>!}
 
 {!</div>!}
-{!<div style="flex:1;">!}
+{!<div style="flex:1; overflow-y:auto; max-height:810px;">!}
 
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
@@ -1174,7 +1174,7 @@ on-display: {!
 </svg>!}
 
 {!</div>!}
-{!<div style="flex:1;">!}
+{!<div style="flex:1; overflow-y:auto; max-height:810px;">!}
 
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
@@ -1619,7 +1619,7 @@ on-display: {!
 </svg>!}
 
 {!</div>!}
-{!<div style="flex:1;">!}
+{!<div style="flex:1; overflow-y:auto; max-height:810px;">!}
 
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
@@ -1812,7 +1812,7 @@ on-display: {!
 </svg>!}
 
 {!</div>!}
-{!<div style="flex:1;">!}
+{!<div style="flex:1; overflow-y:auto; max-height:810px;">!}
 
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
@@ -2002,7 +2002,7 @@ on-display: {!
 </svg>!}
 
 {!</div>!}
-{!<div style="flex:1;">!}
+{!<div style="flex:1; overflow-y:auto; max-height:810px;">!}
 
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
@@ -2561,7 +2561,7 @@ on-display: {!
 </svg>!}
 
 {!</div>!}
-{!<div style="flex:1;">!}
+{!<div style="flex:1; overflow-y:auto; max-height:810px;">!}
 
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
@@ -2975,7 +2975,7 @@ on-display: {!
 </svg>!}
 
 {!</div>!}
-{!<div style="flex:1;">!}
+{!<div style="flex:1; overflow-y:auto; max-height:810px;">!}
 
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
@@ -3491,7 +3491,7 @@ on-display: {!
 </svg>!}
 
 {!</div>!}
-{!<div style="flex:1;">!}
+{!<div style="flex:1; overflow-y:auto; max-height:810px;">!}
 
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
@@ -4141,7 +4141,7 @@ on-display: {!
 </svg>!}
 
 {!</div>!}
-{!<div style="flex:1;">!}
+{!<div style="flex:1; overflow-y:auto; max-height:810px;">!}
 
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
