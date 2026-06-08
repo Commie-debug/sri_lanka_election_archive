@@ -70,8 +70,8 @@ header {
   text-align: right
 }
 #header-links {
-  text-align: left;
-  float: left;
+  text-align: right;
+  float: right;
   margin-bottom: 0.5em;
   padding: 0;
   box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
