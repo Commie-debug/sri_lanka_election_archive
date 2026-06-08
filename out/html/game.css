@@ -218,6 +218,7 @@ img.inline-img.icon {
 #mid_panel {
     margin: 0 auto;
     max-width: 1500px;
+    margin-top: 60px;
 }
 
 #page {
