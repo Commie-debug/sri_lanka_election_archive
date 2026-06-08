@@ -706,7 +706,7 @@ on-arrival: {!
 
 **Voter Turnout:** 81.06%
 
-{{!<div style="display:flex; gap:1em; align-items:flex-start;"><svg id="election-results-map" viewBox="0 0 450 850" width="280" height="530" style="flex-shrink:0; border: 3px solid #3B3B3B;">
+{!<div style="display:flex; gap:1em; align-items:flex-start;"><svg id="election-results-map" viewBox="0 0 450 850" width="280" height="530" style="flex-shrink:0; border: 3px solid #3B3B3B;">
   <style>
     .election-district { stroke: #000000; stroke-width: 2px; }
   </style>
