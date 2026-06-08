@@ -14,6 +14,9 @@ new-page: true
 - @library: Library
 
 @start
+on-arrival:{! 
+    const LOW_TURNOUT = 0.6;
+!}
 go-to: election_simulation
 
 @library
