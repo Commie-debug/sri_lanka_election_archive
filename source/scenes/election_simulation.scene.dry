@@ -3186,7 +3186,7 @@ on-arrival: {!
     Q.pres_result_5_party = "SMBP";
     Q.pres_result_5_votes = 0.92;
     Q.pres_result_5_color = '#00008B';
-    Q.pres_result_5_endorsers = "SMBP, SB";
+    Q.pres_result_5_endorsers = "SMBP, SB, CPSL";
 
     Q.pres_result_6_candidate = "K.K. Piyadasa";
     Q.pres_result_6_party = "Independent";
