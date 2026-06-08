@@ -254,11 +254,19 @@ const colourList = [{
         word: "VLSSP",
         style: "color: #8b0000; font-weight: bold;"
     },
+    {
+        word: "Appointed",
+        style: "color: #C5A059; font-weight: bold;"
+    },
 ];
 
 const tooltipList = [{
     searchString: "SLFP",
     explanationText: "<img src=img/logos/SLFP_Logo.png> Sri Lanka Freedom Party"
+    },
+    {
+    searchString: "Appointed",
+    explanationText: "Appointed by the Governer-General "
     },
     {
     searchString: "DTNA",
