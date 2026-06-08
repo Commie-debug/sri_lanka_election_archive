@@ -90,7 +90,7 @@ on-display: {!
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
 
-**Parliament Composition (101 seats)**
+**House of Representatives Composition (101 seats)**
 
 {!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
 
@@ -234,7 +234,7 @@ on-display: {!
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
 
-**Parliament Composition (101 seats)**
+**House of Representatives Composition (101 seats)**
 
 {!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
 
@@ -379,7 +379,7 @@ on-display: {!
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
 
-**Parliament Composition (101 seats)**
+**House of Representatives Composition (101 seats)**
 
 {!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
 
@@ -532,7 +532,7 @@ on-display: {!
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
 
-**Parliament Composition (157 seats)**
+**House of Representatives Composition (157 seats)**
 
 {!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
 
@@ -700,7 +700,7 @@ on-display: {!
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
 
-**Parliament Composition (157 seats)**
+**House of Representatives Composition (157 seats)**
 
 {!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
 
@@ -848,7 +848,7 @@ on-display: {!
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
 
-**Parliament Composition (157 seats)**
+**House of Representatives Composition (157 seats)**
 
 {!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
 
@@ -991,7 +991,7 @@ on-display: {!
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
 
-**Parliament Composition (157 seats)**
+**House of Representatives Composition (157 seats)**
 
 {!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
 
@@ -1124,7 +1124,7 @@ on-display: {!
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
 
-**Parliament Composition (168 seats)**
+**National State Assembly/Parliament Composition (168 seats)**
 
 {!<svg id="status_parliament" style="width: 100%; height: 280px; display: block; margin: 0 auto;"></svg>!}
 
