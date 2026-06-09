@@ -4199,7 +4199,7 @@ on-display: {!
 
 **Voting Composition of Parliament (225 seats)**
 
-{!<svg id="status_parliament" style="width: 100%; height: 1000px; display: block; margin: 0 auto;"></svg>!}
+{!<div style="display:flex; gap:1em; align-items:flex-start;"><div style="flex-shrink:0; width:50%;"><svg id="status_parliament" style="width: 100%; height: 1000px; display: block; margin: 0 auto;"></svg></div><div style="flex:1; overflow-y:auto; max-height:1000px;">!}
 
 {!<table>!}
 {!<tr><th>Candidate</th><th>Party</th><th>Votes</th><th>Vote %</th><th>Supporting Parties</th></tr>!}
@@ -4210,8 +4210,7 @@ on-display: {!
 
 {!<tr><td>!}None/Vacant/Invalid{!</td><td><span style="color:!}#dfdfdf{!;">!}None{!</span></td><th>6</th><td>!}2.67%{!</td><td>!}{!</td></tr>!} 
 
-
-{!</table>!}
+{!</table></div></div>!}
 
 - @selection: Back to selection menu...
 - @return: Leave...
