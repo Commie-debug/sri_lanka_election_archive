@@ -518,7 +518,7 @@ const tooltipList = [{
     },
     {
     searchString: "BSP-BLP",
-    explanationText: "<img src=img/logos/CPSL_Logo.png> Bolshevik Sama Samaja Party<br> & <br>Bolshevik-Leninist Party of India, Ceylon & Burma "
+    explanationText: "<img src=img/logos/CPSL_Logo.png> Bolshevik Sama Samaja Party<br> - <br>Bolshevik-Leninist Party of India, Ceylon & Burma "
     },
     {
     searchString: "PA",
