@@ -4199,7 +4199,7 @@ on-display: {!
 
 **Voting Composition of Parliament (225 seats)**
 
-{!<svg id="status_parliament" style="width: 100%; height: 400px; display: block; margin: 0 auto;"></svg>!}
+{!<svg id="status_parliament" style="width: 100%; height: 1000px; display: block; margin: 0 auto;"></svg>!}
 
 {!<table>!}
 {!<tr><th>Candidate</th><th>Party</th><th>Votes</th><th>Vote %</th><th>Supporting Parties</th></tr>!}
