@@ -221,6 +221,7 @@ img.inline-img.icon {
     margin-top: 60px;
     min-height: 200px;
     max-height: 900px;
+    overflow-y: auto;
 }
 
 #page {
