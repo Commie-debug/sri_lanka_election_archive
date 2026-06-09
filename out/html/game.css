@@ -220,8 +220,6 @@ img.inline-img.icon {
     max-width: 1500px;
     margin-top: 60px;
     min-height: 200px;
-    max-height: 1200px;
-    overflow-y: auto;
 }
 
 #page {
