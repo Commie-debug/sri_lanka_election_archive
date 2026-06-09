@@ -219,6 +219,8 @@ img.inline-img.icon {
     margin: 0 auto;
     max-width: 1500px;
     margin-top: 60px;
+    min-height: 200px;
+    max-height: 900px;
 }
 
 #page {
