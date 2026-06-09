@@ -449,7 +449,7 @@ on-display: {!
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
 
 {!<tr style="background-color: transparent;"><td><strong>Mahajana Eksath Peramuna(Peoples United Front)</strong></td><td><strong>51</strong></td><td><strong>50.71%</strong></td><td></td></tr>!}
-{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #00008B; outline: 2px; outline-style: solid;'> </div> !} SLFP {!</td><td>!} **-%** {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #00008B'> </div> !} SLFP {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #00008B'> </div> !} Sinhala Language Front {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #00008B'> </div> !} VLSSP {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #00008B'> </div> !} Smaller socialist, nationalist parties {!</td><td>!} -% {!</td><td></td></tr>!}
