@@ -273,10 +273,6 @@ const tooltipList = [{
     explanationText: "Democratic National Tamil Alliance"
     },
     {
-    searchString: "VLSSP",
-    explanationText: "Viplavakari Lanka Sama Samaja Party <br> Revolutionary Lanka Equal Society Party"
-    },
-    {
     searchString: "SB",
     explanationText: "Sarvajana Balaya"
     },
