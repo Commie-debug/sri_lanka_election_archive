@@ -270,7 +270,7 @@ const tooltipList = [{
     },
     {
     searchString: "DTNA",
-    explanationText: "Democratic National Tamil Alliance"
+    explanationText: "Democratic Tamil National Alliance"
     },
     {
     searchString: "SB",
