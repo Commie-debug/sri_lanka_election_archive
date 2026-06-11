@@ -266,7 +266,7 @@ const tooltipList = [{
     },
     {
     searchString: "Appointed",
-    explanationText: "Appointed by the Governer-General "
+    explanationText: "Appointed by the Governor-General "
     },
     {
     searchString: "DTNA",
