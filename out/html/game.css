@@ -554,6 +554,7 @@ img.inline-img.icon {
     font-size: 1.2em;
     padding: 2px 4px;
     color: #555;
+    line-height: 0;
 }
 #music-skip-btn:hover {
     color: #000;
@@ -566,6 +567,7 @@ img.inline-img.icon {
     font-size: 1.2em;
     padding: 2px 4px;
     color: #555;
+    line-height: 0;
 }
 #music-prev-btn:hover {
     color: #000;
