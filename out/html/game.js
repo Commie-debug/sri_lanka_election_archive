@@ -328,8 +328,10 @@
                         clearInterval(fadeIn);
                     }
                 }, 50);
-                newAudio.onended = null; // nothing plays after
-            }, 400);
+                newAudio.onended = function() {
+                    layer.audio = null; 
+                };
+            }, 800);
         },
 
         addSong: function(layerName, path) {
