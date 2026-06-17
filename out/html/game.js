@@ -505,6 +505,26 @@
         }
   };
 
+  window.districtElectionData = {};
+
+  window.showDistrictDetail = function(districtId) {
+    var data = window.districtElectionData[districtId];
+    var container = document.getElementById('district-detail-container');
+    if (!container) return;
+    if (!data) {
+        container.innerHTML = '<p><em>No data available for this district.</em></p>';
+        return;
+    }
+    var html = '<h3>' + data.name + '</h3><table><tr><th>' + 
+        (data.type === 'parliament' ? 'Party' : 'Candidate') + 
+        '</th><th>' + (data.type === 'parliament' ? 'Seats' : 'Vote %') + '</th></tr>';
+    data.results.forEach(function(row) {
+        html += '<tr><td><span style="color:' + row.color + ';">' + row.label + '</span></td><td>' + row.value + '</td></tr>';
+    });
+    html += '</table>';
+    container.innerHTML = html;
+  };
+
   
   // This function allows you to modify the text before it's displayed.
   window.displayText = function (text) {
