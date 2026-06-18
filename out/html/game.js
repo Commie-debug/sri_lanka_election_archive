@@ -525,6 +525,18 @@
     container.innerHTML = applyWholesome(html);
 };
 
+window.renderNationalList = function() {
+    var container = document.getElementById('national-list-container');
+    var data = window.districtElectionData.national_list;
+    if (!container || !data) return;
+    var html = '<h3>' + data.name + '</h3><table style="font-size:0.85em;"><tr><th>Party</th><th>Seats</th></tr>';
+    data.results.forEach(function(r) {
+        html += '<tr><td>' + r.label + '</td><td>' + r.value + '</td></tr>';
+    });
+    html += '</table>';
+    container.innerHTML = applyWholesome(html);
+};
+
   
   // This function allows you to modify the text before it's displayed.
   window.displayText = function (text) {

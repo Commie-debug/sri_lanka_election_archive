@@ -4885,6 +4885,19 @@ on-arrival: {!
               { label: "SJB", value: "2 seats" }
           ]
       },
+      national_list: {
+        name: "National List",
+        type: "parliament",
+        results: [
+            { label: "NPP", value: "18 seats" },
+            { label: "SJB", value: "5 seats" },
+            { label: "NDF", value: "2 seats" },
+            { label: "SLPP", value: "1 seats" },
+            { label: "ITAK", value: "1 seats" },
+            { label: "Sarvajana Balaya", value: "1 seats" },
+            { label: "SLMC", value: "1 seats" },
+        ]
+      },
     };
 
 !}
@@ -5102,6 +5115,8 @@ on-display: {!
 {!<tr><td><div class="box" style='background-color: #663399'> </div> !} SLMP {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
 
 {!</table>!}
+
+{!<div id="national-list-container"></div>!}
 
 {!<div id="district-detail-container" style="margin-top: 1em;"></div>!}
 
