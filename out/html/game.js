@@ -519,11 +519,11 @@
         (data.type === 'parliament' ? 'Party' : 'Candidate') + 
         '</th><th>' + (data.type === 'parliament' ? 'Seats' : 'Vote %') + '</th></tr>';
     data.results.forEach(function(row) {
-        html += '<tr><td><span style="color:' + row.color + ';">' + row.label + '</span></td><td>' + row.value + '</td></tr>';
+        html += '<tr><td>' + row.label + '</td><td>' + row.value + '</td></tr>';
     });
     html += '</table>';
-    container.innerHTML = html;
-  };
+    container.innerHTML = applyWholesome(html);
+};
 
   
   // This function allows you to modify the text before it's displayed.

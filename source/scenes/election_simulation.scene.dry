@@ -4698,176 +4698,191 @@ on-arrival: {!
           name: "Colombo District",
           type: "parliament",
           results: [
-              { label: "NPP", value: "14 seats", color: "#006400" },
-              { label: "SLFP", value: "5 seats", color: "#00008B" }
+              { label: "NPP", value: "14 seats" },
+              { label: "SJB", value: "4 seats" }
           ]
       },
       gampaha: {
           name: "Gampaha District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "16 seats" },
+              { label: "SJB", value: "3 seats" }
           ]
       },
       kalutara: {
           name: "Kalutara District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "8 seats" },
+              { label: "SJB", value: "2 seats" },
+              { label: "UNP", value: "1 seats" }
           ]
       },
       kandy: {
           name: "Kandy District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "9 seats" },
+              { label: "SJB", value: "2 seats" },
+              { label: "UNP", value: "1 seats" }
           ]
       },
       matale: {
           name: "Matale District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "4 seats" },
+              { label: "SJB", value: "1 seats" }
           ]
       },
       nuwaraeliya: {
           name: "Nuwara Eliya District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "5 seats" },
+              { label: "SJB", value: "2 seats" },
+              { label: "UNP", value: "1 seats" }
           ]
       },
       galle: {
           name: "Galle District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "7 seats" },
+              { label: "SLPP", value: "1 seats" },
+              { label: "SJB", value: "1 seats" }
           ]
       },
       matara: {
           name: "Matara District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "6 seats" },
+              { label: "SJB", value: "1 seats" }
           ]
       },
       hambantota: {
           name: "Hambantota District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "5 seats" },
+              { label: "SLPP", value: "1 seats" },
+              { label: "SJB", value: "1 seats" }
           ]
       },
       jaffna: {
           name: "Jaffna Electoral District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "3 seats" },
+              { label: "ITAK", value: "1 seats" },
+              { label: "ACTC", value: "1 seats" },
+              { label: "Independent", value: "1 seats" }
           ]
       },
       vanni: {
           name: "Vanni Electoral District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "2 seats" },
+              { label: "SJB", value: "1 seats" },
+              { label: "ITAK", value: "1 seats" },
+              { label: "DTNA", value: "1 seats" },
+              { label: "SLP", value: "1 seats" }
           ]
       },
       batticaloa: {
           name: "Batticaloa District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "ITAK", value: "3 seats" },
+              { label: "NPP", value: "1 seats" },
+              { label: "SLMC", value: "1 seats" }
           ]
       },
       ampara: {
           name: "Ampara District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "4 seats" },
+              { label: "SLMC", value: "1 seats" },
+              { label: "ACTC", value: "1 seats" },
+              { label: "ITAK", value: "1 seats" }
           ]
       },
       trincomalee: {
           name: "Trincomalee District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "2 seats" },
+              { label: "SJB", value: "1 seats" },
+              { label: "ITAK", value: "1 seats" }
           ]
       },
       puttalam: {
           name: "Puttalam District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "6 seats" },
+              { label: "SJB", value: "2 seats" }
           ]
       },
       kurunegala: {
           name: "Kurunegala District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "12 seats" },
+              { label: "SJB", value: "3 seats" }
           ]
       },
       anuradhapura: {
           name: "Anuradhapura District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "7 seats" },
+              { label: "SJB", value: "2 seats" }
           ]
       },
       polonnaruwa: {
           name: "Polonnaruwa District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "4 seats" },
+              { label: "SJB", value: "1 seats" }
           ]
       },
       badulla: {
           name: "Badulla District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "6 seats" },
+              { label: "SJB", value: "2 seats" },
+              { label: "NDF", value: "1 seats" }
           ]
       },
       monaragala: {
           name: "Monaragala District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "5 seats" },
+              { label: "SJB", value: "1 seats" }
           ]
       },
       ratnapura: {
           name: "Ratnapura District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "8 seats" },
+              { label: "SJB", value: "3 seats" }
           ]
       },
       kegalle: {
           name: "Kegalle District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "8 seats", color: "#006400" },
-              { label: "SLFP", value: "4 seats", color: "#00008B" }
+              { label: "NPP", value: "7 seats" },
+              { label: "SJB", value: "2 seats" }
           ]
       },
     };
