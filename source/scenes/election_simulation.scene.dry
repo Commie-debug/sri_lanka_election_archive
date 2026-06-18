@@ -4698,7 +4698,7 @@ on-arrival: {!
           name: "Colombo District",
           type: "parliament",
           results: [
-              { label: "UNP", value: "12 seats", color: "#006400" },
+              { label: "NPP", value: "14 seats", color: "#006400" },
               { label: "SLFP", value: "5 seats", color: "#00008B" }
           ]
       },
