@@ -266,95 +266,95 @@ const tooltipList = [{
     },
     {
     searchString: "Appointed",
-    explanationText: "Appointed by the Governor-General "
+    explanationText: "<img/logos/governer_general_Logo.png> Appointed by the Governor-General"
     },
     {
     searchString: "DTNA",
-    explanationText: "Democratic Tamil National Alliance"
+    explanationText: "<img/logos/DTNA_Logo.png> Democratic Tamil National Alliance"
     },
     {
     searchString: "SB",
-    explanationText: "Sarvajana Balaya"
+    explanationText: "<img/logos/SB_Logo.png> Sarvajana Balaya"
     },
     {
     searchString: "TPNA",
-    explanationText: "Tamil People's National Alliance"
+    explanationText: "<img/logos/TPNA_Logo.png> Tamil People's National Alliance"
     },
     {
     searchString: "MNA",
-    explanationText: "Muslim National Alliance"
+    explanationText: "<img/logos/MNA_Logo.png> Muslim National Alliance"
     },
     {
     searchString: "OPPP",
-    explanationText: "Our Power of Peoples Party"
+    explanationText: "<img/logos/OPPP_Logo.png> Our Power of Peoples Party"
     },
     {
     searchString: "SJB",
-    explanationText: "Samagi Jana Balawegaya"
+    explanationText: "<img/logos/SJB_Logo.png> Samagi Jana Balawegaya"
     },
     {
     searchString: "SLPFA",
-    explanationText: "Sri Lanka Peoples Freedom Alliance"
+    explanationText: "<img/logos/SLPFA_Logo.png> Sri Lanka Peoples Freedom Alliance"
     },
     {
     searchString: "NC",
-    explanationText: "National Congress"
+    explanationText: "<img/logos/NC_Logo.png> National Congress"
     },
     {
     searchString: "ACMC",
-    explanationText: "All Ceylon Makkal Congress"
+    explanationText: "<img/logos/ACMC_Logo.png> All Ceylon Makkal Congress"
     },
     {
     searchString: "UNFGG",
-    explanationText: "United National Front for Good Governance"
+    explanationText: "<img/logos/UNF_Logo.png> United National Front for Good Governance"
     },
     {
     searchString: "SLP",
-    explanationText: "Sri Lanka Labour Party"
+    explanationText: "<img/logos/SLP_Logo.png> Sri Lanka Labour Party"
     },
     {
     searchString: "TMVP",
-    explanationText: "Tamil Makkal Viduthalai Pullikal"
+    explanationText: "<img/logos/TMVP_Logo.png> Tamil Makkal Viduthalai Pullikal"
     },
     {
     searchString: "TNPF",
-    explanationText: "Tamil National People's Front"
+    explanationText: "<img/logos/TNPF_Logo.png> Tamil National People's Front"
     },
     {
     searchString: "DNA",
-    explanationText: "Democratic National Alliance"
+    explanationText: "<img/logos/DNA_Logo.png> Democratic National Alliance"
     },
     {
     searchString: "NDF",
-    explanationText: "New Democratic Front"
+    explanationText: "<img/logos/NDF_Logo.png> New Democratic Front"
     },
     {
     searchString: "JHU",
-    explanationText: "Jathika Hela Urumaya <br> National Heritage Party"
+    explanationText: "<img/logos/JHU_Logo.png> Jathika Hela Urumaya <br> National Heritage Party"
     },
     {
     searchString: "UPFA",
-    explanationText: "United People's Freedom Alliance"
+    explanationText: "<img/logos/UPFA_Logo.png> United People's Freedom Alliance"
     },
     {
     searchString: "UNF",
-    explanationText: "United National Front"
+    explanationText: "<img/logos/UNF_Logo.png> United National Front"
     },
     {
     searchString: "SH",
-    explanationText: "Sinhala Heritage"
+    explanationText: "<img/logos/JHU_Logo.png> Sinhala Heritage"
     },
     {
     searchString: "TNA",
-    explanationText: "Tamil National Alliance"
+    explanationText: "<img/logos/TNA_Logo.png> Tamil National Alliance"
     },
     {
     searchString: "NUA",
-    explanationText: "National Unity Alliance"
+    explanationText: "<img/logos/NUA_Logo.png> National Unity Alliance"
     },
     {
     searchString: "SMBP",
-    explanationText: "Sinhalaye Mahasammatha Bhoomiputra Pakshaya <br> Motherland People's Party"
+    explanationText: "<img src=img/logos/NLF_Logo.png> Sinhalaye Mahasammatha Bhoomiputra Pakshaya <br> Motherland People's Party"
     },
     {
     searchString: "UNP",
