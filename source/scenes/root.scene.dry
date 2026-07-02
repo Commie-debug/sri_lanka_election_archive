@@ -11,11 +11,21 @@ new-page: true
 **Update: Hell **
 
 - @start: Election Archive
-- @library: Library
+- @credits: Credits & Thanks :)
 
 @start
 go-to: election_simulation
 
-@library
-on-arrival: {! window.showStats() !}
+@credits
+
+-Pretty much every wikipedia page for elections between 1947 and 2024
+
+-Additional sources directly from the election commission's archive with emphasis on the documents relavent to 1947-1977
+
+-My cat 
+
+-My grandpa 
+
+-My friends both irl and from the RedAutumn community who pushed me to finish this & other projects
+
 
