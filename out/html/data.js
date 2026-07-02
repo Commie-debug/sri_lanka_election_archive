@@ -274,7 +274,7 @@ const tooltipList = [{
     },
     {
     searchString: "SB",
-    explanationText: "<img/logos/SB_Logo.png> Sarvajana Balaya"
+    explanationText: "<img/logos/SB_Logo.png> Sarvajana Balaya <br> (Power Of All The People)"
     },
     {
     searchString: "TPNA",
@@ -290,7 +290,7 @@ const tooltipList = [{
     },
     {
     searchString: "SJB",
-    explanationText: "<img/logos/SJB_Logo.png> Samagi Jana Balawegaya"
+    explanationText: "<img/logos/SJB_Logo.png> Samagi Jana Balawegaya <br> (United People's Power)"
     },
     {
     searchString: "SLPFA",
@@ -302,7 +302,7 @@ const tooltipList = [{
     },
     {
     searchString: "ACMC",
-    explanationText: "<img/logos/ACMC_Logo.png> All Ceylon Makkal Congress"
+    explanationText: "<img/logos/ACMC_Logo.png> All Ceylon Makkal Congress <br> (All Ceylon People's Congress)"
     },
     {
     searchString: "UNFGG",
@@ -330,7 +330,7 @@ const tooltipList = [{
     },
     {
     searchString: "JHU",
-    explanationText: "<img/logos/JHU_Logo.png> Jathika Hela Urumaya <br> National Heritage Party"
+    explanationText: "<img/logos/JHU_Logo.png> Jathika Hela Urumaya <br> (National Heritage Party)"
     },
     {
     searchString: "UPFA",
@@ -354,7 +354,7 @@ const tooltipList = [{
     },
     {
     searchString: "SMBP",
-    explanationText: "<img src=img/logos/NLF_Logo.png> Sinhalaye Mahasammatha Bhoomiputra Pakshaya <br> Motherland People's Party"
+    explanationText: "<img src=img/logos/NLF_Logo.png> Sinhalaye Mahasammatha Bhoomiputra Pakshaya <br> (Motherland People's Party)"
     },
     {
     searchString: "UNP",
