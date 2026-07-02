@@ -197,7 +197,6 @@ on-display: {!
 {!</div>!}
 {!</div>!}
 
-DS Senanayake's UNP failed to get a majority but managed to form a government with the ACTC. Ceylon would gain independence as a dominion in 1948.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -342,8 +341,6 @@ on-display: {!
 
 {!</div>!}
 {!</div>!}
-
-The recently formed SLFP wins 9 seats while the CIC is eliminated from parliament and the LSSP loses seats to the UNP thanks to the repatriation of Indian Tamils
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -494,7 +491,6 @@ on-display: {!
 {!</div>!}
 {!</div>!}
 
-The SLFP led Mahajana Eksath Peramuna alliance wins a majority, deposing the UNP for the first time since independence.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -667,7 +663,6 @@ on-display: {!
 {!</div>!}
 {!</div>!}
 
-Neither the UNP or SLFP gained a majority. Elections were called again for July of 1960.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -815,9 +810,6 @@ on-display: {!
 {!</div>!}
 {!</div>!}
 
-SLFP secures a single party majority with the tactical cooperation of the CPC and LSSP via a "no-contest" pact. Though the later two did not join government, they supported the SLFP and its policies. Sirimavo Bandaranaike is elected Prime Minister, the first female head of state in the world. 
-
-Ceylon also becomes the first nation to have both heads of state be female (Queen Elizabeth II was still monarch). In 1964 a weakened SLFP invited the LSSP into government.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -965,7 +957,6 @@ on-display: {!
 {!</div>!}
 {!</div>!}
 
-UNP fails to win a majority, UNP thus forms a "National Front" government with the SLFSP, NLF, MEP and external support of ITAK.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -1103,7 +1094,6 @@ on-display: {!
 {!</div>!}
 {!</div>!}
 
-Total United Front victory.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -1232,11 +1222,7 @@ on-display: {!
 {!</div>!}
 {!</div>!}
 
-Landslide UNP victory, in coalition with CWC. The SLFP is reduced to a secondary opposition and the TULF becomes the offical opposition. The TULF's new position angered sinhalese nationalists, who instigated major anti-tamil riots that year.
 
-A new constitution was initiated the following year transforming Sri Lanka into a presidential republic. JR Jayewardene becomes the first "executive" president and Ranasinghe Premadasa succeeds him as Prime Minister.
-
-The UNP begins liberalisation and privatisation of the economy.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -1336,13 +1322,6 @@ on-arrival: {!
 
 {!</div></div>!}
 
-In 1981 SLFP leader Sirimavo Bandaranaike was ejected from parliament following an inquiry into alleged corruption between 1970 and 1977. As part of her ejection she was barred from politics. 
-
-In her stead Hector Kobbekaduwa, became the candidate for an increasingly divided SLFP. 
-
-The JVP which had been banned from 1971 following their failed insurrection, had been unbanned by the UNP and was now fully taking part in democratic politics.
-
-The TULF following 1981's pogroms, and pressure from an increasingly militant electorate decided to boycott the election, the ACTC did not take part in the boycott.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -1401,9 +1380,6 @@ new-page: true
 
 {!<div id="district-detail-container" style="margin-top: 1em;"></div>!}
 
-The SLFP's support in the presidential elections earlier in the year raised fears in the UNP that the upcoming parliamentary elections would reduce the UNP's supermajority in parliament, making it harder for the UNP to rule.
-
-Thus a referendum was called to extend the 1977 parliament, bypassing the election. Nearly every other party bar the CWC was against the referndum. 
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -1512,17 +1488,6 @@ on-arrival: {!
 
 {!</div></div>!}
 
-A full scale civil war had begun in 1983 following the events of Black July. The JVP and other left wing parties (except the SLFP) were banned and driven underground. The UNP exercised greater authoritarian control to suppress both the tamils and dissident sinhalese.
-
-By June 1987 the military had pushed the tamil militants (namely the LTTE) to the city of Jaffna and were on verge of obliterating the remaining militants along with the civillian population. India called for a ceasefire which the UNP refused. Under pressure from India's Tamil Nadu state, the Indian airforce airdropped aid and weapons to the besieged militants and threatened an intervention against the Sri Lankan government.
-
-Following negotiations, the Indo-Lanka accord was signed. Under its provisions the Sri Lankan constitution was ammended to placate a number of Tamil demands including language rights and autonomy through provinical councils. In addition the Indian Army would send a "peace-keeping force" into the tamil north east to monitor the ceasefire and disarm the militants. The accord was detested by the sinhalese who would protest. 
-
-The JVP by that point had shifted from socialism towards sinhalese nationalism and following the accord would launch a violent insurgency against the UNP government. The JVP would engage in assasinations of UNP, SLFP and other party politicans and supporters. The security forces proved unable to effectivly counter the JVP resulting in large swaths of the south west to be under JVP control. Infamously the JVP would assasinate leader of the SLMP and famous actor Vijaya Kumaratunge, his wife Chandrika would flee for the UK. 
-
-The JVP on election day issued multiple threats to government workers and regular civillians threatening violence if they took part. This would result in record low turnout in the south west and multiple casualties during voting.
-
-In the north east while other tamil militants disarmed and joined democratic politics, the LTTE proved reluctant. After months of tensions the IPKF(Indian PeaceKeeping Force) would gein operations to forcefully disarm the LTTE. The unsuing fighting would led to thousands of tamil and Indian casualties. The LTTE like the JVP would also demand a boycott from tamil voters.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -1678,11 +1643,6 @@ on-display: {!
 
 {!</div>!}
 
-Ranasinghe Premadasa's government would try and attempt a peace with the JVP and LTTE. The LTTE would agree and the UNP government would begin (though unknown at the time) to discreetly support the LTTE against an unpopular IPKF.
-
-The JVP refused and in response, the UNP would unleash a campaign of terror to rival the JVP's. Thousands would be killed on suspicion of being JVP members or supporters, even more would simply disapear with no trace to this day. Paramilitaries made up of off duty police and members of rival parties would sweep the country side to commit the acts.
-
-The JVP would still enforce a boycott but the new suppression methods by the UNP proved effective in countering them.
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -1848,15 +1808,6 @@ on-display: {!
 {!</div>!}
 {!</div>!}
 
-By 1990 the JVP was crushed and its leadership was in exile. The IPKF would leave Sri Lanka the same year in disgrace following India's own general elections.
-
-The ceasefire between the LTTE and government quickly collapsed however and the civil war would resume with even greater intensity. The LTTE had become the undisputed group for tamil militants and they had both the experience and equipment to now go toe to toe with the army.
-
-As battles raged in the north east, the suicide and regular bombings in Sri Lankan cities would continue killing hundreds of civillians. Even more tamils would be killed by the army in massacres or in the crossfire. The army would fail to retake Jaffna and more territory would be lost to the LTTE.
-
-In 1994 Ranasinghe Premadasa would be assasinated by a suicide bomber, he is suceeded by DB Wijetunge. Chandrika Kumaratunge by that point had returned to Sri Lanka and taken control of the SLFP with the support of her mother Sirimavo. She assembled a coalition of several parties known as the PA to contest the upcoming parliamentary elections.
-
-The JVP also returned in a limited manner (as the Sri Lanka Progressive Movement). The LTTE would also again enforce a boycot.
 
 - @selection: Back to selection menu...
 - @return: Leave...
