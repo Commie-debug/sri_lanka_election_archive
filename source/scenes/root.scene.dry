@@ -8,17 +8,14 @@ new-page: true
 
 = Sri Lanka Election Archive
 
-**Update: Hell yes, we back 😎**
+**Update: Hell **
 
 - @start: Election Archive
 - @library: Library
 
 @start
-on-arrival:{! 
-    const LOW_TURNOUT = 0.6;
-!}
 go-to: election_simulation
 
 @library
-on-arrival: {! window.showStats(); !}
+on-arrival: {! window.showStats() !}
 
