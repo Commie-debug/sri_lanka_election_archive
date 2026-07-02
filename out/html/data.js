@@ -530,7 +530,7 @@ const tooltipList = [{
     },
     {
     searchString: "PA",
-    explanationText: "<img src=img/logos/PA_Logo.png> Peoples Alliance "
+    explanationText: "<img src=img/logos/PA_Logo.png> People's Alliance "
     },
 
 
