@@ -5039,7 +5039,7 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #38ff4c'> </div> !} ACMC {!</td><td>!} 1 {!</td><td>!} 0.30% {!</td><td></td></tr>!}
 
-{!<tr style="background-color: transparent;"><td><strong>People's Struggle Alliance</strong></td><td><strong>1</strong></td><td><strong>0.27%</strong></td><td></td></tr>!}
+{!<tr style="background-color: transparent;"><td><strong>People's Struggle Alliance</strong></td><td><strong>0</strong></td><td><strong>0.27%</strong></td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #000000'> </div> !} Frontline Socialist Party {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #000000'> </div> !} New Democratic Marxist-Leninist Party {!</td><td>!} -% {!</td><td></td></tr>!}
 
