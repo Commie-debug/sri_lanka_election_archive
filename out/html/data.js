@@ -457,20 +457,12 @@ const tooltipList = [{
     explanationText: "<img src=img/logos/UCPF_Logo.png> Up Country <br> Peoples Front"
     },
     {
-    searchString: "Naxal",
-    explanationText: "<img src=img/logos/Naxal_Logo.png> Naxalite-Maoist(Indian Maoist insurgents)"
-    },
-    {
-    searchString: "Naxalite",
-    explanationText: "<img src=img/logos/Naxal_Logo.png> Naxalite-Maoist(Indian Maoist insurgents)"
-    },
-    {
     searchString: "ITAK",
-    explanationText: "<img src=img/logos/ITAK_Logo.png> Ilankai Tamil Arasu Kachchi <br> Sri Lanka Tamil Federal Party"
+    explanationText: "<img src=img/logos/ITAK_Logo.png> Ilankai Tamil Arasu Kachchi <br> (Sri Lanka Tamil Federal Party)"
     },
     {
     searchString: "NLF",
-    explanationText: "<img src=img/logos/NLF_Logo.png> Jathika Vimukthi Peramuna <br> National Liberation Front"
+    explanationText: "<img src=img/logos/NLF_Logo.png> Jathika Vimukthi Peramuna <br> (National Liberation Front)"
     },
     {
     searchString: "SLFSP",
@@ -478,11 +470,11 @@ const tooltipList = [{
     },
     {
     searchString: "LDP",
-    explanationText: "<img src=img/logos/LDP_Logo.png> Lanka Prajathanthravadi Pakshaya <br> Lanka Democratic Party "
+    explanationText: "<img src=img/logos/LDP_Logo.png> Lanka Prajathanthravadi Pakshaya <br> (Lanka Democratic Party) "
     },
     {
     searchString: "VLSSP",
-    explanationText: "<img src=img/logos/VLSSP_Logo.png> Viplavakari Lanka Sama Samaja Party <br> Revolutionary Lanka Equal Society Party"
+    explanationText: "<img src=img/logos/VLSSP_Logo.png> Viplavakari Lanka Sama Samaja Party <br> (Revolutionary Lanka Equal Society Party)"
     },
     {
     searchString: "SPFC",
