@@ -2235,8 +2235,9 @@ on-display: {!
 {!<tr><td><div class="box" style='background-color: #FF2226'> </div> !} JVP {!</td><td>!} 10 {!</td><td>!} 6.00% {!</td><td></td></tr>!}
 
 {!<tr style="background-color: transparent;"><td><strong>National Unity Alliance</strong></td><td><strong>4</strong></td><td><strong>2.29%</strong></td><td></td></tr>!}
-{!<tr><td><div class="box" style='background-color: #2DCF3E'> </div> !} NUA {!</td><td>!} -% {!</td><td></td></tr>!}
-{!<tr><td><div class="box" style='background-color: #2DCF3E'> </div> !} SLMC {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #2DCF3E'> </div> !} NUA {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #2DCF3E'> </div> !} SLMC {!</td><td>!} -% {!</td><td></td></tr>!}
+
 
 {!<tr><td><div class="box" style='background-color: #eac42d'> </div> !} SH {!</td><td>!} 1 {!</td><td>!} 1.48% {!</td><td></td></tr>!}
 
