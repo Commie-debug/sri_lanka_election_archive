@@ -3200,7 +3200,6 @@ on-display: {!
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} SLMC {!</td><td>!} -% {!</td><td></td></tr>!}
 
 {!<tr style="background-color: transparent;"><td><strong>Democratic National Alliance</strong></td><td><strong>7</strong></td><td><strong>5.49%</strong></td><td></td></tr>!}
-{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #ffd000'> </div> !} NDF {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #ffd000'> </div> !} JVP {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #ffd000'> </div> !} DUNF {!</td><td>!} -% {!</td><td></td></tr>!}
 
@@ -3476,7 +3475,6 @@ on-arrival: {!
 {!<tr><td>!}[+ pres_result_16_candidate +]{!</td><td><span style="color:!}[+ pres_result_16_color +]{!;">!}[+ pres_result_16_party +]{!</span></td><td>!}[+ pres_result_16_votes +]%{!</td><td>!}[+ pres_result_16_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_17_candidate +]{!</td><td><span style="color:!}[+ pres_result_17_color +]{!;">!}[+ pres_result_17_party +]{!</span></td><td>!}[+ pres_result_17_votes +]%{!</td><td>!}[+ pres_result_17_endorsers +]{!</td></tr>!}
 {!<tr><td>!}[+ pres_result_18_candidate +]{!</td><td><span style="color:!}[+ pres_result_18_color +]{!;">!}[+ pres_result_18_party +]{!</span></td><td>!}[+ pres_result_18_votes +]%{!</td><td>!}[+ pres_result_18_endorsers +]{!</td></tr>!}
-{!<tr><td>!}[+ pres_result_19_candidate +]{!</td><td><span style="color:!}[+ pres_result_19_color +]{!;">!}[+ pres_result_19_party +]{!</span></td><td>!}[+ pres_result_19_votes +]%{!</td><td>!}[+ pres_result_19_endorsers +]{!</td></tr>!}
 
 {!</table>!}
 
