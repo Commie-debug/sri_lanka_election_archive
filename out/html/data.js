@@ -338,7 +338,7 @@ const tooltipList = [{
     },
     {
     searchString: "UNF",
-    explanationText: "<im src=imgg/logos/UNF_Logo.png> United National Front"
+    explanationText: "<img src=img/logos/UNF_Logo.png> United National Front"
     },
     {
     searchString: "SH",
