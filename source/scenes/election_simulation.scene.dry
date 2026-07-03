@@ -5110,6 +5110,8 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #663399'> </div> !} SLMP {!</td><td>!} 0 {!</td><td>!} 0.01% {!</td><td></td></tr>!}
 
+{!<tr><td><div class="box" style='background-color: #949494'> </div> !} Independent {!</td><td>!} 1 {!</td><td>!} 2.20% {!</td><td></td></tr>!}
+
 {!</table>!}
 
 {!<div id="national-list-container"></div>!}
