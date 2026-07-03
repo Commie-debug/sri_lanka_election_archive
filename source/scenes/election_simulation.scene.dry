@@ -2238,7 +2238,7 @@ on-display: {!
 {!<tr><td><div class="box" style='background-color: #2DCF3E'> </div> !} NUA {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td><div class="box" style='background-color: #2DCF3E'> </div> !} SLMC {!</td><td>!} -% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #eac42d'> </div> !} Sinhala Heritage {!</td><td>!} 1 {!</td><td>!} 1.48% {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #eac42d'> </div> !} SH {!</td><td>!} 1 {!</td><td>!} 1.48% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #F7D917'> </div> !} TULF {!</td><td>!} 5 {!</td><td>!} 1.23% {!</td><td></td></tr>!}
 
@@ -2441,7 +2441,7 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #F0BC02'> </div> !} EPDP {!</td><td>!} 2 {!</td><td>!} 0.81% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #eac42d'> </div> !} Sinhala Heritage {!</td><td>!} 0 {!</td><td>!} 0.57% {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #eac42d'> </div> !} SH {!</td><td>!} 0 {!</td><td>!} 0.57% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #d00101'> </div> !} New Left Front {!</td><td>!} 0 {!</td><td>!} 0.51% {!</td><td></td></tr>!}
 

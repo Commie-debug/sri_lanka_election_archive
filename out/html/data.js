@@ -266,91 +266,91 @@ const tooltipList = [{
     },
     {
     searchString: "Appointed",
-    explanationText: "<img/logos/governer_general_Logo.png> Appointed by the Governor-General"
+    explanationText: "<img src=img/logos/governer_general_Logo.png> Appointed by the Governor-General"
     },
     {
     searchString: "DTNA",
-    explanationText: "<img/logos/DTNA_Logo.png> Democratic Tamil National Alliance"
+    explanationText: "<img src=img/logos/DTNA_Logo.png> Democratic Tamil National Alliance"
     },
     {
     searchString: "SB",
-    explanationText: "<img/logos/SB_Logo.png> Sarvajana Balaya <br> (Power Of All The People)"
+    explanationText: "<img src=img/logos/SB_Logo.png> Sarvajana Balaya <br> (Power Of All The People)"
     },
     {
     searchString: "TPNA",
-    explanationText: "<img/logos/TPNA_Logo.png> Tamil People's National Alliance"
+    explanationText: "<img src=img/logos/TPNA_Logo.png> Tamil People's National Alliance"
     },
     {
     searchString: "MNA",
-    explanationText: "<img/logos/MNA_Logo.png> Muslim National Alliance"
+    explanationText: "<img src=img/logos/MNA_Logo.png> Muslim National Alliance"
     },
     {
     searchString: "OPPP",
-    explanationText: "<img/logos/OPPP_Logo.png> Our Power of Peoples Party"
+    explanationText: "<img src=img/logos/OPPP_Logo.png> Our Power of Peoples Party"
     },
     {
     searchString: "SJB",
-    explanationText: "<img/logos/SJB_Logo.png> Samagi Jana Balawegaya <br> (United People's Power)"
+    explanationText: "<img src=img/logos/SJB_Logo.png> Samagi Jana Balawegaya <br> (United People's Power)"
     },
     {
     searchString: "SLPFA",
-    explanationText: "<img/logos/SLPFA_Logo.png> Sri Lanka Peoples Freedom Alliance"
+    explanationText: "<img src=img/logos/SLPFA_Logo.png> Sri Lanka Peoples Freedom Alliance"
     },
     {
     searchString: "NC",
-    explanationText: "<img/logos/NC_Logo.png> National Congress"
+    explanationText: "<img src=img/logos/NC_Logo.png> National Congress"
     },
     {
     searchString: "ACMC",
-    explanationText: "<img/logos/ACMC_Logo.png> All Ceylon Makkal Congress <br> (All Ceylon People's Congress)"
+    explanationText: "<img src=img/logos/ACMC_Logo.png> All Ceylon Makkal Congress <br> (All Ceylon People's Congress)"
     },
     {
     searchString: "UNFGG",
-    explanationText: "<img/logos/UNF_Logo.png> United National Front for Good Governance"
+    explanationText: "<img src=img/logos/UNF_Logo.png> United National Front for Good Governance"
     },
     {
     searchString: "SLP",
-    explanationText: "<img/logos/SLP_Logo.png> Sri Lanka Labour Party"
+    explanationText: "<img src=img/logos/SLP_Logo.png> Sri Lanka Labour Party"
     },
     {
     searchString: "TMVP",
-    explanationText: "<img/logos/TMVP_Logo.png> Tamil Makkal Viduthalai Pullikal"
+    explanationText: "<img src=img/logos/TMVP_Logo.png> Tamil Makkal Viduthalai Pullikal"
     },
     {
     searchString: "TNPF",
-    explanationText: "<img/logos/TNPF_Logo.png> Tamil National People's Front"
+    explanationText: "<img src=img/logos/TNPF_Logo.png> Tamil National People's Front"
     },
     {
     searchString: "DNA",
-    explanationText: "<img/logos/DNA_Logo.png> Democratic National Alliance"
+    explanationText: "<img src=img/logos/DNA_Logo.png> Democratic National Alliance"
     },
     {
     searchString: "NDF",
-    explanationText: "<img/logos/NDF_Logo.png> New Democratic Front"
+    explanationText: "<img src=img/logos/NDF_Logo.png> New Democratic Front"
     },
     {
     searchString: "JHU",
-    explanationText: "<img/logos/JHU_Logo.png> Jathika Hela Urumaya <br> (National Heritage Party)"
+    explanationText: "<img src=img/logos/JHU_Logo.png> Jathika Hela Urumaya <br> (National Heritage Party)"
     },
     {
     searchString: "UPFA",
-    explanationText: "<img/logos/UPFA_Logo.png> United People's Freedom Alliance"
+    explanationText: "<img src=img/logos/UPFA_Logo.png> United People's Freedom Alliance"
     },
     {
     searchString: "UNF",
-    explanationText: "<img/logos/UNF_Logo.png> United National Front"
+    explanationText: "<im src=imgg/logos/UNF_Logo.png> United National Front"
     },
     {
     searchString: "SH",
-    explanationText: "<img/logos/JHU_Logo.png> Sinhala Heritage"
+    explanationText: "<img src=img/logos/JHU_Logo.png> Sinhala Heritage"
     },
     {
     searchString: "TNA",
-    explanationText: "<img/logos/TNA_Logo.png> Tamil National Alliance"
+    explanationText: "<img src=img/logos/TNA_Logo.png> Tamil National Alliance"
     },
     {
     searchString: "NUA",
-    explanationText: "<img/logos/NUA_Logo.png> National Unity Alliance"
+    explanationText: "<img src=img/logos/NUA_Logo.png> National Unity Alliance"
     },
     {
     searchString: "SMBP",
