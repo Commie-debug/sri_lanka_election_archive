@@ -314,7 +314,7 @@ const tooltipList = [{
     },
     {
     searchString: "TMVP",
-    explanationText: "<img src=img/logos/TMVP_Logo.png> Tamil Makkal Viduthalai Pullikal"
+    explanationText: "<img src=img/logos/TMVP_Logo.png> Tamil Makkal Viduthalai Pullikal <br> (Tamil Peoples Liberation Tigers)"
     },
     {
     searchString: "TNPF",
