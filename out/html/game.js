@@ -100,11 +100,7 @@
     var layers = {
         music: {
             playlist: [
-                'music/basic/Sri_Lanka_Anthem.mp3',
-                'music/basic/Vimukthi_Gee.mp3',
-                'music/basic/SLFP_Song.mp3',
-                'music/basic/Bandaranaike_song.mp3',
-                'music/basic/Siu_Digin_Galana_Andure.mp3'
+                'special_music/Yadamin_Banda.mp3,
             ],
             currentIndex: 0,
             audio: null,
