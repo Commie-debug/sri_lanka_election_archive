@@ -88,16 +88,16 @@ header {
   margin-right: 0;
 }
 #header-links a:first-of-type {
-  background-color: #F7B718;
-  color: #ffffff;
+  background-color: #e8a600;
+  color: #f6d582;
 }
 #header-links a:nth-of-type(2) {
-  background-color: #941E32;
-  color: #ffffff;
+  background-color: #6c0012;
+  color: #96525d;
 }
 #header-links a:nth-of-type(3) {
-  background-color: #DF7500;
-  color: #ffffff;
+  background-color: #c46500;
+  color: #e1a05c;
 }
 header h1, header h2 {
   display: inline-block;
