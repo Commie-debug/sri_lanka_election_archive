@@ -100,7 +100,7 @@
     var layers = {
         music: {
             playlist: [
-                'special_music/Yadamin_Banda.mp3,
+                'special_music/Yadamin_Banda.mp3',
             ],
             currentIndex: 0,
             audio: null,
