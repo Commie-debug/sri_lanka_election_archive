@@ -17,3 +17,4 @@ new-page: true
 - @enter: Enter
 
 @enter
+go-to:start_menu

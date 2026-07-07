@@ -109,7 +109,7 @@
         },
         inside: {
             playlist: [
-                'special_music/Yadamin_Banda.mp3',
+                'music/basic/Siu_Digin_Galana_Andure.mp3',
             ],,
             currentIndex: 0,
             audio: null,
