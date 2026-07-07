@@ -4,7 +4,7 @@ set-bg: img/library.jpg
 go-to: post_event if started = 1; start_menu_2 if started = 0
 on-display: {!
 window.AudioManager.start(); 
-window.AudioManager.playSong('special_music/Yadamin_Banda.mp3'); 
+window.AudioManager.playSong('special_music/Yadamin_Banda.mp3','outside'); 
 !}
 
 @start_menu_2
@@ -14,25 +14,6 @@ new-page: true
 
 **Update: Apple  **
 
-- @start: Election Archive
-- @credits: Credits & Thanks :)
+- @enter: Enter
 
-@start
-go-to: election_simulation
-
-@credits
-new-page: true
-
-.Pretty much every wikipedia page for elections between 1947 and 2024
-
-.Additional sources directly from the election commission's archive with emphasis on the documents relavent to 1947-1977
-
-.My cat 
-
-.My grandpa 
-
-.My friends both irl and from the RedAutumn community who pushed me to finish this & other projects
-
-- @return: Leave
-
-
+@enter

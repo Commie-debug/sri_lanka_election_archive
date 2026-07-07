@@ -98,7 +98,7 @@
   // Custom Audio Manager curtosy of Puddle on discord
   window.AudioManager = (function() {
     var layers = {
-        music: {
+        outside: {
             playlist: [
                 'special_music/Yadamin_Banda.mp3',
             ],
@@ -107,11 +107,13 @@
             volume: 1.0,
             enabled: true
         },
-        ambient: {
-            playlist: [],
+        inside: {
+            playlist: [
+                'special_music/Yadamin_Banda.mp3',
+            ],,
             currentIndex: 0,
             audio: null,
-            volume: 0.4,
+            volume: 1.0,
             enabled: false
         },
         sfx: {
