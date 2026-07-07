@@ -110,7 +110,7 @@
         inside: {
             playlist: [
                 'music/basic/Siu_Digin_Galana_Andure.mp3',
-            ],,
+            ],
             currentIndex: 0,
             audio: null,
             volume: 1.0,
