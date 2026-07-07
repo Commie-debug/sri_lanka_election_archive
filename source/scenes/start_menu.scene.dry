@@ -8,7 +8,7 @@ window.AudioManager.stop('outside');
 window.AudioManager.playSong('special_music/Yadamin_Banda.mp3','inside'); 
 !}
 
-= Entrance
+= The Entrance
 
 - @start: Election Archive
 - @credits: Credits & Thanks :)
