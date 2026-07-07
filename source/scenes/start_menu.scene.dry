@@ -16,7 +16,7 @@ window.AudioManager.playSong('special_music/Yadamin_Banda.mp3','inside');
 go-to: election_simulation
 
 @credits
-go-to:credits
+go-to: credits
 
 
 
