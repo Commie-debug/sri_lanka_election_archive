@@ -1,4 +1,5 @@
 title: Credits
+new-page: true
 
 Many works were referenced in the making of the archive
 
@@ -9,6 +10,7 @@ Many works were referenced in the making of the archive
 - @leave: Back
 
 @articles
+new-page: true
 
 Every parliament and presidential election page on wikipedia and the following gov documents:
 
@@ -39,15 +41,23 @@ https://en.wikipedia.org/wiki/2015_Sri_Lankan_parliamentary_election
 https://en.wikipedia.org/wiki/2020_Sri_Lankan_parliamentary_election
 https://en.wikipedia.org/wiki/2024_Sri_Lankan_parliamentary_election
 
-- @credits: Back
+- @images: Image sources
+- @others: Others
+- @contributions: Contributions
+- @leave: Back
 
 @images
+new-page: true
 
 All party/alliance logo's are custom made by Communist45 or redesigned offical parties logos by Communist45.
 
-- @credits: Back
+- @articles: Sources
+- @others: Others
+- @contributions: Contributions
+- @leave: Back
 
 @others 
+new-page: true
 
 .My grandpa, mother, grandma, sister & father 
 
@@ -55,7 +65,13 @@ All party/alliance logo's are custom made by Communist45 or redesigned offical p
 
 .My cat
 
+- @articles: Sources
+- @images: Image sources
+- @contributions: Contributions
+- @leave: Back
+
 @contributions
+new-page: true
 
 Custom display tooltip and automatic text highlighter: Originalname, developer of Dyanmic Social Democracy on discord
 
@@ -63,5 +79,11 @@ Inspiration for custom radio: Egehan, developer of Anatolian Dawn on discord
 
 Basic code and inspiration for the parliament tooltips: BrokenArrow, developer of Road to Ithaca and the Dendry Nexus extension for VScode on discord
 
+- @articles: Sources
+- @images: Image sources
+- @others: Others
+- @leave: Back
+
 @leave
+new-page: true
 go-to: start_menu

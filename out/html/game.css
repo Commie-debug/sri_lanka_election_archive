@@ -638,6 +638,12 @@ body.dark-mode .mytooltip .mytooltiptext {
 .seat.party-nothovered {
     opacity: 0.3;
 }
+body.dark-mode .parliament-tooltip {
+    background: #1a1a2e;
+    color: #e0e0e0;
+    border-color: #7a3b3b;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.6);
+}
 
 .save_info {
     min-width: 10em;
@@ -988,7 +994,7 @@ img {
     padding: 0.6em;
 }
 
-/* Backdrop that blocks center interaction */
+/*backdrop that blocks center interaction */
 #page.right-panel-open::before {
     content: '';
     position: fixed;
