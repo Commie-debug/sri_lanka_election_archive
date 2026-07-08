@@ -11,7 +11,7 @@ Herein contains relevant information about the government and politics of Sri La
 @menu
 
 - @government: Sri Lanka's system of government
-- @return: Exit library.
+- @leave: Exit library.
 
 
 @government
@@ -28,3 +28,5 @@ Parliament consists of 196 members elected through a system of proportional repr
 
 Parliament also consists of 29 "National List" MP's who are nominated by their party. The 29 seats are divied proportionally based on the total votes each party secured in the election.
 
+@leave
+go-to: start_menu
