@@ -1209,42 +1209,12 @@ on-display: {!
 
 @1993
 new-page: true
-on-arrival: {!
-    var _newData = [];
-    function _addP(id, legend, seats) {
-        if (seats && seats > 0) _newData.push({ id: id, legend: legend, name: legend, seats: seats });
-    }
-    _addP('vacant', 'VACANT', 225);
-    var _newSig = JSON.stringify(_newData.map(function(p){ return p.id + p.seats; }));
-    var _changed = (_newSig !== window._parliSig);
-    window._parliData = _newData;
-    if (_changed) { window._parliSig = _newSig; window._parliAnimate = true; }
-    else { window._parliAnimate = false; }
-!}
-on-display: {!
-(function() {
-    if (!d3 || !d3.parliament || !window._parliData || window._parliData.length === 0) return;
-    var el = document.getElementById('status_parliament');
-    if (!el) return;
-    var w = el.parentElement.offsetWidth || 450;
-    el.setAttribute('width', w);
-    el.setAttribute('height', Math.round(w * 0.50));
-    var parl = d3.parliament();
-    parl.width(w).height(Math.round(w * 0.50)).innerRadiusCoef(0.4);
-    var animate = window._parliAnimate;
-    parl.enter.fromCenter(animate).smallToBig(animate);
-    parl.exit.toCenter(animate).bigToSmall(animate);
-    d3.select('#status_parliament').datum(window._parliData).call(parl);
-})();
-!}
 
 = 1993 Indirect Sri Lankan Presidential Election Results
 
 **Voting Composition of Parliament (225 seats)**
 
-**Elected without a vote dew to running uncontested.**
-
-{!<svg id="status_parliament" style="width: 100%; height: 700px; display: block; margin: 0 auto;"></svg>!}
+**Elected without a vote in parliament dew to running uncontested.**
 
 {!<table>!}
 {!<tr><th>Candidate</th><th>Party</th><th>Votes</th><th>Vote %</th><th>Supporting Parties</th></tr>!}
