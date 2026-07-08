@@ -1212,18 +1212,14 @@ new-page: true
 
 = 1993 Indirect Sri Lankan Presidential Election Results
 
-**Voting Composition of Parliament (225 seats)**
-
 **Elected without a vote in parliament dew to running uncontested.**
 
 {!<table>!}
-{!<tr><th>Candidate</th><th>Party</th><th>Votes</th><th>Vote %</th><th>Supporting Parties</th></tr>!}
+{!<tr><th>Candidate</th><th>Party</th><th>Votes</th></tr>!}
 
 {!<tr><td>!}Dingiri Banda Wijetunge{!</td><td><span style="color:!}#006400{!;">!}UNP{!</span></td><th></th><td>!}{!</td><td>!}{!</td></tr>!} 
 
 {!</table>!}
-
-= 1994 Sri Lankan Parliamentary Election Results
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -1370,7 +1366,8 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #F7D917'> </div> !} TULF {!</td><td>!} 5 {!</td><td>!} 1.67% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #FF2226'> </div> !} JVP {!</td><td>!} 1 {!</td><td>!} 1.13% {!</td><td></td></tr>!}
+{!<tr style="background-color: transparent;"><td><strong>Sri Lanka Progressive Front</strong></td><td><strong>1</strong></td><td><strong>1.13%</strong></td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #FF2226'> </div> !} JVP {!</td><td>!} -% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #f98538'> </div> !} MEP {!</td><td>!} 0 {!</td><td>!} 0.86% {!</td><td></td></tr>!}
 
@@ -1439,7 +1436,7 @@ on-arrival: {!
     Q.pres_result_4_color = '#808080';
     Q.pres_result_4_endorsers = "None";
     Q.pres_result_5_candidate = "Nihal Galappaththi";
-    Q.pres_result_5_party = "JVP";
+    Q.pres_result_5_party = "Sri Lanka Progressive Front";
     Q.pres_result_5_votes = 0.30;
     Q.pres_result_5_color = '#FF2226';
     Q.pres_result_5_endorsers = "JVP";
