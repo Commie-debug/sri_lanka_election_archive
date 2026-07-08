@@ -1249,7 +1249,7 @@ on-display: {!
 {!<table>!}
 {!<tr><th>Candidate</th><th>Party</th><th>Votes</th><th>Vote %</th><th>Supporting Parties</th></tr>!}
 
-{!<tr><td>!}Dingiri Banda Wijetung{!</td><td><span style="color:!}#006400{!;">!}UNP{!</span></td><th></th><td>!}{!</td><td>!}{!</td></tr>!} 
+{!<tr><td>!}Dingiri Banda Wijetunge{!</td><td><span style="color:!}#006400{!;">!}UNP{!</span></td><th></th><td>!}{!</td><td>!}{!</td></tr>!} 
 
 {!</table>!}
 
