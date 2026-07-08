@@ -1049,8 +1049,6 @@ table {
 }
 .seat.slfp {
     fill: #00008B;
-    stroke: var(--border-color);
-    stroke-width: 1.5px;
 }
 .seat.tulf {
     fill: #F7D917;
