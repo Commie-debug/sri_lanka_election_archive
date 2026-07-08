@@ -10,12 +10,12 @@ window.AudioManager.playSong('special_music/Yadamin_Banda.mp3','inside');
 = The Entrance
 
 - @start: Election Archive
-- @credits: Credits & Thanks :)
+- @creditsdisplay: Credits & Thanks :)
 
 @start
 go-to: election_simulation
 
-@credits
+@creditsdisplay
 go-to: credits
 
 
