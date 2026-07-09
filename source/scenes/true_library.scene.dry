@@ -1,0 +1,34 @@
+title: library
+new-page: true
+is-special: true
+go-to: menu
+set-bg: img/jaffna_library.jpg
+
+= The Library
+
+Herein contains relevant information about the government and politics of Sri Lanka.
+
+@menu
+
+- @government: Sri Lanka's system of government
+- @leave: Exit library.
+
+
+@government
+go-to: menu
+new-page: true
+
+Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is a semi-presidential republic with a powerful president and a parliament with somewhat constrained authority. The President serves as both head of state and head of government, wielding substantial executive power, while Parliament is responsible for legislation but operates under considerable presidential influence.
+
+The President, modelled after the French president is elected by a ranked choice vote. The presidential term lasts six years, and the President can be re-elected. The role of the president extends far beyond ceremonial duties—the office possesses extensive governing powers including the authority to appoint the Prime Minister and Cabinet, dissolve Parliament at his discretion, and personally hold multiple ministerial portfolios. The President can govern through executive decree in many areas, bypassing Parliament and concentrating substantial decision-making authority in the presidency itself. The President also appoints provincial governors who represent the central government's authority in the regions.
+
+The President is elected via ranked-choice voting where voters rank 3 candidates. If no candidate won more than 50% of the national vote from just 1st preference vote, all but the top 2 candidates are eliminated and the second and third preference votes of the eliminated candidates are redistributed to the remaining two candidates until one of them secures an outright majority.
+
+If the sitting president resigns or the office is otherwise vacant, parliament has the authority to vote in a member of parliament to serve out the remainder of the previous presidents term. If only one candidate was nominated to serve the remaining term, the parliamentary vote is bypassed.
+
+Parliament consists of 196 members elected through a system of proportional representation, giving parties seats roughly proportional to their vote share in each electoral district. Elections operate with voters casting their ballots in multi-member electoral districts that correspond to the country's administrative districts. Parliamentary terms last six years unless dissolved earlier by the President. Parliament is responsible for passing legislation and can scrutinise government actions, though its ability to check presidential power is limited by the powers of the president.
+
+Parliament also consists of 29 "National List" MP's who are nominated by their party. The 29 seats are divied proportionally based on the total votes each party secured in the election.
+
+@leave
+go-to: start_menu
