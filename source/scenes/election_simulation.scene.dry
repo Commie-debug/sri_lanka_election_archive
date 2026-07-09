@@ -4028,7 +4028,7 @@ on-arrival: {!
     Q.pres_result_9_party = "National Democratic Front";
     Q.pres_result_9_votes = 0.16;
     Q.pres_result_9_color = '#808080';
-    Q.pres_result_9_endorsers = "None";
+    Q.pres_result_9_endorsers = "SLFP faction";
 
     Q.pres_result_10_candidate = "Anuraddha Polgampola";
     Q.pres_result_10_party = "Independent";
