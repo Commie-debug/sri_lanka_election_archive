@@ -7,7 +7,7 @@ window.AudioManager.start('inside');
 window.AudioManager.playSong('music/basic/Siu_Digin_Galana_Andure.mp3','inside'); 
 !}
 
-= The Entrance
+= Main Menu
 
 - @start: Election Archive
 - @librarytrue: Library
