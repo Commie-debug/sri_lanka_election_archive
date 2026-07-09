@@ -2,9 +2,8 @@ title: Root Scene
 new-page: true
 set-bg: img/library.jpg
 on-display: {!
-window.AudioManager.stop('outside'); 
-window.AudioManager.start('inside');
-window.AudioManager.playSong('music/basic/Siu_Digin_Galana_Andure.mp3','inside'); 
+window.AudioManager.stopLayer('outside'); 
+window.AudioManager.playLayer('inside'); 
 !}
 
 = Main Menu
