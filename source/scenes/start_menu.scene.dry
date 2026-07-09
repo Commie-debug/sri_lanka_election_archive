@@ -2,7 +2,6 @@ title: Root Scene
 new-page: true
 set-bg: img/library.jpg
 on-display: {!
-window.AudioManager.start(); 
 window.AudioManager.stop('outside'); 
 window.AudioManager.playSong('music/basic/Siu_Digin_Galana_Andure.mp3','inside'); 
 !}
