@@ -4,7 +4,7 @@ set-bg: img/library.jpg
 on-display: {!
 window.AudioManager.start(); 
 window.AudioManager.stop('outside'); 
-window.AudioManager.playSong('special_music/Yadamin_Banda.mp3','inside'); 
+window.AudioManager.playSong('music/basic/Siu_Digin_Galana_Andure.mp3','inside'); 
 !}
 
 = The Entrance
