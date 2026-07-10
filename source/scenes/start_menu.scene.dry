@@ -1,4 +1,4 @@
-title: Root Scene
+title: Main Menu
 new-page: true
 set-bg: img/library.jpg
 on-display: {!

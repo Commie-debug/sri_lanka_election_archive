@@ -19,3 +19,6 @@ new-page: true
 
 @enter
 go-to:start_menu
+on-departure: {!
+window.AudioManager.playSongOnce('music/sfx/WIP.mp3', 'sfx');
+!}
