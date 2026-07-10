@@ -4495,7 +4495,9 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #ffd000'> </div> !} ITAK {!</td><td>!} 8 {!</td><td>!} 2.31% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #00008B'> </div> !} SB {!</td><td>!} 1 {!</td><td>!} 1.60% {!</td><td></td></tr>!}
+{!<tr style="background-color: transparent;"><td><strong>SB</strong></td><td><strong>1</strong></td><td><strong>1.60%</strong></td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #00008B'> </div> !} SMBP {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #00008B'> </div> !} CPSL {!</td><td>!} -% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #2DCF3E'> </div> !} SLMC {!</td><td>!} 3 {!</td><td>!} 0.78% {!</td><td></td></tr>!}
 
@@ -4503,7 +4505,10 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #006400'> </div> !} UNP {!</td><td>!} 1 {!</td><td>!} 0.59% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #d5a112'> </div> !} DTNA {!</td><td>!} 1 {!</td><td>!} 0.59% {!</td><td></td></tr>!}
+{!<tr style="background-color: transparent;"><td><strong>DTNA</strong></td><td><strong>1</strong></td><td><strong>0.59%</strong></td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #d5a112'> </div> !} TELO {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #d5a112'> </div> !} EPRLF {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #d5a112'> </div> !} DPLF/TELO {!</td><td>!} -% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #000000'> </div> !} Democratic Left Front {!</td><td>!} 0 {!</td><td>!} 0.46% {!</td><td></td></tr>!}
 
