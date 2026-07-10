@@ -2,8 +2,8 @@ title: Root Scene
 new-page: true
 set-bg: img/library.jpg
 on-display: {!
-window.AudioManager.stopLayer('outside'); 
-window.AudioManager.playLayer('inside'); 
+window.AudioManager.disableLayer('outside');
+window.AudioManager.enableLayer('inside');
 !}
 
 = Main Menu
