@@ -3,7 +3,6 @@ new-page: true
 set-bg: img/library.jpg
 go-to: post_event if started = 1; start_menu_2 if started = 0
 on-display: {!
-window.AudioManager.start('outside'); 
 window.AudioManager.playSong('special_music/Yadamin_Banda.mp3','outside'); 
 window.AudioManager.playLayer('outside'); 
 !}
