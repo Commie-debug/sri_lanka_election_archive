@@ -4268,9 +4268,12 @@ on-arrival: {!
 
 **National Results:**
 
+{!<div style="display:flex; gap:1em; align-items:flex-start;">!}
+{!<div style="flex:2; min-width:0;">!}
+
 **First Round:**
 
-{!<table style="text-align:left; border-spacing: 0.5em;">!}
+{!<table style="text-align:left; border-spacing: 0.5em; width:100%;">!}
 {!<tr><th>Candidate</th><th>Party</th><th>Vote %</th><th>Supporting Parties</th></tr>!}
 
 {!<tr><td>!}[+ pres_result_0_candidate +]{!</td><td><span style="color:!}[+ pres_result_0_color +]{!;">!}**[+ pres_result_0_party +]**{!</span></td><td>!}**[+ pres_result_0_votes +]%**{!</td><td>!}[+ pres_result_0_endorsers +]{!</td></tr>!} 
@@ -4314,15 +4317,21 @@ on-arrival: {!
 
 {!</table>!}
 
+{!</div>!}
+{!<div style="flex:1; min-width:0;">!}
+
 **Second Round:**
 
-{!<table style="text-align:left; border-spacing: 0.5em;">!}
-{!<tr><th>Candidate</th><th>Party</th><th>Vote %</th><th>Supporting Parties</th></tr>!}
+{!<table style="text-align:left; border-spacing: 0.5em; width:100%;">!}
+{!<tr><th>Candidate</th><th>Party</th><th>Vote %</th></tr>!}
 
 {!<tr><td>!}Anura Kumara Dissanayake{!</td><td><span style="color:!}#9F005D{!;">!}NPP{!</span></td><td>!}55.89%{!</td></tr>!} 
 {!<tr><td>!}Sajith Premadasa{!</td><td><span style="color:!}#019f01{!;">!}SJB{!</span></td><td>!}44.11%{!</td></tr>!} 
 
 {!</table>!}
+
+{!</div>!}
+{!</div>!}
 
 {!<div id="district-detail-container" style="margin-top: 1em;"></div>!}
 
