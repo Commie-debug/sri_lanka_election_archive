@@ -1656,6 +1656,7 @@ document.addEventListener('mouseover', e => {
 document.addEventListener('click', function(e) {
     var choiceLink = e.target.closest('ul.choices a');
     if (choiceLink) {
+        console.log('choice clicked!');
         AudioManager.playSongOnce('music/sfx/button_click.mp3', 'sfx');
     }
 },true);
