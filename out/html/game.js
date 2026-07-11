@@ -1653,6 +1653,13 @@ document.addEventListener('mouseover', e => {
     }
 });
 
+document.addEventListener('click', function(e) {
+    var choiceLink = e.target.closest('ul.choices a');
+    if (choiceLink) {
+        AudioManager.playSongOnce('music/sfx/button_click.mp3', 'sfx');
+    }
+});
+
 window.addEventListener('dendryload', function() {
     window.updateMusicBtn();
 });
