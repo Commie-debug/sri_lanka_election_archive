@@ -326,6 +326,15 @@
             }, 800);
         },
 
+        playOneShot: function(path, layerName) {
+            var name = layerName || 'sfx';
+            var layer = layers[name];
+            var vol = muted ? 0 : layer.volume;
+            var sound = new Audio(path);
+            sound.volume = vol;
+            sound.play().catch(function() {});
+        },
+
         addSong: function(layerName, path) {
             layers[layerName].playlist.push(path);
         },
@@ -1657,7 +1666,7 @@ document.addEventListener('click', function(e) {
     var choiceLink = e.target.closest('ul.choices li');
     if (choiceLink) {
         console.log('choice clicked!');
-        AudioManager.playSongOnce('music/sfx/button_click.mp3', 'sfx');
+        AudioManager.playOneShot('music/sfx/button_click.mp3', 'sfx');
     }
 },true);
 
