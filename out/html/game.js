@@ -1658,7 +1658,7 @@ document.addEventListener('click', function(e) {
     if (choiceLink) {
         AudioManager.playSongOnce('music/sfx/button_click.mp3', 'sfx');
     }
-});
+},true);
 
 window.addEventListener('dendryload', function() {
     window.updateMusicBtn();
