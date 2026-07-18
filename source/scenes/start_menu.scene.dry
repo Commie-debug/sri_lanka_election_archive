@@ -1,10 +1,6 @@
 title: Main Menu
 new-page: true
 set-bg: img/library.jpg
-on-display: {!
-window.AudioManager.disableLayer('outside');
-window.AudioManager.enableLayer('inside');
-!}
 
 = Main Menu
 

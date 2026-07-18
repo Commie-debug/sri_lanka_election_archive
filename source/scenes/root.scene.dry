@@ -11,9 +11,13 @@ new-page: true
 
 = Sri Lanka Election Archive
 
-**Update: Pls look nice **
+**Update: Nice **
 
 - @enter: Enter...
 
 @enter
 go-to:start_menu
+on-departure:{!
+window.AudioManager.disableLayer('outside');
+window.AudioManager.enableLayer('inside');
+!}
