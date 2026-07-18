@@ -202,7 +202,7 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #006400'> </div> !} UNP {!</td><td>!} 54 {!</td><td>!} 44.08% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #00008B; outline: 2px; outline-style: solid;'> </div> !} SLFP {!</td><td>!} **9** {!</td><td>!} **15.52%** {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #00008B'> </div> !} SLFP {!</td><td>!} 9 {!</td><td>!} 15.52% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #A91101'> </div> !} LSSP {!</td><td>!} 9 {!</td><td>!} 13.11% {!</td><td></td></tr>!}
 
@@ -387,7 +387,7 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #006400'> </div> !} UNP {!</td><td>!} 50 {!</td><td>!} 29.39% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #00008B; outline: 2px; outline-style: solid;'> </div> !} SLFP {!</td><td>!} **46** {!</td><td>!} **20.92%** {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #00008B'> </div> !} SLFP {!</td><td>!} 46 {!</td><td>!} 20.92% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #A91101'> </div> !} LSSP {!</td><td>!} 10 {!</td><td>!} 10.52% {!</td><td></td></tr>!}
 
@@ -497,7 +497,7 @@ on-display: {!
 {!<table>!}
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #00008B; outline: 2px; outline-style: solid;'> </div> !} SLFP {!</td><td>!} **75** {!</td><td>!} **33.22%** {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #00008B'> </div> !} SLFP {!</td><td>!} 75 {!</td><td>!} 33.22% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #006400'> </div> !} UNP {!</td><td>!} 30 {!</td><td>!} 37.19% {!</td><td></td></tr>!}
 
@@ -589,7 +589,7 @@ on-display: {!
 
 {!<tr><td><div class="box" style='background-color: #006400'> </div> !} UNP {!</td><td>!} 66 {!</td><td>!} 39.31% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #00008B; outline: 2px; outline-style: solid;'> </div> !} SLFP {!</td><td>!} **41** {!</td><td>!} **30.18%** {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #00008B'> </div> !} SLFP {!</td><td>!} 41 {!</td><td>!} 30.18% {!</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #A91101'> </div> !} LSSP {!</td><td>!} 10 {!</td><td>!} 7.47% {!</td><td></td></tr>!}
 
@@ -675,7 +675,7 @@ on-display: {!
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
 
 {!<tr style="background-color: transparent;"><td><strong>United Front</strong></td><td><strong></strong></td><td><strong>50.71%</strong></td><td></td></tr>!}
-{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #00008B; outline: 2px; outline-style: solid;'> </div> !} SLFP {!</td><td>!} **91** {!</td><td>!} **36.86%** {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #00008B'> </div> !} SLFP {!</td><td>!} 91 {!</td><td>!} 36.86% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #A91101'> </div> !} LSSP {!</td><td>!} 19 {!</td><td>!} 8.68% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #65000B'> </div> !} CPC {!</td><td>!} 6 {!</td><td>!} 3.39% {!</td><td></td></tr>!}
 
@@ -752,7 +752,7 @@ on-display: {!
 {!<tr><td>Party/Coalition </td><td>Seats</td><td>Vote%</td><td></td></tr>!}
 
 {!<tr><td><div class="box" style='background-color: #006400'> </div> !} UNP {!</td><td>!} 140 {!</td><td>!} 50.92% {!</td><td></td></tr>!}
-{!<tr><td><div class="box" style='background-color: #00008B; outline: 2px; outline-style: solid;'> </div> !} **SLFP** {!</td><td>!} **8** {!</td><td>!} **29.72%** {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #00008B'> </div> !} SLFP {!</td><td>!} 8 {!</td><td>!} 29.72% {!</td><td></td></tr>!}
 {!<tr><td><div class="box" style='background-color: #F7D917'> </div> !} TULF {!</td><td>!} 18 {!</td><td>!} 6.75% {!</td><td></td></tr>!}
 {!<tr><td><div class="box" style='background-color: #A91101'> </div> !} LSSP {!</td><td>!} 0 {!</td><td>!} 3.61% {!</td><td></td></tr>!}
 {!<tr><td><div class="box" style='background-color: #65000B'> </div> !} CPSL {!</td><td>!} 0 {!</td><td>!} 1.98% {!</td><td></td></tr>!}
@@ -1171,7 +1171,7 @@ on-display: {!
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} UNP {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #006400'> </div> !} CWC {!</td><td>!} -% {!</td><td></td></tr>!}
 
-{!<tr><td><div class="box" style='background-color: #00008B; outline: 2px; outline-style: solid;'> </div> !} **SLFP** {!</td><td>!} **67** {!</td><td>!} **31.90%** {!</td><td></td></tr>!}
+{!<tr><td><div class="box" style='background-color: #00008B'> </div> !} SLFP {!</td><td>!} 67 {!</td><td>!} 31.90% {!</td><td></td></tr>!}
 {!<tr><td><div class="box" style='background-color: #FF2400'> </div> !} EROS {!</td><td>!} 13 {!</td><td>!} 4.11% {!</td><td></td></tr>!}
 
 {!<tr style="background-color: transparent;"><td><strong>TULF-led alliance</strong></td><td><strong>10</strong></td><td><strong>3.37%</strong></td><td></td></tr>!}
