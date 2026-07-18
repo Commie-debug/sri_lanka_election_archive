@@ -1048,13 +1048,13 @@ on-arrival: {!
     function _addP(id, legend, seats) {
         if (seats && seats > 0) _newData.push({ id: id, legend: legend, name: legend, seats: seats });
     }
-    _addP('usa',  'USA',  3);
-    _addP('slfp',  'SLFP', 67);
-    _addP('mep',   'MEP',  3);
-    _addP('slmc',  'SLMC', 4);
-    _addP('tulf',  'TULF', 10);
-    _addP('eros',  'EROS', 13);
     _addP('unp',   'UNP',  125);
+    _addP('slfp',  'SLFP', 67);
+    _addP('eros',  'EROS', 13);
+    _addP('tulf',  'TULF', 10);
+    _addP('slmc',  'SLMC', 4);
+    _addP('usa',  'USA',  3);
+    _addP('mep',   'MEP',  3);
     var _newSig = JSON.stringify(_newData.map(function(p){ return p.id + p.seats; }));
     var _changed = (_newSig !== window._parliSig);
     window._parliData = _newData;
