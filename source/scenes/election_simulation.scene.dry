@@ -544,7 +544,7 @@ on-arrival: {!
     _addP('cpc',   'CPC',  4);
     _addP('slfsp',   'SLFSP',  5);
     _addP('itak',   'ITAK',  14);
-    _addP('actc',   'ACTC',  3);
+    _addP('actc',   'ACTC',  7);
     _addP('mep',   'MEP',  1);
     _addP('nlf',   'NLF',  1);
     _addP('independent',  'Independent', 6);
