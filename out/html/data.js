@@ -530,7 +530,7 @@ const tooltipList = [{
     },
     {
     searchString: "USA",
-    explanationText: "<img src=img/logos/PA_Logo.png> United Socialist Alliance "
+    explanationText: "<img src=img/logos/USA_Logo.png> United Socialist Alliance "
     },
 ];
 
