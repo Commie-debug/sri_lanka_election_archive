@@ -1175,8 +1175,8 @@ on-display: {!
 {!<tr><td><div class="box" style='background-color: #FF2400'> </div> !} EROS {!</td><td>!} 13 {!</td><td>!} 4.11% {!</td><td></td></tr>!}
 
 {!<tr style="background-color: transparent;"><td><strong>TULF-led alliance</strong></td><td><strong>10</strong></td><td><strong>3.37%</strong></td><td></td></tr>!}
-{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #F7D917'> </div> !} EPRLF {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #F7D917'> </div> !} TULF {!</td><td>!} -% {!</td><td></td></tr>!}
+{!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #F7D917'> </div> !} EPRLF {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #F7D917'> </div> !} ENDLF {!</td><td>!} -% {!</td><td></td></tr>!}
 {!<tr><td style="padding-left: 20px;"><div class="box" style='background-color: #F7D917'> </div> !} TELO {!</td><td>!} -% {!</td><td></td></tr>!}
 
