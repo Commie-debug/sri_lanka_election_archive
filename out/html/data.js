@@ -67,6 +67,10 @@ const colourList = [{
         style: "color: #663399; font-weight: bold;"
     },
     {
+        word: "USA",
+        style: "color: #663399; font-weight: bold;"
+    },
+    {
         word: "UCPF",
         style: "color: #9C1600; font-weight: bold;"
     },
@@ -523,6 +527,10 @@ const tooltipList = [{
     {
     searchString: "PA",
     explanationText: "<img src=img/logos/PA_Logo.png> People's Alliance "
+    },
+    {
+    searchString: "USA",
+    explanationText: "<img src=img/logos/PA_Logo.png> United Socialist Alliance "
     },
 ];
 
