@@ -957,7 +957,7 @@ on-arrival: {!
     Q.pres_result_2_party = "SLMP";
     Q.pres_result_2_votes = 4.63;
     Q.pres_result_2_color = '#663399';
-    Q.pres_result_2_endorsers = "SLMP, CPSL, LSSP, EPRLF, TELO";
+    Q.pres_result_2_endorsers = "SLMP, CPSL, LSSP, NSSP, USA, EPRLF, TELO";
     
 !}
 
