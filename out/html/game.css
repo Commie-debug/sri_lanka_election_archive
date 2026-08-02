@@ -1242,3 +1242,73 @@ table {
     text-decoration: underline;
     text-decoration-style: dotted;
 }
+
+/* --- Parl election table --- */
+.election-table {
+  border: 1px solid var(--border-color);
+  background: var(--content-bg-color);
+  display: flex;
+  flex-direction: column;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.election-table > p { display: none !important; }
+
+.el-row {
+  display: flex;
+  border-bottom: 1px dotted #888;
+  align-items: stretch;
+}
+.el-row:last-child { border-bottom: none; }
+
+.el-head {
+  background: rgba(0,0,0,0.06);
+  border-bottom: 1px solid var(--border-color);
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.85em;
+}
+body.dark-mode .el-head { background: rgba(255,255,255,0.06); }
+
+.el-row.el-subhead {
+  background: transparent;
+  border-bottom: 1px dotted #888;
+}
+.el-row.el-subhead .el-col {
+  font-weight: bold;
+  font-size: 0.95em;
+}
+body.dark-mode .el-row.el-subhead { 
+  background: transparent; 
+}
+body.dark-mode .el-subhead { background: rgba(0,0,0,0.4); }
+
+.el-col {
+  padding: 6px 10px;
+  box-sizing: border-box;
+  border-right: 1px dotted #888;
+  display: flex;
+  align-items: center;
+}
+.el-col:last-child { border-right: none; }
+
+.el-col-party { flex: 0 0 50%; max-width: 50%; }
+.el-col-seats { flex: 0 0 20%; max-width: 20%; justify-content: center; }
+.el-col-vote  { flex: 0 0 30%; max-width: 30%; justify-content: flex-end; font-family: monospace; font-size: 1.1em;}
+
+.el-col-cand   { flex: 0 0 35%; max-width: 35%; }
+.el-col-pparty { flex: 0 0 20%; max-width: 20%; }
+.el-col-pvote  { flex: 0 0 15%; max-width: 15%; justify-content: flex-end; font-family: monospace; font-size: 1.1em; font-weight: bold;}
+.el-col-psupp  { flex: 0 0 30%; max-width: 30%; font-size: 0.8em; line-height: 1.2; }
+
+.el-swatch {
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  margin-right: 8px;
+  border: 1px solid var(--border-color);
+  flex-shrink: 0;
+}
+.el-indent { padding-left: 28px !important; } 
