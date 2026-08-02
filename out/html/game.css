@@ -1244,6 +1244,7 @@ table {
 }
 
 /* parl/pres election table */
+/* parl/pres election table */
 .election-table {
   border: 1px solid var(--border-color);
   background: var(--content-bg-color);
@@ -1259,7 +1260,7 @@ table {
 .el-row {
   display: flex;
   border-bottom: 1px dotted #888;
-  align-items: stretch;
+  align-items: stretch; 
 }
 .el-row:last-child { border-bottom: none; }
 
@@ -1269,7 +1270,6 @@ table {
   font-weight: bold;
   text-transform: uppercase;
   font-size: 0.85em;
-  align-items: center;
 }
 body.dark-mode .el-head { background: rgba(255,255,255,0.06); }
 
@@ -1280,7 +1280,6 @@ body.dark-mode .el-head { background: rgba(255,255,255,0.06); }
 .el-row.el-subhead .el-col {
   font-weight: bold;
   font-size: 0.95em;
-  align-items: center;
 }
 body.dark-mode .el-row.el-subhead { 
   background: transparent; 
@@ -1291,35 +1290,28 @@ body.dark-mode .el-subhead { background: rgba(0,0,0,0.4); }
   padding: 8px 10px;
   box-sizing: border-box;
   border-right: 1px dotted #888;
-  display: flex;
-  align-items: center; 
+  display: block !important; 
+  word-break: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
 }
 .el-col:last-child { border-right: none; }
 
 .el-col-party { flex: 0 0 50%; max-width: 50%; }
-.el-col-seats { flex: 0 0 20%; max-width: 20%; justify-content: center; }
-.el-col-vote  { flex: 0 0 30%; max-width: 30%; justify-content: flex-end; font-family: monospace; font-size: 1.1em;}
+.el-col-seats { flex: 0 0 20%; max-width: 20%; text-align: center; }
+.el-col-vote  { flex: 0 0 30%; max-width: 30%; text-align: right; font-family: monospace; font-size: 1.1em;}
 
 .el-col-cand   { flex: 0 0 35%; max-width: 35%; }
 .el-col-pparty { flex: 0 0 20%; max-width: 20%; }
-.el-col-pvote  { flex: 0 0 15%; max-width: 15%; justify-content: flex-end; font-family: monospace; font-size: 1.1em; font-weight: bold;}
-
-.el-col-psupp  { 
-  flex: 0 0 30%; 
-  max-width: 30%; 
-  font-size: 0.8em; 
-  line-height: 1.3; 
-  display: block !important; 
-  white-space: normal; 
-  word-break: break-word; 
-  overflow-wrap: break-word;
-}
+.el-col-pvote  { flex: 0 0 15%; max-width: 15%; text-align: right; font-family: monospace; font-size: 1.1em; font-weight: bold;}
+.el-col-psupp  { flex: 0 0 30%; max-width: 30%; font-size: 0.8em; line-height: 1.3; }
 
 .el-swatch {
   width: 12px;
   height: 12px;
   display: inline-block;
   margin-right: 8px;
+  vertical-align: middle;
   border: 1px solid var(--border-color);
   flex-shrink: 0;
 }
