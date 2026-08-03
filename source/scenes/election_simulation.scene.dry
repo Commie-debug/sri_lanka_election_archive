@@ -4012,18 +4012,16 @@ on-display: {!
 
 **Voting Composition of Parliament (225 seats)**
 
-{!<svg id="status_parliament" style="width: 100%; height: 700px; display: block; margin: 0 auto;"></svg>!}
+{!<svg id="status_parliament" style="width: 100%; height: 710px; display: block; margin: 0 auto;"></svg>!}
 
-{!<table>!}
-{!<tr><th>Candidate</th><th>Party</th><th>Votes</th><th>Supporting Parties</th></tr>!}
+{!<div class="election-table">!}
+  {!<div class="el-row el-head"><div class="el-col el-col-cand">Candidate</div><div class="el-col el-col-pparty">Party</div><div class="el-col el-col-pvote">Result</div><div class="el-col el-col-psupp">Supporting Parties</div></div>!}
 
-{!<tr><td>!}Ranil Wickremasinghe{!</td><td><span style="color:!}#006400{!;">!}UNP{!</span></td><th>134</th><td>!}UNP, SLPP majority faction{!</td></tr>!} 
-{!<tr><td>!}Dullas Alahapperuma{!</td><td><span style="color:!}#800020{!;">!}SLPP{!</span></td><th>82</th><td>!}SLPP minority faction, SJB, SLFP, TNA, ACMC, SLMC, Tamil Progressive Alliance{!</td></tr>!} 
-{!<tr><td>!}Anura Kumara Dissanayake{!</td><td><span style="color:!}#9F005D{!;">!}NPP{!</span></td><th>3</th><td>!}NPP, JVP{!</td></tr>!}
-
-{!<tr><td>!}None/Vacant/Invalid{!</td><td><span style="color:!}#dfdfdf{!;">!}None{!</span></td><th>6</th><td>!}{!</td></tr>!} 
-
-{!</table>!}
+  {!<div class="el-row"><div class="el-col el-col-cand">!} Ranil Wickremasinghe {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: #006400;"></div><strong>!} UNP {!</strong></div><div class="el-col el-col-pvote">!} 134 {!</div><div class="el-col el-col-psupp">!} UNP, SLPP majority faction {!</div></div>!}
+  {!<div class="el-row"><div class="el-col el-col-cand">!} Dullas Alahapperuma {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: #800020;"></div><strong>!} SLPP {!</strong></div><div class="el-col el-col-pvote">!} 82 {!</div><div class="el-col el-col-psupp">!} SLPP minority faction, SJB, SLFP, TNA, ACMC, SLMC, Tamil Progressive Alliance {!</div></div>!}
+  {!<div class="el-row"><div class="el-col el-col-cand">!} Anura Kumara Dissanayake {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: #9F005D;"></div><strong>!} NNP {!</strong></div><div class="el-col el-col-pvote">!} 3 {!</div><div class="el-col el-col-psupp">!} NPP, JVP {!</div></div>!}
+  {!<div class="el-row"><div class="el-col el-col-cand">!} None/Vacant/Invalid {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: #dfdfdf;"></div><strong>!} None {!</strong></div><div class="el-col el-col-pvote">!} 6 {!</div><div class="el-col el-col-psupp">!}{!</div></div>!}
+{!</div>!}
 
 - @selection: Back to selection menu...
 - @return: Leave...

@@ -458,7 +458,7 @@ img.inline-img.icon {
   border: 2px solid var(--htext-color);
 }
 
-/* tooltips from originalname/Dynamic Dev */
+/* tooltips from originalname/Dynamic Dev, modified by me */
 .mytooltip {
   position: relative;
   cursor: pointer;
@@ -466,7 +466,7 @@ img.inline-img.icon {
   padding: 2px 1px;
 }
 .mytooltip:hover { background-color: rgb(100, 140, 220); }
-
+/*with enhancements by communist45*/
 .mytooltip .mytooltiptext {
   position: fixed;
   z-index: 999999;
