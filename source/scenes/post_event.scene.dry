@@ -612,12 +612,7 @@ if (this.ui && this.ui.show_portraits) {
 if (typeof window !== "undefined" && window.generateBar) {
 }
 !}
-go-to: events_choice if has_event = 1; main if has_event = 0 and difficulty >= 0; main.main_easy if has_event = 0 and difficulty < 0
 
-= Week [+ week +] [+ month : month +] [+ year +]
 
-@events_choice
-
-- #event
 
 # This scene is solely for updating numbers after events, and routing to special events.
