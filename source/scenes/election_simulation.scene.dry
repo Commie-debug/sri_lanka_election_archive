@@ -97,7 +97,20 @@ on-display: {!
 })();
 !}
 
-= 1947 British Ceylon Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/British_Ceylon.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+    {!<img src="img/Ceylon_1.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.2em; text-transform: uppercase;">!} 1947 British Ceylon Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Brit_Ceylon_Emblemn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
@@ -179,7 +192,19 @@ on-display: {!
 })();
 !}
 
-= 1952 Ceylonese Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Ceylon_2.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1952 Ceylonese Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Ceylon_Emblemn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
@@ -260,7 +285,19 @@ on-display: {!
 })();
 !}
 
-= 1956 Ceylonese Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Ceylon_2.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1956 Ceylonese Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Ceylon_Emblemn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
@@ -347,7 +384,19 @@ on-display: {!
 })();
 !}
 
-= March 1960 Ceylonese Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Ceylon_2.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} March 1960 Ceylonese Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Ceylon_Emblemn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
@@ -437,7 +486,19 @@ on-display: {!
 })();
 !}
 
-= July 1960 Ceylonese Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Ceylon_2.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} July 1960 Ceylonese Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Ceylon_Emblemn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
@@ -516,7 +577,19 @@ on-display: {!
 })();
 !}
 
-= 1965 Ceylonese Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Ceylon_2.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1965 Ceylonese Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Ceylon_Emblemn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
@@ -592,7 +665,19 @@ on-display: {!
 })();
 !}
 
-= 1970 Ceylonese Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Ceylon_2.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1970 Ceylonese Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Ceylon_Emblemn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
@@ -665,7 +750,19 @@ on-display: {!
 })();
 !}
 
-= 1977 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1977 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 {!<div style="display:flex; align-items:flex-start; gap:20px;">!}
 {!<div style="width:450px;">!}
@@ -738,7 +835,19 @@ on-arrival: {!
     Q.pres_result_5_endorsers = "NSSP";
 !}
 
-= 1982 Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1982 Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 81.06%
 
@@ -802,7 +911,19 @@ on-arrival: {!
 @1983
 new-page: true
 
-= 1982 Sri Lankan parliamentary term extension referendum
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.4em; text-transform: uppercase;">!} 1982 Sri Lankan parliamentary term extension referendum {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Do you approve the Bill entitled the Fourth Amendment to the Constitution published in Gazette Extraordinary No 218/23 of November 13, 1982, which provides inter alia that unless sooner dissolved the First parliament shall continue until August 4, 1989, and no longer and shall thereupon stand dissolved?.**
 
@@ -847,7 +968,7 @@ new-page: true
 
 {!<div style="flex:1; min-width:0;">!}
   {!<div class="election-table">!}
-    {!<div class="el-row el-head"><div class="el-col el-col-party">Choice & Supporting Parties</div><div class="el-col el-col-seats"></div><div class="el-col el-col-vote">Vote %</div></div>!}
+    {!<div class="el-row el-head"><div class="el-col el-col-party">Choice / Supporting Parties</div><div class="el-col el-col-seats"></div><div class="el-col el-col-vote">Vote %</div></div>!}
 
     {!<div class="el-row el-subhead"><div class="el-col el-col-party"><div class="el-swatch" style="background-color: #006400;"></div> Yes</div><div class="el-col el-col-seats"></div><div class="el-col el-col-vote">54.66%</div></div>!}
     {!<div class="el-row"><div class="el-col el-col-party el-indent">!} UNP, CWC {!</div><div class="el-col el-col-seats">!} - {!</div><div class="el-col el-col-vote">!} - {!</div></div>!}
@@ -888,7 +1009,19 @@ on-arrival: {!
     
 !}
 
-= 1988 Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1988 Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 55.32%
 
@@ -968,7 +1101,7 @@ on-arrival: {!
 - @selection: Back to selection menu...
 - @return: Leave...
 - @1989: Next chronological election...
-- @1993: Next presidential election...
+- @1994_President: Next presidential election...
 
 @1989
 new-page: true
@@ -1007,7 +1140,19 @@ on-display: {!
 })();
 !}
 
-= 1989 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1989 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 63.6%
 
@@ -1137,7 +1282,19 @@ on-display: {!
 @1993
 new-page: true
 
-= 1993 Indirect Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1993 Indirect Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Elected without a vote in parliament dew to running uncontested.**
 
@@ -1191,7 +1348,19 @@ on-display: {!
 })();
 !}
 
-= 1994 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1994 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 76.24%
 
@@ -1359,7 +1528,19 @@ on-arrival: {!
     Q.pres_result_5_endorsers = "JVP";
 !}
 
-= 1994 Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1994 Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 70.47%
 
@@ -1516,7 +1697,19 @@ on-arrival: {!
 
 !}
 
-= 1999 Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 1999 Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 73.31%
 
@@ -1648,7 +1841,19 @@ on-display: {!
 })();
 !}
 
-= 2000 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2000 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 75.63%
 
@@ -1830,7 +2035,19 @@ on-display: {!
 })();
 !}
 
-= 2001 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2001 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 76.03%
 
@@ -2012,7 +2229,19 @@ on-display: {!
 })();
 !}
 
-= 2004 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2004 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 75.96%
 
@@ -2227,7 +2456,19 @@ on-arrival: {!
     Q.pres_result_12_endorsers = "None";
 !}
 
-= 2005 Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2005 Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 73.73%
 
@@ -2434,7 +2675,19 @@ on-arrival: {!
    
 !}
 
-= 2010 Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2010 Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 74.50%
 
@@ -2569,7 +2822,19 @@ on-display: {!
 })();
 !}
 
-= 2010 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2010 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 61.26%
 
@@ -2835,7 +3100,19 @@ on-arrival: {!
 
 !}
 
-= 2015 Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2015 Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 81.52%
 
@@ -2969,7 +3246,19 @@ on-display: {!
 })();
 !}
 
-= 2015 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2015 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 77.66%
 
@@ -3312,7 +3601,19 @@ on-arrival: {!
 
 !}
 
-= 2019 Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2019 Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 83.72%
 
@@ -3471,7 +3772,19 @@ on-display: {!
 })();
 !}
 
-= 2020 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2020 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 75.89%
 
@@ -3681,7 +3994,19 @@ on-display: {!
 })();
 !}
 
-= 2022 Indirect Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2022 Indirect Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 99.11%
 
@@ -3689,15 +4014,16 @@ on-display: {!
 
 {!<svg id="status_parliament" style="width: 100%; height: 700px; display: block; margin: 0 auto;"></svg>!}
 
-{!<div class="election-table">!}
-  {!<div class="el-row el-head"><div class="el-col el-col-cand">Candidate</div><div class="el-col el-col-pparty">Party</div><div class="el-col el-col-pvote">Votes</div><div class="el-col el-col-psupp">Supporting Parties</div></div>!}
+{!<table>!}
+{!<tr><th>Candidate</th><th>Party</th><th>Votes</th><th>Supporting Parties</th></tr>!}
 
-  {!<div class="el-row"><div class="el-col el-col-cand">!} Ranil Wickremasinghe {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: #006400;"></div><strong>!} UNP {!</strong></div><div class="el-col el-col-pvote">!} 134 {!</div><div class="el-col el-col-psupp">!} UNP {!</div></div>!}
-  {!<div class="el-row"><div class="el-col el-col-cand">!} Dullas Alahapperuma {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: #800020;"></div><strong>!} SLPP {!</strong></div><div class="el-col el-col-pvote">!} 82 {!</div><div class="el-col el-col-psupp">!} SLPP minority faction, SJB, SLFP, TNA, ACMC, SLMC, Tamil Progressive Alliance {!</div></div>!}
-  {!<div class="el-row"><div class="el-col el-col-cand">!} Anura Kumara Dissanayake {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: #9F005D;"></div><strong>!} NPP {!</strong></div><div class="el-col el-col-pvote">!} 3 {!</div><div class="el-col el-col-psupp">!} NPP,JVP {!</div></div>!}
-  {!<div class="el-row"><div class="el-col el-col-cand">!} None/Vacant/Invalid {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: #dfdfdf;"></div><strong>!} None {!</strong></div><div class="el-col el-col-pvote">!} 6 {!</div><div class="el-col el-col-psupp">!}{!</div></div>!}
+{!<tr><td>!}Ranil Wickremasinghe{!</td><td><span style="color:!}#006400{!;">!}UNP{!</span></td><th>134</th><td>!}UNP, SLPP majority faction{!</td></tr>!} 
+{!<tr><td>!}Dullas Alahapperuma{!</td><td><span style="color:!}#800020{!;">!}SLPP{!</span></td><th>82</th><td>!}SLPP minority faction, SJB, SLFP, TNA, ACMC, SLMC, Tamil Progressive Alliance{!</td></tr>!} 
+{!<tr><td>!}Anura Kumara Dissanayake{!</td><td><span style="color:!}#9F005D{!;">!}NPP{!</span></td><th>3</th><td>!}NPP, JVP{!</td></tr>!}
 
-{!</div>!}
+{!<tr><td>!}None/Vacant/Invalid{!</td><td><span style="color:!}#dfdfdf{!;">!}None{!</span></td><th>6</th><td>!}{!</td></tr>!} 
+
+{!</table>!}
 
 - @selection: Back to selection menu...
 - @return: Leave...
@@ -3718,7 +4044,7 @@ on-arrival: {!
     Q.pres_result_1_color = '#019f01';
     Q.pres_result_1_endorsers = "SJB, ACMC, ITAK, SLFP faction, SLMC, UPFA, UCPF, Tamil Progressive Alliance, Freedom Peoples Congress, United Republican Front";
     Q.pres_result_2_candidate = "Ranil Wickremasinghe";
-    Q.pres_result_2_party = "Independent/UNP";
+    Q.pres_result_2_party = "UNP / Independent";
     Q.pres_result_2_votes = 17.27;
     Q.pres_result_2_color = '#006400';
     Q.pres_result_2_endorsers = "UNP, SLPP rebel's, CWC, SLFP faction, EPDP, MEP, TMVP, New Lanka Freedom Party";
@@ -3934,7 +4260,19 @@ on-arrival: {!
 
 !}
 
-= 2024 Sri Lankan Presidential Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2024 Sri Lankan Presidential Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 79.46%
 
@@ -4113,7 +4451,19 @@ on-display: {!
 })();
 !}
 
-= 2024 Sri Lankan Parliamentary Election Results
+{!<div style="position: relative; text-align: center; margin-bottom: 2em; min-height: 60px; display: flex; align-items: center; justify-content: center;">!}
+  
+  {!<div style="position: absolute; left: 0; display: flex; gap: 10px; align-items: center;">!}
+    {!<img src="img/Sri_Lanka.webp" style="height: 75px; border: 1px solid var(--border-color);">!}
+  {!</div>!}
+  
+  {!<h1 style="margin: 0; font-size: 1.6em; text-transform: uppercase;">!} 2024 Sri Lankan Parliamentary Election Results {!</h1>!}
+  
+  {!<div style="position: absolute; right: 0; display: flex; align-items: center;">!}
+    {!<img src="img/Sri_Lanka_Embelmn.svg" style="height: 90px; object-fit: contain;">!}
+  {!</div>!}
+
+{!</div>!}
 
 **Voter Turnout:** 68.93%
 
