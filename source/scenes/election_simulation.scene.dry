@@ -4041,11 +4041,13 @@ on-arrival: {!
     Q.pres_result_1_votes = 32.76;
     Q.pres_result_1_color = '#019f01';
     Q.pres_result_1_endorsers = "SJB, ACMC, ITAK, SLFP faction, SLMC, UPFA, UCPF, Tamil Progressive Alliance, Freedom Peoples Congress, United Republican Front";
+    
     Q.pres_result_2_candidate = "Ranil Wickremasinghe";
     Q.pres_result_2_party = "UNP / Independent";
     Q.pres_result_2_votes = 17.27;
     Q.pres_result_2_color = '#006400';
     Q.pres_result_2_endorsers = "UNP, SLPP rebel's, CWC, SLFP faction, EPDP, MEP, TMVP, New Lanka Freedom Party";
+
     Q.pres_result_3_candidate = "Namal Rajapakse";
     Q.pres_result_3_party = "SLPP";
     Q.pres_result_3_votes = 2.57;
