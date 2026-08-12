@@ -968,12 +968,12 @@ new-page: true
 
 {!<div style="flex:1; min-width:0;">!}
   {!<div class="election-table">!}
-    {!<div class="el-row el-head"><div class="el-col el-col-party">Choice / Supporting Parties</div><div class="el-col el-col-seats"></div><div class="el-col el-col-vote">Vote %</div></div>!}
+    {!<div class="el-row el-head"><div class="el-col el-col-party">Choice / Supporting Parties</div><div class="el-col el-col-vote">Vote %</div></div>!}
 
-    {!<div class="el-row el-subhead"><div class="el-col el-col-party"><div class="el-swatch" style="background-color: #006400;"></div> Yes</div><div class="el-col el-col-seats"></div><div class="el-col el-col-vote">54.66%</div></div>!}
+    {!<div class="el-row el-subhead"><div class="el-col el-col-party"><div class="el-swatch" style="background-color: #006400;"></div> Yes</div><div class="el-col el-col-vote">54.66%</div></div>!}
     {!<div class="el-row"><div class="el-col el-col-party el-indent">!} UNP, CWC {!</div><div class="el-col el-col-seats">!} - {!</div><div class="el-col el-col-vote">!} - {!</div></div>!}
 
-    {!<div class="el-row el-subhead"><div class="el-col el-col-party"><div class="el-swatch" style="background-color: #fd0101;"></div> No</div><div class="el-col el-col-seats"></div><div class="el-col el-col-vote">45.34%</div></div>!}
+    {!<div class="el-row el-subhead"><div class="el-col el-col-party"><div class="el-swatch" style="background-color: #fd0101;"></div> No</div><div class="el-col el-col-vote">45.34%</div></div>!}
     {!<div class="el-row"><div class="el-col el-col-party el-indent">!} SLFP, TULF, JVP, LSSP, CPSL, NSSP, ACTC {!</div><div class="el-col el-col-seats">!} - {!</div><div class="el-col el-col-vote">!} - {!</div></div>!}
   {!</div>!}
 {!</div>!}
