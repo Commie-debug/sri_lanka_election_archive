@@ -4386,7 +4386,7 @@ on-arrival: {!
 {!</div>!}
 
 {!</div>!}
-{!<div style="flex:1; min-width:0;">!}
+{!<div style="flex:1; min-width: max-content; white-space: nowrap;">!}
 
 **Second Round:**
 
