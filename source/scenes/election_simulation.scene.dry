@@ -4391,9 +4391,9 @@ on-arrival: {!
 **Second Round:**
 
 {!<div class="election-table">!}
-  {!<div class="el-row el-head"><div class="el-col el-col-cand">Candidate</div><div class="el-col el-col-pparty">Party</div><div class="el-col el-col-pvote">Vote %</div><div class="el-col el-col-psupp">Supporting Parties</div></div>!}
-  {!<div class="el-row"><div class="el-col el-col-cand">!} Anura Kumara Dissanayake {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: !}#9F005D{!;"></div><strong>!}NPP{!</strong></div><div class="el-col el-col-pvote">!} 55.89% {!</div><div class="el-col el-col-psupp">!}{!</div></div>!}
-  {!<div class="el-row"><div class="el-col el-col-cand">!} Sajith Premadasa {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: !}#019f01{!;"></div><strong>!}SJB{!</strong></div><div class="el-col el-col-pvote">!} 44.11% {!</div><div class="el-col el-col-psupp">!}{!</div></div>!}
+  {!<div class="el-row el-head"><div class="el-col el-col-cand">Candidate</div><div class="el-col el-col-pparty">Party</div><div class="el-col el-col-pvote">Vote %</div></div>!}
+  {!<div class="el-row"><div class="el-col el-col-cand">!} Anura Kumara Dissanayake {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: !}#9F005D{!;"></div><strong>!}NPP{!</strong></div><div class="el-col el-col-pvote">!} 55.89% {!</div></div>!}
+  {!<div class="el-row"><div class="el-col el-col-cand">!} Sajith Premadasa {!</div><div class="el-col el-col-pparty"><div class="el-swatch" style="background-color: !}#019f01{!;"></div><strong>!}SJB{!</strong></div><div class="el-col el-col-pvote">!} 44.11% {!</div></div>!}
 {!</div>!}
 
 {!</div>!}
