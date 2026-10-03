@@ -273,6 +273,10 @@ const tooltipList = [{
     explanationText: "<img src=img/logos/governer_general_Logo.png> Appointed by the Governor-General"
     },
     {
+    searchString: "NDF",
+    explanationText: "<img src=img/logos/NDF_Logo.png> New Democratic Front"
+    },
+    {
     searchString: "DTNA",
     explanationText: "<img src=img/logos/DTNA_Logo.png> Democratic Tamil National Alliance"
     },
@@ -327,10 +331,6 @@ const tooltipList = [{
     {
     searchString: "DNA",
     explanationText: "<img src=img/logos/DNA_Logo.png> Democratic National Alliance"
-    },
-    {
-    searchString: "NDF",
-    explanationText: "<img src=img/logos/NDF_Logo.png> New Democratic Front"
     },
     {
     searchString: "JHU",
