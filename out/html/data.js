@@ -274,7 +274,7 @@ const tooltipList = [{
     },
     {
     searchString: "NDF",
-    explanationText: "<img src=img/logos/NDF_Logo.png> New Democratic Front"
+    explanationText: "<img src=img/logos/NDF_1_Logo.png> New Democratic Front"
     },
     {
     searchString: "DTNA",
