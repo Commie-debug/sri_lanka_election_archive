@@ -208,7 +208,12 @@ USA: Custom made, includes the USA election symbol, the clay lamp.
 
 = Flags/Emblemns
 
-<span class="mytooltiptext" style="font-weight: bold; "><img src="img/British_Ceylon.webp"/>British Ceylon flag: </span> https://en.wikipedia.org/wiki/British_Ceylon#/media/File:Flag_of_Ceylon_(1875–1948).svg
+<span class="mytooltip no-highlight" style="cursor: help;">
+    British Ceylon flag: https://en.wikipedia.org/wiki/British_Ceylon#/media/File:Flag_of_Ceylon_(1875–1948).svg
+    <span class="mytooltiptext" style="font-weight: bold; "><img src="img/British_Ceylon.webp"/>British Ceylon flag: </span> 
+</span>
+
+
 
 British Ceylon emblemn.svg: https://en.wikipedia.org/wiki/Emblem_of_Sri_Lanka#/media/File:Badge_of_Ceylon_(1875–1948).svg
 
