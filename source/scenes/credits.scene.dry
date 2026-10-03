@@ -209,23 +209,39 @@ USA: Custom made, includes the USA election symbol, the clay lamp.
 = Flags/Emblemns
 
 <span class="mytooltip no-highlight" style="cursor: help;">
-    British Ceylon flag: https://en.wikipedia.org/wiki/British_Ceylon#/media/File:Flag_of_Ceylon_(1875–1948).svg
-    <span class="mytooltiptext" style="font-weight: bold; "><img src="img/British_Ceylon.webp"/>British Ceylon flag: </span> 
-</span>
+    British Ceylon flag:
+    <span class="mytooltiptext" style="font-weight: bold; "><img src="img/British_Ceylon.webp"/></span> 
+</span> https://en.wikipedia.org/wiki/British_Ceylon#/media/File:Flag_of_Ceylon_(1875–1948).svg
 
+<span class="mytooltip no-highlight" style="cursor: help;">
+    British Ceylon emblemn:
+    <span class="mytooltiptext" style="font-weight: bold; "><img src="img/Brit_Ceylon_Emblemn.svg"/></span> 
+</span> https://en.wikipedia.org/wiki/Emblem_of_Sri_Lanka#/media/File:Badge_of_Ceylon_(1875–1948).svg
 
+<span class="mytooltip no-highlight" style="cursor: help;">
+    Dominion of Ceylon first flag:
+    <span class="mytooltiptext" style="font-weight: bold; "><img src="img/Ceylon_1.webp"/></span> 
+</span> https://en.wikipedia.org/wiki/Dominion_of_Ceylon#/media/File:Flag_of_Ceylon_(1948–1951).svg
 
-British Ceylon emblemn.svg: https://en.wikipedia.org/wiki/Emblem_of_Sri_Lanka#/media/File:Badge_of_Ceylon_(1875–1948).svg
+<span class="mytooltip no-highlight" style="cursor: help;">
+    Dominion of Ceylon second flag: 
+    <span class="mytooltiptext" style="font-weight: bold; "><img src="img/Ceylon_2.webp"/></span> 
+</span> https://en.wikipedia.org/wiki/Dominion_of_Ceylon#/media/File:Flag_of_Ceylon_(1951–1972).svg
 
-Dominion of Ceylon first flag: https://en.wikipedia.org/wiki/Dominion_of_Ceylon#/media/File:Flag_of_Ceylon_(1948–1951).svg
+<span class="mytooltip no-highlight" style="cursor: help;">
+    Dominion of Ceylon emblemn:
+    <span class="mytooltiptext" style="font-weight: bold; "><img src="img/Ceylon_Emblemn.svg"/></span> 
+</span> https://en.wikipedia.org/wiki/Dominion_of_Ceylon#/media/File:Coat_of_arms_of_Ceylon_(1952–1972).svg
 
-Dominion of Ceylon second flag: https://en.wikipedia.org/wiki/Dominion_of_Ceylon#/media/File:Flag_of_Ceylon_(1951–1972).svg
+<span class="mytooltip no-highlight" style="cursor: help;">
+    Sri Lanka flag:
+    <span class="mytooltiptext" style="font-weight: bold; "><img src="img/Sri_Lanka.webp"/></span> 
+</span> https://en.wikipedia.org/wiki/Sri_Lanka#/media/File:Flag_of_Sri_Lanka.svg
 
-Dominion of Ceylon emblemn: https://en.wikipedia.org/wiki/Dominion_of_Ceylon#/media/File:Coat_of_arms_of_Ceylon_(1952–1972).svg
-
-Sri Lanka flag: https://en.wikipedia.org/wiki/Sri_Lanka#/media/File:Flag_of_Sri_Lanka.svg
-
-Sri Lanka emblemn: https://en.wikipedia.org/wiki/Sri_Lanka#/media/File:Emblem_of_Sri_Lanka.svg
+<span class="mytooltip no-highlight" style="cursor: help;">
+    Sri Lanka emblemn: 
+    <span class="mytooltiptext" style="font-weight: bold; "><img src="img/Sri_Lanka_Embelmn.svg"/></span> 
+</span> https://en.wikipedia.org/wiki/Sri_Lanka#/media/File:Emblem_of_Sri_Lanka.svg
 
 - @articles: Sources
 - @others: Others
