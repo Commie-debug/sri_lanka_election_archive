@@ -455,17 +455,7 @@ document.addEventListener('mouseover', e => {
     }
 });
 
-document.addEventListener('click', function(e) {
-    var choiceLink = e.target.closest('ul.choices li');
-    if (choiceLink) {
-        console.log('choice clicked!');
-        AudioManager.playOneShot('music/sfx/button_click.mp3', 'sfx');
-    }
-},true);
 
-window.addEventListener('dendryload', function() {
-    window.updateMusicBtn();
-});
 
 
 
