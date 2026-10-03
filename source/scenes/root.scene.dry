@@ -2,9 +2,7 @@ title: Root Scene
 new-page: true
 set-bg: img/library.jpg
 go-to: post_event if started = 1; start_menu_2 if started = 0
-on-display: {!
-window.AudioManager.enableLayer('outside')
-!}
+
 
 @start_menu_2
 new-page: true
@@ -16,8 +14,5 @@ new-page: true
 - @enter: Enter...
 
 @enter
-go-to:start_menu
-on-departure:{!
-window.AudioManager.disableLayer('outside');
-window.AudioManager.enableLayer('inside');
-!}
+go-to: start_menu
+
