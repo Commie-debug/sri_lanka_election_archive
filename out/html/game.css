@@ -1244,7 +1244,6 @@ table {
 }
 
 /* parl/pres election table */
-/* parl/pres election table */
 .election-table {
   border: 1px solid var(--border-color);
   background: var(--content-bg-color);
@@ -1316,3 +1315,75 @@ body.dark-mode .el-subhead { background: rgba(0,0,0,0.4); }
   flex-shrink: 0;
 }
 .el-indent { padding-left: 28px !important; }
+
+/* parl/pres election table (no supporting parties) */
+.election-table-2 {
+  border: 1px solid var(--border-color);
+  background: var(--content-bg-color);
+  display: flex;
+  flex-direction: column;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.election-table-2 > p { display: none !important; }
+
+.election-table-2 .el-row {
+  display: flex;
+  border-bottom: 1px dotted #888;
+  align-items: stretch; 
+}
+.election-table-2 .el-row:last-child { border-bottom: none; }
+
+.election-table-2 .el-head {
+  background: rgba(0,0,0,0.06);
+  border-bottom: 1px solid var(--border-color);
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.85em;
+}
+body.dark-mode .election-table-2 .el-head { background: rgba(255,255,255,0.06); }
+
+.election-table-2 .el-row.el-subhead {
+  background: transparent;
+  border-bottom: 1px dotted #888;
+}
+.election-table-2 .el-row.el-subhead .el-col-2 {
+  font-weight: bold;
+  font-size: 0.95em;
+}
+body.dark-mode .election-table-2 .el-row.el-subhead { 
+  background: transparent; 
+}
+body.dark-mode .election-table-2 .el-subhead { background: rgba(0,0,0,0.4); }
+
+.election-table-2 .el-col-2 {
+  padding: 8px 10px;
+  box-sizing: border-box;
+  border-right: 1px dotted #888;
+  display: block !important; 
+  word-break: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+.election-table-2 .el-col-2:last-child { border-right: none; }
+
+.el-col-party-2 { flex: 0 0 50%; max-width: 50%; }
+.el-col-seats-2 { flex: 0 0 20%; max-width: 20%; text-align: center; }
+.el-col-vote-2  { flex: 0 0 30%; max-width: 30%; text-align: right; font-family: monospace; font-size: 1.1em;}
+
+.el-col-cand-2   { flex: 0 0 50%; max-width: 50%; }
+.el-col-pparty-2 { flex: 0 0 25%; max-width: 25%; }
+.el-col-pvote-2  { flex: 0 0 25%; max-width: 25%; text-align: right; font-family: monospace; font-size: 1.1em; font-weight: bold;}
+
+.election-table-2 .el-swatch {
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  margin-right: 8px;
+  vertical-align: middle;
+  border: 1px solid var(--border-color);
+  flex-shrink: 0;
+}
+.election-table-2 .el-indent { padding-left: 28px !important; }
